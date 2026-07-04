@@ -1,17 +1,19 @@
-import { useEffect, useMemo, useRef, useState } from "preact/hooks";
+import { useMemo, useRef, useState } from "preact/hooks";
 import type { Mode, Question } from "./types";
 import { Store } from "./store";
 import { availableYears, buildPool, shuffle, type Filters } from "./quiz";
 import { Controls } from "./components/Controls";
 import { QuestionItem } from "./components/QuestionItem";
 import { Scoreboard } from "./components/Scoreboard";
+import questionsData from "./questions.data.json";
+
+// Los datos van INCRUSTADOS en el bundle (import, no fetch): la app es un único
+// index.html autocontenido, sin depender de servir /assets/ ni un questions.json aparte.
+const QUESTIONS = questionsData as unknown as Question[];
 
 const ALL_SECTIONS = new Set(["general", "ingles", "reserva"] as const);
 
 export function App() {
-  const [questions, setQuestions] = useState<Question[] | null>(null);
-  const [loadError, setLoadError] = useState(false);
-
   const storeRef = useRef<Store | null>(null);
   if (!storeRef.current) storeRef.current = new Store();
   const store = storeRef.current;
@@ -26,23 +28,11 @@ export function App() {
   const [orderKey, setOrderKey] = useState(0);
   const [sort, setSort] = useState<"recent" | "random">("recent");
 
-  useEffect(() => {
-    fetch(`${import.meta.env.BASE_URL}questions.json`)
-      .then((r) => r.json())
-      .then((d: Question[]) => setQuestions(d))
-      .catch(() => setLoadError(true));
-  }, []);
-
-  const years = useMemo(() => (questions ? availableYears(questions) : []), [questions]);
+  const years = useMemo(() => availableYears(QUESTIONS), []);
   const agg = useMemo(() => store.aggregate(), [store, statVersion]);
 
-  // Pool base (sección + año), estable frente a respuestas
-  const basePool = useMemo(
-    () => (questions ? buildPool(questions, filters) : []),
-    [questions, filters]
-  );
+  const basePool = useMemo(() => buildPool(QUESTIONS, filters), [filters]);
 
-  // En 'falladas' se restringe a las preguntas cuyo último intento fue fallo
   const pool = useMemo(() => {
     if (mode !== "falladas") return basePool;
     const failed = new Set(store.aggregate().failedIds);
@@ -50,16 +40,14 @@ export function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [basePool, mode, statVersion]);
 
-  // Orden elegido por el usuario. "recent" = tal cual viene del banco (fecha desc,
-  // desempate por id → determinista). "random" = barajado (rebarajable con "Barajar").
   const orderedPool = useMemo(() => {
     if (sort === "random") return shuffle(pool);
     return pool;
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [pool, sort, orderKey]);
 
-  function onResult(_id: string, correct: boolean) {
-    store.record(_id, correct ? "correct" : "wrong");
+  function onResult(id: string, correct: boolean) {
+    store.record(id, correct ? "correct" : "wrong");
     setStreak((s) => (correct ? s + 1 : 0));
     setStatVersion((v) => v + 1);
   }
@@ -88,18 +76,16 @@ export function App() {
         <Scoreboard agg={agg} streak={streak} onReset={resetProgress} />
       </header>
 
-      {questions && (
-        <Controls
-          mode={mode}
-          setMode={setMode}
-          filters={filters}
-          setFilters={setFilters}
-          years={years}
-          poolCount={orderedPool.length}
-        />
-      )}
+      <Controls
+        mode={mode}
+        setMode={setMode}
+        filters={filters}
+        setFilters={setFilters}
+        years={years}
+        poolCount={orderedPool.length}
+      />
 
-      {questions && orderedPool.length > 0 && (
+      {orderedPool.length > 0 && (
         <div class="toolbar">
           <label class="years">
             <span class="years__label">Orden</span>
@@ -121,12 +107,7 @@ export function App() {
       )}
 
       <main class="stage">
-        {loadError && (
-          <p class="notice">No se pudieron cargar las preguntas. Recarga la página.</p>
-        )}
-        {!loadError && !questions && <p class="notice">Cargando preguntas…</p>}
-
-        {questions && orderedPool.length === 0 && (
+        {orderedPool.length === 0 && (
           <div class="empty">
             {mode === "falladas" ? (
               <p>
@@ -139,7 +120,7 @@ export function App() {
           </div>
         )}
 
-        {questions && orderedPool.length > 0 && (
+        {orderedPool.length > 0 && (
           <div class="list" key={filterKey}>
             {orderedPool.map((q, i) => (
               <QuestionItem key={q.id} question={q} mode={mode} index={i} onResult={onResult} />
@@ -149,9 +130,7 @@ export function App() {
       </main>
 
       <footer class="foot">
-        <span>
-          {questions?.length ?? 0} preguntas de convocatorias reales · datos públicos y abiertos
-        </span>
+        <span>{QUESTIONS.length} preguntas de convocatorias reales · datos públicos y abiertos</span>
         <a
           href="https://github.com/maximetinu/examenes-taxi-granada"
           target="_blank"
