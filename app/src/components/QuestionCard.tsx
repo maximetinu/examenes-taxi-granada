@@ -32,6 +32,14 @@ export function QuestionCard({
         <span class="card__meta-left">
           {index != null && <span class="card__num">{index + 1}</span>}
           <span class="tag">{SECTION_LABEL[question.section]}</span>
+          {question.dates.length > 1 && (
+            <span
+              class="repeat"
+              title={`Ha caído ${question.dates.length} veces: ${question.dates.join(", ")}`}
+            >
+              ↻ {question.dates.length}×
+            </span>
+          )}
         </span>
         <span class="card__src" title={question.dates.join(" · ")}>
           {ys.length > 1 ? `Convocatorias ${ys.join(" · ")}` : `Convocatoria ${question.dates[0]}`}
