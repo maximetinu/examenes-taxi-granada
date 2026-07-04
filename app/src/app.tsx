@@ -24,6 +24,7 @@ export function App() {
   const [streak, setStreak] = useState(0);
   const [statVersion, setStatVersion] = useState(0);
   const [orderKey, setOrderKey] = useState(0);
+  const [sort, setSort] = useState<"recent" | "random">("recent");
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}questions.json`)
@@ -49,12 +50,13 @@ export function App() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [basePool, mode, statVersion]);
 
-  // Orden: estudio en orden cronológico; examen/falladas barajado (estable hasta "Barajar")
+  // Orden elegido por el usuario. "recent" = tal cual viene del banco (fecha desc,
+  // desempate por id → determinista). "random" = barajado (rebarajable con "Barajar").
   const orderedPool = useMemo(() => {
-    if (mode === "estudio") return pool;
-    return shuffle(pool);
+    if (sort === "random") return shuffle(pool);
+    return pool;
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [pool, mode, orderKey]);
+  }, [pool, sort, orderKey]);
 
   function onResult(_id: string, correct: boolean) {
     store.record(_id, correct ? "correct" : "wrong");
@@ -97,12 +99,24 @@ export function App() {
         />
       )}
 
-      {questions && orderedPool.length > 0 && mode !== "estudio" && (
+      {questions && orderedPool.length > 0 && (
         <div class="toolbar">
-          <span class="toolbar__hint">Responde cada pregunta; se corrige al instante.</span>
-          <button class="btn btn--ghost btn--small" onClick={() => setOrderKey((k) => k + 1)}>
-            ⇄ Barajar
-          </button>
+          <label class="years">
+            <span class="years__label">Orden</span>
+            <select
+              class="years__select"
+              value={sort}
+              onChange={(e) => setSort((e.target as HTMLSelectElement).value as "recent" | "random")}
+            >
+              <option value="recent">Recientes primero</option>
+              <option value="random">Aleatorio</option>
+            </select>
+          </label>
+          {sort === "random" && (
+            <button class="btn btn--ghost btn--small" onClick={() => setOrderKey((k) => k + 1)}>
+              ⇄ Barajar
+            </button>
+          )}
         </div>
       )}
 
