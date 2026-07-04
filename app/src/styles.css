@@ -270,54 +270,22 @@ body {
   margin: 0 auto;
 }
 
-/* ---------- Luz de techo (firma) ---------- */
-.roof {
-  align-self: center;
-  display: inline-flex;
+/* ---------- Lista de preguntas ---------- */
+.toolbar {
+  display: flex;
   align-items: center;
+  justify-content: space-between;
   gap: 10px;
-  padding: 6px 18px;
-  border-radius: 8px;
-  border: 1px solid var(--line);
-  background: var(--panel-2);
-  font-family: var(--font-mono);
-  letter-spacing: 0.32em;
+  margin-top: -2px;
+}
+.toolbar__hint {
   font-size: 0.78rem;
   color: var(--muted);
-  transition: all 0.28s ease;
 }
-.roof__dot {
-  width: 7px;
-  height: 7px;
-  border-radius: 50%;
-  background: currentColor;
-  opacity: 0.5;
-}
-.roof--idle {
-  opacity: 0.55;
-}
-.roof--study {
-  color: var(--amber);
-  border-color: var(--amber);
-  background: var(--amber-soft);
-}
-.roof--correct {
-  color: var(--libre);
-  border-color: var(--libre);
-  background: var(--libre-soft);
-  box-shadow: 0 0 26px -4px var(--libre-soft);
-}
-.roof--wrong {
-  color: var(--ocupado);
-  border-color: var(--ocupado);
-  background: var(--ocupado-soft);
-  box-shadow: 0 0 26px -4px var(--ocupado-soft);
-}
-.roof--correct .roof__dot,
-.roof--wrong .roof__dot,
-.roof--study .roof__dot {
-  opacity: 1;
-  box-shadow: 0 0 10px currentColor;
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
 }
 
 /* ---------- Tarjeta de pregunta ---------- */
@@ -327,6 +295,58 @@ body {
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   padding: 20px 18px;
+  /* El navegador se salta el render de las tarjetas fuera de pantalla */
+  content-visibility: auto;
+  contain-intrinsic-size: auto 280px;
+}
+.card--ok {
+  border-color: color-mix(in srgb, var(--libre) 55%, var(--line));
+}
+.card--no {
+  border-color: color-mix(in srgb, var(--ocupado) 55%, var(--line));
+}
+.card__meta-left {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+}
+.card__num {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--muted);
+  min-width: 1.4em;
+}
+
+/* Indicador compacto de resultado (la firma, por tarjeta) */
+.cardroof {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+  padding: 4px 12px;
+  border-radius: 7px;
+  border: 1px solid currentColor;
+  font-family: var(--font-mono);
+  letter-spacing: 0.16em;
+  font-size: 0.66rem;
+  text-transform: uppercase;
+}
+.cardroof--ok {
+  color: var(--libre);
+  background: var(--libre-soft);
+  box-shadow: 0 0 20px -6px var(--libre-soft);
+}
+.cardroof--no {
+  color: var(--ocupado);
+  background: var(--ocupado-soft);
+  box-shadow: 0 0 20px -6px var(--ocupado-soft);
+}
+.roof__dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: currentColor;
+  box-shadow: 0 0 8px currentColor;
 }
 .card__meta {
   display: flex;
@@ -510,6 +530,10 @@ body {
 .btn--ghost:disabled {
   opacity: 0.35;
   cursor: not-allowed;
+}
+.btn--small {
+  padding: 7px 14px;
+  font-size: 0.82rem;
 }
 
 /* ---------- Pie ---------- */

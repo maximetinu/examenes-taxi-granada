@@ -1,11 +1,10 @@
 import { useEffect, useMemo, useRef, useState } from "preact/hooks";
-import type { Mode, Option, OptionKey, Question } from "./types";
+import type { Mode, Question } from "./types";
 import { Store } from "./store";
-import { availableYears, buildPool, pickRandom, shuffledOptions, type Filters } from "./quiz";
+import { availableYears, buildPool, shuffle, type Filters } from "./quiz";
 import { Controls } from "./components/Controls";
-import { QuestionCard } from "./components/QuestionCard";
+import { QuestionItem } from "./components/QuestionItem";
 import { Scoreboard } from "./components/Scoreboard";
-import { RoofLight, type RoofState } from "./components/RoofLight";
 
 const ALL_SECTIONS = new Set(["general", "ingles", "reserva"] as const);
 
@@ -22,16 +21,10 @@ export function App() {
     sections: new Set(ALL_SECTIONS),
     year: "recent",
   });
-
-  const [current, setCurrent] = useState<Question | null>(null);
-  const [options, setOptions] = useState<Option[]>([]);
-  const [chosen, setChosen] = useState<OptionKey | null>(null);
-  const [revealed, setRevealed] = useState(false);
   const [streak, setStreak] = useState(0);
-  const [studyIndex, setStudyIndex] = useState(0);
   const [statVersion, setStatVersion] = useState(0);
+  const [orderKey, setOrderKey] = useState(0);
 
-  // Carga del banco de preguntas
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}questions.json`)
       .then((r) => r.json())
@@ -42,51 +35,31 @@ export function App() {
   const years = useMemo(() => (questions ? availableYears(questions) : []), [questions]);
   const agg = useMemo(() => store.aggregate(), [store, statVersion]);
 
-  // Pool actual según modo/filtros (para 'falladas' lee las falladas en vivo)
-  function currentPool(): Question[] {
-    if (!questions) return [];
-    const failed = mode === "falladas" ? new Set<string>(store.aggregate().failedIds) : undefined;
-    return buildPool(questions, filters, failed);
-  }
-  const pool = useMemo(currentPool, [questions, filters, mode, statVersion]);
+  // Pool base (sección + año), estable frente a respuestas
+  const basePool = useMemo(
+    () => (questions ? buildPool(questions, filters) : []),
+    [questions, filters]
+  );
 
-  function showQuiz(q: Question | null) {
-    setCurrent(q);
-    setOptions(q ? shuffledOptions(q) : []);
-    setChosen(null);
-    setRevealed(false);
-  }
-
-  function showStudy(pIndex: number, p = currentPool()) {
-    const q = p[pIndex] ?? null;
-    setStudyIndex(pIndex);
-    setCurrent(q);
-    setOptions(q ? q.options : []);
-    setChosen(null);
-    setRevealed(true);
-  }
-
-  // (Re)inicia el flujo al cambiar modo/filtros o al cargar los datos
-  useEffect(() => {
-    if (!questions) return;
-    const p = currentPool();
-    if (mode === "estudio") showStudy(0, p);
-    else showQuiz(pickRandom(p));
+  // En 'falladas' se restringe a las preguntas cuyo último intento fue fallo
+  const pool = useMemo(() => {
+    if (mode !== "falladas") return basePool;
+    const failed = new Set(store.aggregate().failedIds);
+    return basePool.filter((q) => failed.has(q.id));
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [questions, mode, filters]);
+  }, [basePool, mode, statVersion]);
 
-  function choose(key: OptionKey) {
-    if (!current || revealed || mode === "estudio") return;
-    const ok = key === current.correctOption;
-    store.record(current.id, ok ? "correct" : "wrong");
-    setChosen(key);
-    setRevealed(true);
-    setStreak((s) => (ok ? s + 1 : 0));
+  // Orden: estudio en orden cronológico; examen/falladas barajado (estable hasta "Barajar")
+  const orderedPool = useMemo(() => {
+    if (mode === "estudio") return pool;
+    return shuffle(pool);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pool, mode, orderKey]);
+
+  function onResult(_id: string, correct: boolean) {
+    store.record(_id, correct ? "correct" : "wrong");
+    setStreak((s) => (correct ? s + 1 : 0));
     setStatVersion((v) => v + 1);
-  }
-
-  function next() {
-    showQuiz(pickRandom(currentPool(), current?.id));
   }
 
   function resetProgress() {
@@ -96,8 +69,7 @@ export function App() {
     setStatVersion((v) => v + 1);
   }
 
-  const roof: RoofState =
-    mode === "estudio" ? "study" : revealed ? (chosen === current?.correctOption ? "correct" : "wrong") : "idle";
+  const filterKey = `${[...filters.sections].sort().join(",")}-${filters.year}-${mode}`;
 
   return (
     <div class="shell">
@@ -121,20 +93,26 @@ export function App() {
           filters={filters}
           setFilters={setFilters}
           years={years}
-          poolCount={pool.length}
+          poolCount={orderedPool.length}
         />
       )}
 
-      <main class="stage">
-        <RoofLight state={roof} />
+      {questions && orderedPool.length > 0 && mode !== "estudio" && (
+        <div class="toolbar">
+          <span class="toolbar__hint">Responde cada pregunta; se corrige al instante.</span>
+          <button class="btn btn--ghost btn--small" onClick={() => setOrderKey((k) => k + 1)}>
+            ⇄ Barajar
+          </button>
+        </div>
+      )}
 
+      <main class="stage">
         {loadError && (
           <p class="notice">No se pudieron cargar las preguntas. Recarga la página.</p>
         )}
-
         {!loadError && !questions && <p class="notice">Cargando preguntas…</p>}
 
-        {questions && !current && (
+        {questions && orderedPool.length === 0 && (
           <div class="empty">
             {mode === "falladas" ? (
               <p>
@@ -147,45 +125,12 @@ export function App() {
           </div>
         )}
 
-        {questions && current && (
-          <>
-            <QuestionCard
-              question={current}
-              options={options}
-              mode={mode}
-              chosen={chosen}
-              revealed={revealed}
-              onChoose={choose}
-            />
-
-            {mode === "estudio" ? (
-              <nav class="nav">
-                <button
-                  class="btn btn--ghost"
-                  onClick={() => showStudy(Math.max(0, studyIndex - 1))}
-                  disabled={studyIndex === 0}
-                >
-                  ← Anterior
-                </button>
-                <span class="nav__pos">
-                  {studyIndex + 1} / {pool.length}
-                </span>
-                <button
-                  class="btn btn--ghost"
-                  onClick={() => showStudy(Math.min(pool.length - 1, studyIndex + 1))}
-                  disabled={studyIndex >= pool.length - 1}
-                >
-                  Siguiente →
-                </button>
-              </nav>
-            ) : (
-              <div class="nav nav--center">
-                <button class="btn btn--primary" onClick={next} disabled={!revealed}>
-                  Siguiente pregunta →
-                </button>
-              </div>
-            )}
-          </>
+        {questions && orderedPool.length > 0 && (
+          <div class="list" key={filterKey}>
+            {orderedPool.map((q, i) => (
+              <QuestionItem key={q.id} question={q} mode={mode} index={i} onResult={onResult} />
+            ))}
+          </div>
         )}
       </main>
 
@@ -193,7 +138,11 @@ export function App() {
         <span>
           {questions?.length ?? 0} preguntas de convocatorias reales · datos abiertos
         </span>
-        <a href="https://github.com/maximetinu/examenes-taxi-granada" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/maximetinu/examenes-taxi-granada"
+          target="_blank"
+          rel="noreferrer"
+        >
           Código y datos
         </a>
       </footer>
