@@ -1,0 +1,1020 @@
+{
+  "id": "2024-03-15",
+  "sourceFile": "2024-03-15_taxi-granada_examen-resuelto.pdf",
+  "date": "2024-03-15",
+  "datePrecision": "day",
+  "convocatoria": "marzo 2024",
+  "organo": "Ayuntamiento de Granada",
+  "notes": "Documento con capa de texto (pdftotext). El listado de aspirantes (nombres/DNI) del bloque de resultados se ha omitido por privacidad. Las respuestas correctas no aparecen marcadas en el texto plano; se recuperaron de las opciones en negrita del PDF corregido reextrayendo con pdftohtml (fuente Arial-BoldMT), una sola opción en negrita por pregunta.",
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2024-03-15-general-1",
+          "number": 1,
+          "statement": "Según el artículo 2 de la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en automóviles de turismo auto-taxis en el municipio de Granada se entiende por servicio urbano, (marque la respuesta correcta):",
+          "options": [
+            {
+              "key": "a",
+              "text": "El que se contrata dentro del término municipal de Granada y no sale del municipio."
+            },
+            {
+              "key": "b",
+              "text": "El que se desarrolla íntegramente dentro del término municipal de Granada, o en su caso del Área de Prestación Conjunta de Granada."
+            },
+            {
+              "key": "c",
+              "text": "El que se contrata y se desarrolla dentro del Área de Prestación Conjunta. Si bien se admite que pueda salir un poco (menos de un 10% del trayecto)."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-2",
+          "number": 2,
+          "statement": "Se establece como condición básica de accesibilidad en el transporte en taxi según el Real Decreto 1544/2007, de 23 de noviembre, por el que se regulan las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los modos de transporte para personas con discapacidad:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Que el vehículo estará acondicionado para que pueda entrar y salir, así como viajar en el mismo una persona en su propia silla de ruedas; todo ello con comodidad y seguridad."
+            },
+            {
+              "key": "b",
+              "text": "El vehículo estará dotado de un habitáculo que permita viajar a este pasajero de forma transversal al sentido de la marcha."
+            },
+            {
+              "key": "c",
+              "text": "Ambas son correctas."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-3",
+          "number": 3,
+          "statement": "Cuando los servicios se contraten previamente por el usuario:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Las tarifas urbanas tendrán el carácter de mínimas."
+            },
+            {
+              "key": "b",
+              "text": "Las tarifas urbanas tendrán el carácter de máximas."
+            },
+            {
+              "key": "c",
+              "text": "Ambas respuestas son incorrectas."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-4",
+          "number": 4,
+          "statement": "Si iniciado un servicio, el conductor hubiere olvidado poner en marcha el contador:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Se llegará a un acuerdo entre el pasajero y el conductor sobre la cantidad a abonar, y si este acuerdo no se alcanza, el importe a cobrar será el que determine el conductor de forma aproximada según la distancia que calcule se ha recorrido."
+            },
+            {
+              "key": "b",
+              "text": "Será de exclusivo cargo del conductor el importe devengado hasta el momento de advertir la omisión, cualquiera que fuere el recorrido efectuado, aún en el supuesto de que la carrera hubiere llegado a su fin con exclusión del importe de la bajada de bandera, no pudiendo llegar a ningún acuerdo con el pasajero aunque este estuviera dispuesto a abonar alguna cantidad."
+            },
+            {
+              "key": "c",
+              "text": "Será de exclusivo cargo del conductor el importe devengado hasta el momento de advertir la omisión, cualquiera que fuere el recorrido efectuado, aún en el supuesto de que la carrera hubiere llegado a su fin con exclusión del importe de la bajada de bandera, a menos que el pasajero, libremente, esté dispuesto a abonar la cantidad que, de común acuerdo, convengan."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-5",
+          "number": 5,
+          "statement": "Dirección Instituto de Astrofísica de Andalucía:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Parque Tecnológico de la Salud, s/n."
+            },
+            {
+              "key": "b",
+              "text": "Glorieta de la astronomía, s/n."
+            },
+            {
+              "key": "c",
+              "text": "Glorieta de Arabial, s/n."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-6",
+          "number": 6,
+          "statement": "¿Se permite el acceso de taxis por la Cuesta de Gomérez?:",
+          "options": [
+            {
+              "key": "a",
+              "text": "No está permitido."
+            },
+            {
+              "key": "b",
+              "text": "Sí está permitido."
+            },
+            {
+              "key": "c",
+              "text": "Está permitido sólo para recoger y dejar a residentes."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-7",
+          "number": 7,
+          "statement": "Según la Ordenanza la tarjeta de identificación de conductor de taxi, siempre que se está prestando el servicio, se colocará en:",
+          "options": [
+            {
+              "key": "a",
+              "text": "La parte inferior derecha de la luna delantera del vehículo."
+            },
+            {
+              "key": "b",
+              "text": "La parte inferior derecha de la luna trasera del vehículo."
+            },
+            {
+              "key": "c",
+              "text": "Las dos respuestas anteriores son correctas."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-8",
+          "number": 8,
+          "statement": "Sólo podrán instalar y reparar o modificar taxímetros:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Los talleres expresamente autorizados para ello por el órgano competente en materia de industria."
+            },
+            {
+              "key": "b",
+              "text": "Los talleres que elija, a su criterio, el titular de la licencia, no tienen por qué estar autorizados expresamente por el órgano competente en materia de industria."
+            },
+            {
+              "key": "c",
+              "text": "No existen talleres autorizados para ello por el órgano competente en materia de industria."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-9",
+          "number": 9,
+          "statement": "¿Cuál es la tarifa por cada hora de espera en un servicio urbano, un sábado a las 2:00 horas?",
+          "options": [
+            {
+              "key": "a",
+              "text": "30,09€."
+            },
+            {
+              "key": "b",
+              "text": "14,60€."
+            },
+            {
+              "key": "c",
+              "text": "34,15€."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-10",
+          "number": 10,
+          "statement": "Los usuarios tendrán derecho a:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Transportar gratuitamente el perro guía en caso de tratarse de un usuario con disfunciones visuales, siempre que el perro ocupe el piso del vehículo y no manche los asientos del mismo."
+            },
+            {
+              "key": "b",
+              "text": "Transportar el perro guía en caso de tratarse de un usuario con disfunciones visuales, a cambio de un suplemento que incrementará el importe final del servicio, y siempre que el perro ocupe el piso del vehículo y no manche los asientos del mismo."
+            },
+            {
+              "key": "c",
+              "text": "No podrán transportarse animales de ningún tipo, ni siquiera un perro guía."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-11",
+          "number": 11,
+          "statement": "Según el Real Decreto 1544/2007, de 23 de noviembre, por el que se regulan las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los modos de transporte para personas con discapacidad:",
+          "options": [
+            {
+              "key": "a",
+              "text": "En todos los municipios, los ayuntamientos promoverán que al menos un 5 por ciento, o fracción, de las licencias de taxi correspondan a vehículos adaptados."
+            },
+            {
+              "key": "b",
+              "text": "En todos los municipios, los ayuntamientos promoverán que al menos un 6 por ciento, o fracción, de las licencias de taxi correspondan a vehículos adaptados."
+            },
+            {
+              "key": "c",
+              "text": "En todos los municipios, los ayuntamientos promoverán que al menos un 7 por ciento, o fracción, de las licencias de taxi correspondan a vehículos adaptados."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-12",
+          "number": 12,
+          "statement": "¿Cuantas plazas se pueden autorizar a los vehículos auto-taxi accesibles para el transporte de personas en silla de ruedas?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Hasta 6."
+            },
+            {
+              "key": "b",
+              "text": "Hasta 8."
+            },
+            {
+              "key": "c",
+              "text": "Hasta 9."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-13",
+          "number": 13,
+          "statement": "Se considerarán infracciones muy graves:",
+          "options": [
+            {
+              "key": "a",
+              "text": "La realización de servicios de transporte o de actividades auxiliares o complementarias de los mismos careciendo, por cualquier causa, de la preceptiva licencia."
+            },
+            {
+              "key": "b",
+              "text": "La realización de servicios de transporte o de actividades auxiliares o complementarias de los mismos careciendo, por cualquier causa, de permiso municipal de conductor o conductora de auto-taxi."
+            },
+            {
+              "key": "c",
+              "text": "Ambas infracciones se consideran muy graves."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-14",
+          "number": 14,
+          "statement": "¿Existe parada de Taxis oficial en Avda. Santa María de la Alhambra, n.º 2?",
+          "options": [
+            {
+              "key": "a",
+              "text": "No existe."
+            },
+            {
+              "key": "b",
+              "text": "Si existe."
+            },
+            {
+              "key": "c",
+              "text": "Se suprimió en el año 2023."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-15",
+          "number": 15,
+          "statement": "Los conductores y conductoras de los vehículos:",
+          "options": [
+            {
+              "key": "a",
+              "text": "No están obligados a poner a disposición de las personas usuarias del servicio y de quienes se las soliciten las correspondientes hojas de quejas y reclamaciones ya que estas hojas no tienen que llevarse en el vehículo."
+            },
+            {
+              "key": "b",
+              "text": "Deberán poner a disposición de las personas usuarias del servicio y de quienes se las soliciten las correspondientes hojas de quejas y reclamaciones, de conformidad con lo dispuesto en la normativa vigente, aunque la parte reclamante no haya llegado a realizar prestación de servicios alguna."
+            },
+            {
+              "key": "c",
+              "text": "Deberán poner a disposición de las personas usuarias del servicio y de quienes se las soliciten las correspondientes hojas de quejas y reclamaciones, de conformidad con lo dispuesto en la normativa vigente, siempre que se haya llegado a realizar la prestación de servicios."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-16",
+          "number": 16,
+          "statement": "Abrir o cerrar los cristales a indicación del usuario; ayudar a salir y a apearse del vehículo a los ancianos, enfermos, discapacitados, niños y en general a cuantas personas lo precisen por su estado físico; recoger y colocar adecuadamente las maletas y demás bultos de equipaje; encender la luz interior del vehículo por la noche, para facilitar la subida y bajada y el pago del servicio; bajar el volumen del receptor de radio a voluntad del pasajero. Son:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Recomendaciones de carácter general del servicio de taxi."
+            },
+            {
+              "key": "b",
+              "text": "Normas generales que no obligan al conductor de taxi."
+            },
+            {
+              "key": "c",
+              "text": "Obligaciones del conductor de taxi."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-17",
+          "number": 17,
+          "statement": "El Ayuntamiento de Peligros, se encuentra ubicado en:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Plaza de España, 1."
+            },
+            {
+              "key": "b",
+              "text": "Plaza de la Constitución, 1."
+            },
+            {
+              "key": "c",
+              "text": "Plaza de Andalucía, 1."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-18",
+          "number": 18,
+          "statement": "La falta de visado en el plazo de dos meses, contados a partir de la fecha que corresponda de forma ordinaria, determinará la apertura del procedimiento para:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Procedimiento sancionador."
+            },
+            {
+              "key": "b",
+              "text": "Suspensión de la licencia."
+            },
+            {
+              "key": "c",
+              "text": "Declaración de caducidad de la licencia."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-19",
+          "number": 19,
+          "statement": "El descanso semanal para todos los vehículos auto-taxis con licencia expedida por el Órgano Gestor:",
+          "options": [
+            {
+              "key": "a",
+              "text": "No será obligatorio ni en Corpus, ni en Semana Santa ni en Navidad."
+            },
+            {
+              "key": "b",
+              "text": "No será obligatorio durante los meses de julio y agosto."
+            },
+            {
+              "key": "c",
+              "text": "No será obligatorio solo en Navidades."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-20",
+          "number": 20,
+          "statement": "Como regla general, las nuevas licencias de auto-taxi de los municipios que se incorporen al nuevo Área de Prestación Conjunta de Granada no podrán ser transmitidas por sus titulares:",
+          "options": [
+            {
+              "key": "a",
+              "text": "En el plazo de tres años."
+            },
+            {
+              "key": "b",
+              "text": "En el plazo de ocho años."
+            },
+            {
+              "key": "c",
+              "text": "En el plazo de diez años."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-21",
+          "number": 21,
+          "statement": "¿Cual de los siguientes municipios no forma parte aún del Área de Prestación Conjunta?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Atarfe."
+            },
+            {
+              "key": "b",
+              "text": "Cenes de la Vega."
+            },
+            {
+              "key": "c",
+              "text": "Peligros."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-22",
+          "number": 22,
+          "statement": "Cuando un conductor se niegue a prestar un servicio:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Deberá justificarlo siempre por escrito o ante un agente de la autoridad, aunque no lo requiera el demandante del servicio."
+            },
+            {
+              "key": "b",
+              "text": "No tiene obligación de justificarlo, aunque lo requiera el demandante del servicio."
+            },
+            {
+              "key": "c",
+              "text": "Deberá justificarlo por escrito o ante un agente de la autoridad, a requerimiento del demandante del servicio."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-23",
+          "number": 23,
+          "statement": "Según el art. 27 de la Ordenanza reguladora del servicio de transporte públicos de viajeros y viajeras en automóviles de turismo auto-taxis en el municipio de Granada, los vehículos adaptados darán servicio preferente:",
+          "options": [
+            {
+              "key": "a",
+              "text": "A las personas discapacitadas."
+            },
+            {
+              "key": "b",
+              "text": "A las personas con sillas de ruedas."
+            },
+            {
+              "key": "c",
+              "text": "A las personas con muletas."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-24",
+          "number": 24,
+          "statement": "La licencia XXX perteneciente al Área de Prestación Conjunta de Granada recibe una petición de servicio con recogida en Cájar. Indique la respuesta correcta:",
+          "options": [
+            {
+              "key": "a",
+              "text": "El servicio procede."
+            },
+            {
+              "key": "b",
+              "text": "El servicio no se puede realizar."
+            },
+            {
+              "key": "c",
+              "text": "Las respuestas anteriores no son correctas."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-25",
+          "number": 25,
+          "statement": "Respecto de las tarifas urbanas, indique la respuesta correcta.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Las tarifas urbanas 1, 2 y Especial Nocturna son incompatibles entre sí. Se autoriza el cobro de la más elevada siempre que los rangos temporales de aplicación lo permitan, con exclusión de las otras dos."
+            },
+            {
+              "key": "b",
+              "text": "Por cada maleta/bulto se cobrará un suplemento de 0,53 €."
+            },
+            {
+              "key": "c",
+              "text": "a) y b) son correctas."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-26",
+          "number": 26,
+          "statement": "Los conductores y conductoras de los vehículos:",
+          "options": [
+            {
+              "key": "a",
+              "text": "No podrán transportar mayor número de viajeros y viajeras que el expresamente previsto en la licencia."
+            },
+            {
+              "key": "b",
+              "text": "Podrán transportar mayor número de viajeros y viajeras que el expresamente previsto en la licencia cuando la mayoría de los viajeros sean niños."
+            },
+            {
+              "key": "c",
+              "text": "No podrán transportar mayor número de viajeros y viajeras que el expresamente previsto en la licencia salvo que el número de viajeros solo aumente en un viajero más."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-27",
+          "number": 27,
+          "statement": "Cuando en el transcurso del servicio se produzca algún accidente, avería o detención no imputable al usuario, que momentánea o temporalmente lo interrumpe, se procederá:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Parando el taxímetro, y una vez reanudado el servicio tras la detención, el usuario estará obligado a pagar el importe de la nueva bajada de bandera. Es decir el importe del total contabilizado para el servicio."
+            },
+            {
+              "key": "b",
+              "text": "Parando el taxímetro, y una vez reanudado el servicio tras la detención, el usuario no estará obligado a pagar el importe de esta nueva bajada de bandera, por lo que será descontado su importe del total del servicio."
+            },
+            {
+              "key": "c",
+              "text": "Continuará funcionando el taxímetro y descontará un importe del total del servicio."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-28",
+          "number": 28,
+          "statement": "¿Se permite la circulación de taxis por el acceso del Paseo de las Palmas?",
+          "options": [
+            {
+              "key": "a",
+              "text": "No está permitido."
+            },
+            {
+              "key": "b",
+              "text": "Está permitido el paso para taxis y vehículos autorizados."
+            },
+            {
+              "key": "c",
+              "text": "El acceso está permitido solamente a residentes."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-29",
+          "number": 29,
+          "statement": "En el interior del habitáculo del vehículo taxi y en lugar bien visible para el usuario llevará una placa esmaltada, en la que figurarán el número de licencia, la matrícula y el número de plazas autorizadas",
+          "options": [
+            {
+              "key": "a",
+              "text": "de dimensiones mínimas de 50 x 50 milímetros, con impresión blanca sobre fondo negro."
+            },
+            {
+              "key": "b",
+              "text": "de dimensiones mínimas de 50 x 50 milímetros, con impresión negra sobre fondo blanco."
+            },
+            {
+              "key": "c",
+              "text": "de dimensiones mínimas de 50 x 50 milímetros, con impresión verde sobre fondo blanco."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-30",
+          "number": 30,
+          "statement": "Respecto al equipaje:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Solo podrá transportarse en el maletero, nunca en el interior del vehículo."
+            },
+            {
+              "key": "b",
+              "text": "Cuando no se utilice el número total de plazas, el equipaje que no quepa en el maletero podrá transportarse en el interior del vehículo, siempre que por su forma, dimensiones y naturaleza ello sea posible sin deterioro para la tapicería de los asientos."
+            },
+            {
+              "key": "c",
+              "text": "Aunque se utilice el número total de plazas, el equipaje que no quepa en el maletero podrá transportarse en el interior del vehículo, siempre que por su forma, dimensiones y naturaleza ello sea posible sin deterioro para la tapicería de los asientos y no resulte una molestia para el conductor."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-31",
+          "number": 31,
+          "statement": "La Dirección del Centro de Salud de la Chana es:",
+          "options": [
+            {
+              "key": "a",
+              "text": "C/Doctor Medina Olmos, 22."
+            },
+            {
+              "key": "b",
+              "text": "C/Sagrada Familia, 13."
+            },
+            {
+              "key": "c",
+              "text": "C/ Virgen de la Consolación, 12."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-32",
+          "number": 32,
+          "statement": "¿Cuál es la tarifa por cada hora de espera en un servicio interurbano un miércoles laborable entre las 6:00 horas y las 22 horas?",
+          "options": [
+            {
+              "key": "a",
+              "text": "16,82 €."
+            },
+            {
+              "key": "b",
+              "text": "3,51 €."
+            },
+            {
+              "key": "c",
+              "text": "0,68."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-33",
+          "number": 33,
+          "statement": "La responsabilidad administrativa por las infracciones de las normas reguladoras de los servicios de transporte público discrecional de viajeros y viajeras en automóviles de turismo corresponderá:",
+          "options": [
+            {
+              "key": "a",
+              "text": "A la persona conductora asalariada, en las infracciones cometidas con ocasión de la realización de transportes amparados en la preceptiva licencia o autorización de transporte interurbano."
+            },
+            {
+              "key": "b",
+              "text": "A la persona arrendataria del vehículo, en las infracciones cometidas con ocasión de la realización de transportes amparados en la preceptiva licencia o autorización de transporte interurbano."
+            },
+            {
+              "key": "c",
+              "text": "A la persona titular de la licencia, en las infracciones cometidas con ocasión de la realización de transportes amparados en la preceptiva licencia o autorización de transporte interurbano."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-34",
+          "number": 34,
+          "statement": "¿Qué deberán llevar los vehículos según la Ordenanza reguladora del servicio de transporte público de viajeros y viajeras en automóviles de turismo auto-taxi en el municipio de Granada?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Rueda de recambio en buen estado, herramientas o kit de pinchazo."
+            },
+            {
+              "key": "b",
+              "text": "Kit de mascarillas homologadas."
+            },
+            {
+              "key": "c",
+              "text": "Sistema de posicionamiento global por satélite (GPS) debidamente homologado."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-general-35",
+          "number": 35,
+          "statement": "La ubicación en lugares inadecuados de los preceptivos cuadros de tarifas y otros de obligada exhibición para conocimiento del público se considera una",
+          "options": [
+            {
+              "key": "a",
+              "text": "Infracción leve."
+            },
+            {
+              "key": "b",
+              "text": "Infracción grave."
+            },
+            {
+              "key": "c",
+              "text": "Infracción muy grave."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Cuestionario de inglés",
+      "questions": [
+        {
+          "id": "2024-03-15-ingles-1",
+          "number": 1,
+          "statement": "Escoja la respuesta correcta: Thank you for the tip.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Gracias y disfrute."
+            },
+            {
+              "key": "b",
+              "text": "Gracias por la propina."
+            },
+            {
+              "key": "c",
+              "text": "Gracias por venir."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-ingles-2",
+          "number": 2,
+          "statement": "Escoja la respuesta correcta: Disculpe, estoy fuera de servicio.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Sorry, out of service."
+            },
+            {
+              "key": "b",
+              "text": "Sorry, out of order."
+            },
+            {
+              "key": "c",
+              "text": "Sorry, closed."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-ingles-3",
+          "number": 3,
+          "statement": "Escoja la respuesta correcta: ¿Puede esperarme aquí?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Can you see here?"
+            },
+            {
+              "key": "b",
+              "text": "Can you wait here?"
+            },
+            {
+              "key": "c",
+              "text": "Can you pull up here?"
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-ingles-4",
+          "number": 4,
+          "statement": "Escoja la respuesta correcta: Do you take credit card?",
+          "options": [
+            {
+              "key": "a",
+              "text": "¿Aceptan tarjeta?"
+            },
+            {
+              "key": "b",
+              "text": "¿Puedo usar bizum?"
+            },
+            {
+              "key": "c",
+              "text": "¿Sólo efectivo?"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-ingles-5",
+          "number": 5,
+          "statement": "Escoja la respuesta correcta: There is a surcharge for extra luggage.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Hay un cargo extra por mascota."
+            },
+            {
+              "key": "b",
+              "text": "Hay un cargo extra por equipaje."
+            },
+            {
+              "key": "c",
+              "text": "Hay un cargo extra por salida de estación."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "reserva",
+      "title": "Preguntas de reserva",
+      "questions": [
+        {
+          "id": "2024-03-15-reserva-1",
+          "number": 1,
+          "statement": "Al llegar al destino del servicio:",
+          "options": [
+            {
+              "key": "a",
+              "text": "El personal de conducción pondrá el taxímetro en situación de pago e informará a la persona usuaria del importe permitiendo que ésta pueda comprobarlo en el taxímetro."
+            },
+            {
+              "key": "b",
+              "text": "El personal de conducción pondrá el taxímetro en situación de pago e informará a la persona usuaria del importe no estando obligado a permitir que ésta pueda comprobarlo en el taxímetro."
+            },
+            {
+              "key": "c",
+              "text": "Aunque hayan llegado al destino, el personal de conducción no está obligado a poner el taxímetro en situación de pago hasta que la persona usuaria solicite que así lo haga."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-reserva-2",
+          "number": 2,
+          "statement": "El Centro Cívico del Zaidín del Ayuntamiento de Granada se encuentra ubicado en:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Avda Emperador Carlos V, s/n."
+            },
+            {
+              "key": "b",
+              "text": "C/Andrés Segovia, 60."
+            },
+            {
+              "key": "c",
+              "text": "C/ Torre Quebrada, 2."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-reserva-3",
+          "number": 3,
+          "statement": "¿Que vehículos auto-taxi tienen la obligación de llevar las tarifas escritas en sistema Braille?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Los vehículos adaptados."
+            },
+            {
+              "key": "b",
+              "text": "Todos los vehículos."
+            },
+            {
+              "key": "c",
+              "text": "Ningún vehículo."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-reserva-4",
+          "number": 4,
+          "statement": "Subir o bajar del vehículo estando éste en movimiento se considera:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Una infracción muy grave del usuario."
+            },
+            {
+              "key": "b",
+              "text": "Una infracción grave del usuario."
+            },
+            {
+              "key": "c",
+              "text": "Una infracción leve del usuario."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-03-15-reserva-5",
+          "number": 5,
+          "statement": "El Teatro Municipal de Armilla, se encuentra en la siguiente dirección:",
+          "options": [
+            {
+              "key": "a",
+              "text": "C/Nardos, s/n."
+            },
+            {
+              "key": "b",
+              "text": "Plaza de la Constitución, 1."
+            },
+            {
+              "key": "c",
+              "text": "Plaza de la Constitución, s/n."
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "id": "2020-12-10",
+  "sourceFile": "2020-12-10_taxi-granada_examen-resuelto.pdf",
+  "date": "2020-12-10",
+  "datePrecision": "day",
+  "convocatoria": "diciembre 2020",
+  "organo": "Ayuntamiento de Granada",
+  "notes": null,
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2020-12-10-general-1",
+          "number": 1,
+          "statement": "El Ayuntamiento de Granada promoverá la incorporación de vehículos adaptados para el transporte de personas usuarias con discapacidad, a efectos de alcanzar el porcentaje de:",
+          "options": [
+            { "key": "a", "text": "El 2% de vehículos adaptados." },
+            { "key": "b", "text": "El 5% de vehículos adaptados." },
+            { "key": "c", "text": "El 10% de vehículos adaptados." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-2",
+          "number": 2,
+          "statement": "Según el artículo 43 de la ordenanza municipal, señale la opción correcta:",
+          "options": [
+            { "key": "a", "text": "Se prohíbe recoger viajeros en puntos que disten menos de cincuenta metros de las paradas oficiales establecidas, salvo en el caso de que dichas paradas se encuentren desiertas por no existir vehículos." },
+            { "key": "b", "text": "Se prohíbe recoger viajeros en puntos que disten menos de cincuenta metros de las paradas oficiales establecidas, en cualquier caso." },
+            { "key": "c", "text": "Se prohíbe recoger viajeros en puntos que disten menos de cien metros de las paradas oficiales establecidas, salvo en el caso de que dichas paradas se encuentren desiertas por no existir vehículos." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-3",
+          "number": 3,
+          "statement": "Atendiendo al artículo 52 de la Ordenanza que regula el servicio, los conductores deberán seguir el itinerario señalado por el pasajero:",
+          "options": [
+            { "key": "a", "text": "Siempre que pueda hacerse sin incumplir las normas y señales de circulación." },
+            { "key": "b", "text": "Siempre. El cliente tiene esa potestad." },
+            { "key": "c", "text": "Solo cuando sea el recorrido más corto." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-4",
+          "number": 4,
+          "statement": "Los vehículos auto-taxis deberán dedicarse a la prestación del servicio del taxi.",
+          "options": [
+            { "key": "a", "text": "En todo momento." },
+            { "key": "b", "text": "En horario de mañana, tarde o noche." },
+            { "key": "c", "text": "Cuando se encuentren de servicio." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-5",
+          "number": 5,
+          "statement": "La tarifa 2 urbana se aplicará:",
+          "options": [
+            { "key": "a", "text": "Día de la Cruz, desde las 0 horas hasta las 24 horas." },
+            { "key": "b", "text": "Los días oficiales de la Feria del Corpus desde las 0 horas hasta las 24 horas." },
+            { "key": "c", "text": "Los días 24 y el 31 de diciembre desde las 0 horas hasta las 24 horas." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-6",
+          "number": 6,
+          "statement": "Efectúe el siguiente servicio por el recorrido más corto: Estación de autobuses de Granada a Hotel Granada Center. (elija la opción correcta)",
+          "options": [
+            { "key": "a", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, av. Francisco Ayala, Pintor Francisco Pradilla, av. de Andalucía, av. de la Constitución, av. Severo Ochoa." },
+            { "key": "b", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Avenida Fuente Nueva." },
+            { "key": "c", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Calle Julio Verne, calle Arabial, calle Méndez Núñez, Avenida Fuente Nueva." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-7",
+          "number": 7,
+          "statement": "Indique la dirección correcta para el siguiente destino: Polideportivo Aynadamar.",
+          "options": [
+            { "key": "a", "text": "Paseo de la Cartuja, 15" },
+            { "key": "b", "text": "Callejón Tallacarne, 15" },
+            { "key": "c", "text": "Camino de San Antonio, 35" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-8",
+          "number": 8,
+          "statement": "Nos debemos dirigir a la sede de la Asociación A Favor de las Personas Con Discapacidad Intelectual de Granada. Indique cuál de las siguientes opciones es su dirección.",
+          "options": [
+            { "key": "a", "text": "Calle Sta. Adela, núm. 45." },
+            { "key": "b", "text": "Avenida de Dílar, núm. 33." },
+            { "key": "c", "text": "Calle Escritor Miguel Toro, núm. 7." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-9",
+          "number": 9,
+          "statement": "Efectúe el siguiente servicio por el recorrido más rápido y corto: Puerta Real de España hasta calle Ebro. (elija la opción correcta).",
+          "options": [
+            { "key": "a", "text": "Calle Recogidas, Neptuno, Circunvalación de Granada, Ronda Sur, calle de la Sultana, Torre de Comares, calle Ebro." },
+            { "key": "b", "text": "Cañaveral, Cmno. de Ronda, rotonda de la Aviación Española, Paseo del Violón, calle Antonio Dalmases, calle Profesor Tierno Galván, avenida de América, carretera de Dílar." },
+            { "key": "c", "text": "Acera del Darro, Paseo del Violón, Profesor Tierno Galván, Fontiveros, Andrés Segovia, Carlos V, calle Torre de Comares." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-10",
+          "number": 10,
+          "statement": "Efectúe el siguiente servicio por el recorrido más corto: Centro comercial Hipercor hasta Hotel Saray. (elija la opción correcta):",
+          "options": [
+            { "key": "a", "text": "Cl. Cañaveral, Cmno. de Ronda, rotonda de la Aviación Española, Paseo del Violón, calle Antonio Dalmases, calle Profesor Tierno Galván." },
+            { "key": "b", "text": "Cl. Cañaveral, calle Arabial, av. Fuente Nueva, av. Severo Ochoa, av. Constitución, cl. Gran Vía de Colón." },
+            { "key": "c", "text": "Cl. Cañaveral, calle Arabial, calle Juncos, paseo Jardín de la Reina, Paseo del Violón, calle Tierno Galván." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-11",
+          "number": 11,
+          "statement": "Según la Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía, los consumidores tendrán derecho a:",
+          "options": [
+            { "key": "a", "text": "La protección, reconocimiento y realización de sus legítimos intereses económicos y sociales." },
+            { "key": "b", "text": "La especial protección en aquellas situaciones de inferioridad, subordinación o indefensión en que puedan encontrarse individual o colectivamente." },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-12",
+          "number": 12,
+          "statement": "¿Se puede aplicar la tarifa 2 un miércoles no festivo?",
+          "options": [
+            { "key": "a", "text": "No, sólo los festivos nacionales, autonómicos y locales." },
+            { "key": "b", "text": "Sí, entre las 6 y las 22 horas." },
+            { "key": "c", "text": "Sí, entre las 22 y las 6 horas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-13",
+          "number": 13,
+          "statement": "El Real Decreto 1544/2007 establece que el taxi calificado como accesible estará acondicionado para que pueda entrar y salir, así como viajar en el mismo una persona en su propia silla de ruedas, todo ello con comodidad y seguridad. Para ello estará dotado de un habitáculo que permita viajar a este pasajero de frente o de espaldas al sentido de la marcha, nunca transversalmente. Estas medidas serán:",
+          "options": [
+            { "key": "a", "text": "Medidas imprescindibles." },
+            { "key": "b", "text": "Medidas recomendables." },
+            { "key": "c", "text": "El Real Decreto solo recoge medidas básicas." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-14",
+          "number": 14,
+          "statement": "En un servicio nos solicitan la recogida en la glorieta Festival de Música y Danza, nos tenemos que dirigir a:",
+          "options": [
+            { "key": "a", "text": "El Paseo del Generalife, junto al acceso al Carmen de los Mártires." },
+            { "key": "b", "text": "La confluencia de avenida Severo Ochoa con avenida de Fuente Nueva y la calle Santa Bárbara." },
+            { "key": "c", "text": "La calle Félix Rodríguez de la Fuente, junto al asilo de ancianos \"Hermanitas de los Pobres\"." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-15",
+          "number": 15,
+          "statement": "El habitáculo del taxi calificado como accesible dispondrá de respaldo con reposacabezas fijo (unido permanentemente a la estructura del vehículo); dispondrá de anclaje de la silla de ruedas y un cinturón de seguridad de al menos tres puntos de anclaje para su ocupante. Estos dos últimos dispositivos será obligación del taxista colocarlos, si el usuario lo desea. Según el anexo VII del Real Decreto 1544/2007, de 23 de noviembre, esta condición básica de accesibilidad en el transporte en Taxi está señalada como:",
+          "options": [
+            { "key": "a", "text": "Medidas imprescindibles." },
+            { "key": "b", "text": "Medidas ponderables." },
+            { "key": "c", "text": "El Real Decreto solo establece recomendaciones." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-16",
+          "number": 16,
+          "statement": "La adecuación, conservación y limpieza de todos los elementos e instalaciones de los vehículos auto taxi serán atendidos, conforme al artículo 22 de la ordenanza reguladora del taxi de Granada (BOP núm 203, de 22 de octubre de 2015), por:",
+          "options": [
+            { "key": "a", "text": "Los respectivos titulares." },
+            { "key": "b", "text": "La asociación del taxi correspondiente." },
+            { "key": "c", "text": "Este asunto no lo contempla la ordenanza municipal." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-17",
+          "number": 17,
+          "statement": "La dirección del Centro de Valoración y Orientación de Personas con Discapacidad, dependiente de la Consejería de Asuntos Sociales de la Junta de Andalucía, en Granada, es:",
+          "options": [
+            { "key": "a", "text": "Calle Ángel Barrios" },
+            { "key": "b", "text": "Carretera de Alfacar, núm. 13. 18011-Granada." },
+            { "key": "c", "text": "Calle Bulería, núm. 1. 18011-Granada." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-18",
+          "number": 18,
+          "statement": "Nos dirigimos al Centro Cívico Norte, la dirección de este centro municipal es: (indique la localización correcta).",
+          "options": [
+            { "key": "a", "text": "Calle Marqués de Mondejar, núm 3. 18005-Granada" },
+            { "key": "b", "text": "Plaza de la Ilusión, núm. 2. 18009-Granada." },
+            { "key": "c", "text": "Plaza Jesús Escudero García, número 2. 18011-Granada" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-19",
+          "number": 19,
+          "statement": "Atendiendo a lo establecido en la ordenanza municipal vigente, cada licencia de vehículo auto taxi tendrá:",
+          "options": [
+            { "key": "a", "text": "Uno o varios titulares, pero un solo conductor." },
+            { "key": "b", "text": "Un vehículo." },
+            { "key": "c", "text": "Solo un titular, pero sin límite de vehículos." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-20",
+          "number": 20,
+          "statement": "Un usuario le solicita un servicio para ir desde la avenida de las Fuerzas Armadas, número 1, a la sede de la Federación Granadina de Personas con Discapacidad Física y Orgánica, FEGRADI COCEMFE GRANADA. ¿Señale el recorrido más corto?",
+          "options": [
+            { "key": "a", "text": "Avenida de las Fuerzas Armadas, calle Nuestra Señora de la Salud, avenida de Andalucía, calle Cruz del Sur, Camino de Ronda, glorieta de la Aviación Española, avenida de América, paseo de Europa, calle Pepita Bustamante, calle José Tamayo, paseo Laguna de Cameros." },
+            { "key": "b", "text": "Avenida de las Fuerzas Armadas, calle Mecina Calderón, avenida de Andalucía, calle Circunvalación Encina, avenida de las Alpujarras, calle Padre Marcelino Álvarez, calle María Moliner, Méndez Núñez, calle Arabial, calle Eudoxia Píriz, avenida de la Ciencia, avenida Don Bosco, Paseo del Emperador Carlos V, calle Torre de la Pólvora, paseo Laguna de Cameros." },
+            { "key": "c", "text": "El servicio más ágil y rápido es por la circunvalación de Granada y Ronda Sur. Por tanto es el servicio que realizo." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-21",
+          "number": 21,
+          "statement": "Solicitan un servicio de recogida en la sede de la Asociación Granadina de Atención a personas con parálisis cerebral en Granada (ASPACE). Debe dirigirse a:",
+          "options": [
+            { "key": "a", "text": "Calle Primavera, número 250. Granada." },
+            { "key": "b", "text": "Calle Mercedes Gaibrois, 39, 18008 Granada" },
+            { "key": "c", "text": "Esta asociación no tiene su sede en Granada" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-22",
+          "number": 22,
+          "statement": "La revisión municipal de los vehículos auto-taxi que establece el artículo 33 de la Ordenanza Municipal, se realizará:",
+          "options": [
+            { "key": "a", "text": "Al inicio de la actividad y, posteriormente, cuando toque pasar cuatro años." },
+            { "key": "b", "text": "Anualmente o cuando se deban efectuar comprobaciones específicas, debidamente motivadas." },
+            { "key": "c", "text": "Cada cinco años en caso necesario." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-23",
+          "number": 23,
+          "statement": "Nos piden en un servicio ir hasta el colegio de educación infantil y primaria Eugenia de Montijo de Granada. Indique cuál de las siguientes opciones es su dirección.",
+          "options": [
+            { "key": "a", "text": "Avenida del Conocimiento, 1. 18007-Granada" },
+            { "key": "b", "text": "Calle Sta. Adela, 45, 18007 Granada" },
+            { "key": "c", "text": "Calle de la Actriz Fabiana Laura, 18003 Granada" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-24",
+          "number": 24,
+          "statement": "Con carácter general, para la realización de transporte discrecional en auto-taxi ¿será preciso obtener la licencia municipal para servicios urbanos, simultáneamente con la autorización de transporte interurbano?",
+          "options": [
+            { "key": "a", "text": "No, son licencias independientes." },
+            { "key": "b", "text": "Sí será preciso obtener ambas simultáneamente." },
+            { "key": "c", "text": "Será necesaria la previa obtención de autorización expedida por el órgano correspondiente de la Consejería de Turismo." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-25",
+          "number": 25,
+          "statement": "¿Cómo se define la licencia de auto taxis?:",
+          "options": [
+            { "key": "a", "text": "Título jurídico que habilita a su titular para la prestación de los servicios que regula la Ordenanza." },
+            { "key": "b", "text": "Título jurídico que habilita al titular y asalariado para la prestación de los servicios que regula la Ordenanza." },
+            { "key": "c", "text": "Título jurídico que permite a la persona usuaria acceder libremente a los vehículos adscritos al servicio." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-26",
+          "number": 26,
+          "statement": "¿Cuál es el concepto de asalariado que establece la Ordenanza Municipal Reguladora del servicio de taxis?:",
+          "options": [
+            { "key": "a", "text": "Persona que es contratada por el titular de la licencia en casos de enfermedad." },
+            { "key": "b", "text": "Persona que es contratada durante sus vacaciones por el titular de la licencia para la realización de los servicios de taxi." },
+            { "key": "c", "text": "Persona que es contratada por el titular de la licencia para la realización de los servicios de taxi en los supuestos y con los requisitos que se determinen en la Ordenanza." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-27",
+          "number": 27,
+          "statement": "El Decreto 35/2012, de 21 de febrero, por el que se aprueba el Reglamento de los Servicios de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo se aplicará, respecto de la Ordenanza Municipal reguladora del servicio:",
+          "options": [
+            { "key": "a", "text": "No se aplicará en ningún caso." },
+            { "key": "b", "text": "Con carácter supletorio en lo no previsto en la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada" },
+            { "key": "c", "text": "Ninguna de las dos es correcta." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-28",
+          "number": 28,
+          "statement": "Las licencias municipales para la prestación del servicio de taxi se podrán extinguir por:",
+          "options": [
+            { "key": "a", "text": "Renuncia de su titular o fallecimiento del mismo sin herederos forzosos." },
+            { "key": "b", "text": "Caducidad o revocación de la licencia." },
+            { "key": "c", "text": "a y b son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-29",
+          "number": 29,
+          "statement": "A tenor de lo dispuesto actualmente en la Ordenanza Municipal reguladora del servicio, ¿debe instalarse en el vehículo auto taxi un sistema homologado de posicionamiento global por satélite (GPS)?",
+          "options": [
+            { "key": "a", "text": "Sí, en todo caso." },
+            { "key": "b", "text": "No, es opcional." },
+            { "key": "c", "text": "Solo será obligatorio cuando sea requerido por el órgano competente." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-30",
+          "number": 30,
+          "statement": "A tenor de lo dispuesto en la vigente Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada; ¿debe instalarse mampara separadora en los vehículos auto taxis?",
+          "options": [
+            { "key": "a", "text": "Sí, actualmente es una obligación del titular de la licencia." },
+            { "key": "b", "text": "No se establece actualmente esta obligación en la Ordenanza." },
+            { "key": "c", "text": "Será obligatorio cuando sea requerido por el Concejal competente." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-31",
+          "number": 31,
+          "statement": "Según la Tarifa urbana n° 1 actualmente vigente, por cada Km recorrido el importe es:",
+          "options": [
+            { "key": "a", "text": "0,80 euros" },
+            { "key": "b", "text": "0,82 euros" },
+            { "key": "c", "text": "0,84 euros." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-32",
+          "number": 32,
+          "statement": "Según la tarifa especial nocturna actualmente vigente, el importe de la bajada de bandera es:",
+          "options": [
+            { "key": "a", "text": "2,39 euros" },
+            { "key": "b", "text": "2,49 euros" },
+            { "key": "c", "text": "2,60 euros." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-33",
+          "number": 33,
+          "statement": "Según las tarifas aprobadas vigentes ¿Cuál es el importe correspondiente al suplemento por cada maleta, bulto o conjunto de bultos?",
+          "options": [
+            { "key": "a", "text": "0,51 euros" },
+            { "key": "b", "text": "0,57 euros" },
+            { "key": "c", "text": "0,60 euros." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-34",
+          "number": 34,
+          "statement": "Según la Ordenanza Municipal reguladora del servicio y la Ley 2/2003, de 12 de mayo, de Ordenación de los Transportes Urbanos y Metropolitanos de Viajeros en Andalucía; constituye infracción leve:",
+          "options": [
+            { "key": "a", "text": "El incumplimiento del régimen de descansos establecido por el Ayuntamiento de Granada, de conformidad con la normativa vigente." },
+            { "key": "b", "text": "El incumplimiento del régimen tarifario." },
+            { "key": "c", "text": "El trato desconsiderado con las personas usuarias." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-35",
+          "number": 35,
+          "statement": "Respecto a la Licencia, ¿qué supone la falta de visado en el plazo de dos meses, contados a partir de la fecha en que le corresponda de forma ordinaria?",
+          "options": [
+            { "key": "a", "text": "Determinará la extinción automática de la licencia." },
+            { "key": "b", "text": "Determinará la apertura del procedimiento para la declaración de caducidad de la licencia." },
+            { "key": "c", "text": "Determinará la apertura de procedimiento sancionador." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-36",
+          "number": 36,
+          "statement": "¿Cuál es la tarifa al aeropuerto?",
+          "options": [
+            { "key": "a", "text": "What is the share to the airport?" },
+            { "key": "b", "text": "What is the fare to the airport?" },
+            { "key": "c", "text": "What is the fair to the airport?" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-37",
+          "number": 37,
+          "statement": "Sorry, pets in their cage.",
+          "options": [
+            { "key": "a", "text": "Disculpe, mascotas no" },
+            { "key": "b", "text": "Disculpe, solo mascotas" },
+            { "key": "c", "text": "Disculpe, la mascota en el transportín" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-38",
+          "number": 38,
+          "statement": "Sí, se puede pagar con tarjeta",
+          "options": [
+            { "key": "a", "text": "Yes, you can pay by credit card" },
+            { "key": "b", "text": "Yes, you can pay credit cash" },
+            { "key": "c", "text": "Yes, you can pay cash" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-39",
+          "number": 39,
+          "statement": "Here's your change. Have a good day",
+          "options": [
+            { "key": "a", "text": "Su cambio, que tenga un buen día" },
+            { "key": "b", "text": "Su cambio, hace un buen día" },
+            { "key": "c", "text": "Su cambio, gracias." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-general-40",
+          "number": 40,
+          "statement": "¿Me lleva al hotel Alhambra Palace?",
+          "options": [
+            { "key": "a", "text": "Could you shake me to the Alhambra Palace?" },
+            { "key": "b", "text": "Could you take me to the Alhambra Palace?" },
+            { "key": "c", "text": "Could you send me to the Alhambra Palace?" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "reserva",
+      "title": "Preguntas de reserva",
+      "questions": [
+        {
+          "id": "2020-12-10-reserva-1",
+          "number": 1,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio P. Vicente Alexandre.",
+          "options": [
+            { "key": "a", "text": "C/ Bethowen" },
+            { "key": "b", "text": "C/ Fernando de los Ríos" },
+            { "key": "c", "text": "Avda. De Cádiz" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-reserva-2",
+          "number": 2,
+          "statement": "Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir al intercambiador del transporte metropolitano. ¿Dónde puede tomar el autobús de Huetor Vega?",
+          "options": [
+            { "key": "a", "text": "Camino de Ronda, n°1, aproximadamente" },
+            { "key": "b", "text": "C/ Profesor Tierno Galván, frente al n° 3" },
+            { "key": "c", "text": "Avda. De Dílar s/n" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-reserva-3",
+          "number": 3,
+          "statement": "Indique la dirección correcta del siguiente destino: Colegio de Educación Infantil y Primaria José Hurtado (C.E.I.P.)",
+          "options": [
+            { "key": "a", "text": "C/ Don Bosco, n° 14" },
+            { "key": "b", "text": "C/ Molinos, n° 55" },
+            { "key": "c", "text": "C/ Tablas, n° 10" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-reserva-4",
+          "number": 4,
+          "statement": "El Conservatorio Profesional de Danza \"Reina Sofía\" está situado en:",
+          "options": [
+            { "key": "a", "text": "C/ Torre de los Picos, n° 6" },
+            { "key": "b", "text": "C/ Torre de Machuca, s/n" },
+            { "key": "c", "text": "C/ Ángel Barrios" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-reserva-5",
+          "number": 5,
+          "statement": "Indique cuál es el recorrido más corto entre Puerta Real de España y la Cámara de Comercio de Granada.",
+          "options": [
+            { "key": "a", "text": "C/ Recogidas, Cmno de Ronda, C/ Cruz del Sur y C/ Luis Amador" },
+            { "key": "b", "text": "Cl Recogidas, C/ Neptuno, circunvalación de Granada, Avda. Juan Pablo II y C/ Luis Miranda de Dávalos." },
+            { "key": "c", "text": "C/ Reyes Católicos, C/ Gran Vía de Colón, Avda. De la Constitución, Avda. De Andalucía, C/ Francisco Pradilla y C/ Luis Amador." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-reserva-6",
+          "number": 6,
+          "statement": "El Colegio de Abogados de Granada se encuentra ubicado en:",
+          "options": [
+            { "key": "a", "text": "Plaza Santa Ana, n° 5" },
+            { "key": "b", "text": "C/ Gran Vía de Colón, n° 14" },
+            { "key": "c", "text": "Avda. Del Sur, n° 1" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-reserva-7",
+          "number": 7,
+          "statement": "Nos solicitan ir al Registro de Parejas de Hecho, Delegación Territorial de la Consejería de Igualdad y Políticas Sociales de la Junta de Andalucía, con sede en Granada que se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Plaza Nueva s/n" },
+            { "key": "b", "text": "Cmno. De Ronda, n° 110" },
+            { "key": "c", "text": "C/ Buenos Aires, n° 1" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-reserva-8",
+          "number": 8,
+          "statement": "Un usuario nos solicita ir a la Oficina de Extranjería que se encuentra ubicada en:",
+          "options": [
+            { "key": "a", "text": "C/ Buenos Aires, n° 1" },
+            { "key": "b", "text": "C/ San Agapito" },
+            { "key": "c", "text": "C/ Santa Rosalía, n° 14" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-reserva-9",
+          "number": 9,
+          "statement": "La dirección del Hotel Alhambra Palace es:",
+          "options": [
+            { "key": "a", "text": "Paseo de los Mártires, s/n" },
+            { "key": "b", "text": "Plaza del Arquitecto García de Paredes, n° 1" },
+            { "key": "c", "text": "C/ Acera del Darro, n° 20" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-12-10-reserva-10",
+          "number": 10,
+          "statement": "La dirección actual de la Facultad de Medicina en Granada es:",
+          "options": [
+            { "key": "a", "text": "Avda. De la Constitución" },
+            { "key": "b", "text": "Avda. De Madrid" },
+            { "key": "c", "text": "Avda. De la Investigación" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

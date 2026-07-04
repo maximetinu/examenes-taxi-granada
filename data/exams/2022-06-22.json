@@ -1,0 +1,1020 @@
+{
+  "id": "2022-06-22",
+  "sourceFile": "2022-06-22_taxi-granada_examen-resuelto.pdf",
+  "date": "2022-06-22",
+  "datePrecision": "day",
+  "convocatoria": "junio 2022",
+  "organo": "Ayuntamiento de Granada",
+  "notes": "Plantilla correctora: la respuesta correcta se marca en negrita en el PDF. La capa de texto (pdftotext) pierde el formato, por lo que las respuestas se recuperaron de las etiquetas <b> del PDF vía pdftohtml (una opción en negrita por pregunta, todas emparejadas). Correcciones menores de OCR (tildes, espacios, ')' duplicado en 17b).",
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2022-06-22-general-1",
+          "number": 1,
+          "statement": "La dirección del Centro de Salud de La Caleta es:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Avda. del Sur nº 13"
+            },
+            {
+              "key": "b",
+              "text": "Plaza de la Caleta s/n"
+            },
+            {
+              "key": "c",
+              "text": "Avda. de las Fuerzas Armadas nº 2"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-2",
+          "number": 2,
+          "statement": "El Colegio Oficial de Aparejadores y Arquitectos Técnicos de Granada se encuentra en:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Pza. de San Agustín nº 3"
+            },
+            {
+              "key": "b",
+              "text": "C/ San Matías nº 19"
+            },
+            {
+              "key": "c",
+              "text": "C/ Andrés Segovia nº 53"
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-3",
+          "number": 3,
+          "statement": "La dirección del Centro Cívico Albayzín es:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Cta. del Chapiz nº 17"
+            },
+            {
+              "key": "b",
+              "text": "Pza. de San Miguel Bajo nº 2"
+            },
+            {
+              "key": "c",
+              "text": "Pza. de Aliatar s/n"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-4",
+          "number": 4,
+          "statement": "¿A dónde nos hemos de dirigir para recoger al cliente si nos solicitan un servicio con origen en el Teatro Alhambra?",
+          "options": [
+            {
+              "key": "a",
+              "text": "C/ Molinos nº 56"
+            },
+            {
+              "key": "b",
+              "text": "C/ Real de la Alhambra nº 5"
+            },
+            {
+              "key": "c",
+              "text": "Paseo del Generalife s/n"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-5",
+          "number": 5,
+          "statement": "El I.E.S. Hermenegildo Lanz se encuentra en:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Avda. Francisco Ayala nº 20"
+            },
+            {
+              "key": "b",
+              "text": "C/ Huerta del Rasillo s/n"
+            },
+            {
+              "key": "c",
+              "text": "C/ Albondón nº 12"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-6",
+          "number": 6,
+          "statement": "Para ir al Instituto Andaluz de Geofísica tengo que dirigirme a:",
+          "options": [
+            {
+              "key": "a",
+              "text": "C/ Profesor Clavera nº 2"
+            },
+            {
+              "key": "b",
+              "text": "Avda. Fuente Nueva s/n"
+            },
+            {
+              "key": "c",
+              "text": "C/ Gonzalo Gallas nº 8"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-7",
+          "number": 7,
+          "statement": "El Hotel Don Juan se encuentra en:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Pza. de los Campos"
+            },
+            {
+              "key": "b",
+              "text": "Avda. de Pulianas"
+            },
+            {
+              "key": "c",
+              "text": "C/ Martínez de la Rosa"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-8",
+          "number": 8,
+          "statement": "La Escuela de Arte José Val del Omar se encuentra en:",
+          "options": [
+            {
+              "key": "a",
+              "text": "C/ Gracia 4"
+            },
+            {
+              "key": "b",
+              "text": "C/ Natalio Rivas nº 7"
+            },
+            {
+              "key": "c",
+              "text": "Pza. de Campo Verde s/n"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-9",
+          "number": 9,
+          "statement": "Las dependencias de FEGRADI se encuentran en:",
+          "options": [
+            {
+              "key": "a",
+              "text": "C/ Recogidas nº 29"
+            },
+            {
+              "key": "b",
+              "text": "C/ Profesor Manuel Garzón Pareja s/n"
+            },
+            {
+              "key": "c",
+              "text": "Paseo Laguna de Cameros nº 6"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-10",
+          "number": 10,
+          "statement": "El Hotel los Tilos se encuentra en:",
+          "options": [
+            {
+              "key": "a",
+              "text": "C/ Pedro Antonio de Alarcón nº 63"
+            },
+            {
+              "key": "b",
+              "text": "Placeta de Triviño nº 1"
+            },
+            {
+              "key": "c",
+              "text": "Pza. de Bib-Rambla nº 4"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-11",
+          "number": 11,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio P. Vicente Alexandre:",
+          "options": [
+            {
+              "key": "a",
+              "text": "C/ Bethowen"
+            },
+            {
+              "key": "b",
+              "text": "C/ Fernando de los Ríos"
+            },
+            {
+              "key": "c",
+              "text": "Avda. De Cádiz"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-12",
+          "number": 12,
+          "statement": "Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir al intercambiador del transporte metropolitano. ¿Dónde puede tomar el autobús de Huétor Vega?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Camino de Ronda, nº 1, aproximadamente"
+            },
+            {
+              "key": "b",
+              "text": "C/ Profesor Tierno Galván, frente al nº 3"
+            },
+            {
+              "key": "c",
+              "text": "Avda. De Dílar s/n"
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-13",
+          "number": 13,
+          "statement": "Indique la dirección correcta del siguiente destino: Colegio de Educación Infantil y Primaria José Hurtado (C.E.I.P.):",
+          "options": [
+            {
+              "key": "a",
+              "text": "C/ Don Bosco, nº 14"
+            },
+            {
+              "key": "b",
+              "text": "C/ Molinos, nº 55"
+            },
+            {
+              "key": "c",
+              "text": "C/ Tablas, nº 10"
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-14",
+          "number": 14,
+          "statement": "Según la Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía, los consumidores tendrán derecho a:",
+          "options": [
+            {
+              "key": "a",
+              "text": "La protección, reconocimiento y realización de sus legítimos intereses económicos y sociales."
+            },
+            {
+              "key": "b",
+              "text": "La especial protección en aquellas situaciones de inferioridad, subordinación o indefensión en que puedan encontrarse individual o colectivamente"
+            },
+            {
+              "key": "c",
+              "text": "Las dos respuestas anteriores son correctas"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-15",
+          "number": 15,
+          "statement": "¿Es necesario tener simultáneamente la licencia municipal de taxi y la autorización que habilite para la prestación de servicios interurbanos?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Sí, siempre"
+            },
+            {
+              "key": "b",
+              "text": "Nunca podrán tenerse simultáneamente"
+            },
+            {
+              "key": "c",
+              "text": "Sólo en casos especiales podrá concederse la licencia municipal sin la autorización para servicios interurbanos"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-16",
+          "number": 16,
+          "statement": "¿De qué colores son la franja, el número de licencia y el logo de la puerta delantera del taxi del Área de Prestación Conjunta?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Azul y granate"
+            },
+            {
+              "key": "b",
+              "text": "Verde y marrón"
+            },
+            {
+              "key": "c",
+              "text": "Verde y rojo"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-17",
+          "number": 17,
+          "statement": "Según la Ordenanza reguladora del servicio de transporte público de viajeros y viajeras en automóviles de turismo auto-taxi en el municipio de Granada la licencia se expedirá:",
+          "options": [
+            {
+              "key": "a",
+              "text": "A favor de una persona física que no podrá ser titular de otras licencias de auto-taxi o autorizaciones de transporte interurbano en vehículos de turismo"
+            },
+            {
+              "key": "b",
+              "text": "A favor de una persona jurídica que no podrá ser titular de otras licencias de auto-taxi o autorizaciones de transporte interurbano en vehículos de turismo"
+            },
+            {
+              "key": "c",
+              "text": "A favor de una persona física o jurídica que no podrá ser titular de otras licencias de auto-taxi o autorizaciones de transporte interurbano en vehículos de turismo"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-18",
+          "number": 18,
+          "statement": "Con carácter general las licencias de auto-taxi se otorgarán:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Por tiempo indefinido"
+            },
+            {
+              "key": "b",
+              "text": "Mientras el vehículo a la que esté adscrita reúna condiciones establecidas"
+            },
+            {
+              "key": "c",
+              "text": "Hasta la jubilación de la persona titular"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-19",
+          "number": 19,
+          "statement": "La vigencia de las licencias de auto-taxi quedará condicionada a:",
+          "options": [
+            {
+              "key": "a",
+              "text": "La constatación anual por parte del Órgano Gestor, mediante el correspondiente visado del mantenimiento de las condiciones que originariamente justificaron su otorgamiento"
+            },
+            {
+              "key": "b",
+              "text": "La aportación por el titular de la licencia de que el vehículo ha pasado la ITV correspondiente"
+            },
+            {
+              "key": "c",
+              "text": "El buen estado del vehículo adscrito al servicio"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-20",
+          "number": 20,
+          "statement": "Las licencias de auto-taxi serán transmisibles:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Por actos “inter vivos” al cónyuge viudo o los herederos forzosos"
+            },
+            {
+              "key": "b",
+              "text": "Por actos “mortis causa” al cónyuge viudo o los herederos forzosos"
+            },
+            {
+              "key": "c",
+              "text": "a y b son correctas"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-21",
+          "number": 21,
+          "statement": "¿Durante qué plazo podrá concederse la suspensión de las licencias de autotaxi?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Por un plazo mínimo de seis meses y máximo de cinco años"
+            },
+            {
+              "key": "b",
+              "text": "Por un plazo mínimo de tres meses y máximo de cuatro años"
+            },
+            {
+              "key": "c",
+              "text": "Por un plazo mínimo de 1 mes y máximo de tres años"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-22",
+          "number": 22,
+          "statement": "Cada licencia estará adscrita:",
+          "options": [
+            {
+              "key": "a",
+              "text": "A un único vehículo específico"
+            },
+            {
+              "key": "b",
+              "text": "A un vehículo, pero podrá adscribirse otro en caso de siniestro"
+            },
+            {
+              "key": "c",
+              "text": "A varios vehículos, siempre que los mismos reúnan las condiciones establecidas"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-23",
+          "number": 23,
+          "statement": "¿Puede montarse baca portaequipajes en un vehículo autotaxi según la Ordenanza Municipal?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Sí."
+            },
+            {
+              "key": "b",
+              "text": "No, excepto si son barras porta esquís provisionales que se fijen con carácter puntual"
+            },
+            {
+              "key": "c",
+              "text": "No, excepto si son barras porta esquís fijados con carácter permanente"
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-24",
+          "number": 24,
+          "statement": "¿Qué deberán llevar los vehículos según la Ordenanza reguladora del servicio de transporte público de viajeros y viajeras en automóviles de turismo auto-taxi en el municipio de Granada?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Rueda de recambio en buen estado, herramientas o kit de pinchazo"
+            },
+            {
+              "key": "b",
+              "text": "Mampara separadora transparente"
+            },
+            {
+              "key": "c",
+              "text": "Sistema de posicionamiento global por satélite (GPS) debidamente homologado"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-25",
+          "number": 25,
+          "statement": "Los vehículos destinados al servicio del taxi:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Serán de color blanco y llevarán en las puertas traseras, vistas desde fuera, el logo, el número de licencia y la palabra taxi"
+            },
+            {
+              "key": "b",
+              "text": "En el interior del habitáculo y en lugar bien visible para el usuario llevará una placa esmaltada, con impresión blanca sobre fondo negro, en la que figurará el número de la licencia, la matrícula y el número de plazas autorizadas"
+            },
+            {
+              "key": "c",
+              "text": "Podrán ser de color blanco o cualquier otro, previa autorización, y llevarán el módulo tarifario luminoso según la Ordenanza"
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-26",
+          "number": 26,
+          "statement": "La modificación de las características de los vehículos que pueda afectar a las exigidas con carácter general en la Ordenanza:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Precisará comunicación previa al Ayuntamiento"
+            },
+            {
+              "key": "b",
+              "text": "Precisará autorización previa de este Ayuntamiento"
+            },
+            {
+              "key": "c",
+              "text": "Podrán modificarse las características de los vehículos para aumentar su capacidad por encima de las previstas en la licencia, presentando un escrito en este Ayuntamiento."
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-27",
+          "number": 27,
+          "statement": "En el exterior del vehículo la publicidad quedará restringida:",
+          "options": [
+            {
+              "key": "a",
+              "text": "A las puertas laterales delanteras, en dos tercios y al faldón trasero del vehículo, paragolpes y carrocería del maletero."
+            },
+            {
+              "key": "b",
+              "text": "A las puertas laterales delanteras y traseras y al faldón trasero del vehículo, paragolpes y carrocería del maletero."
+            },
+            {
+              "key": "c",
+              "text": "A las puertas laterales traseras, en dos tercios y al faldón trasero del vehículo, paragolpes y carrocería del maletero."
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-28",
+          "number": 28,
+          "statement": "La tarifa 7 se aplicará:",
+          "options": [
+            {
+              "key": "a",
+              "text": "En los servicios urbanos nocturnos"
+            },
+            {
+              "key": "b",
+              "text": "En los servicios interurbanos"
+            },
+            {
+              "key": "c",
+              "text": "La tarifa 7 no existe"
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-29",
+          "number": 29,
+          "statement": "La tarifa interurbana de un domingo a las 14:00h por kilómetro recorrido es:",
+          "options": [
+            {
+              "key": "a",
+              "text": "0,63€"
+            },
+            {
+              "key": "b",
+              "text": "0,75€"
+            },
+            {
+              "key": "c",
+              "text": "0,84€"
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-30",
+          "number": 30,
+          "statement": "La carrera mínima en la tarifa 1 urbana es:",
+          "options": [
+            {
+              "key": "a",
+              "text": "4,02€"
+            },
+            {
+              "key": "b",
+              "text": "4,03€"
+            },
+            {
+              "key": "c",
+              "text": "4,04€"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-31",
+          "number": 31,
+          "statement": "La tarifa especial nocturna se aplicará:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Los sábados y festivos de 1 a 6 horas"
+            },
+            {
+              "key": "b",
+              "text": "Los sábados, domingos y festivos de 1 a 6 horas"
+            },
+            {
+              "key": "c",
+              "text": "Los domingos y festivos de 1 a 6 horas"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-32",
+          "number": 32,
+          "statement": "Los municipios que integran el Área de Prestación Conjunta de Granada son:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Cenes de la Vega, Maracena, Jun, Peligros y Granada"
+            },
+            {
+              "key": "b",
+              "text": "Vegas del Genil, Maracena, Peligros, Pulianas y Granada"
+            },
+            {
+              "key": "c",
+              "text": "Cenes de la Vega, Maracena, Peligros, Pulianas y Granada"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-33",
+          "number": 33,
+          "statement": "El canje de las licencias auto-taxis de los municipios que se adhieran al Área de Prestación Conjunta de Granada, deberá solicitarse por el titular de la licencia en el plazo de:",
+          "options": [
+            {
+              "key": "a",
+              "text": "2 meses"
+            },
+            {
+              "key": "b",
+              "text": "4 meses"
+            },
+            {
+              "key": "c",
+              "text": "6 meses"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-34",
+          "number": 34,
+          "statement": "El personal del Ayuntamiento de Granada encargado de la inspección del servicio del taxi, en el ejercicio de la misma, tendrá la consideración de:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Agente de seguridad"
+            },
+            {
+              "key": "b",
+              "text": "Agente de la autoridad"
+            },
+            {
+              "key": "c",
+              "text": "Intendente de inspección"
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-general-35",
+          "number": 35,
+          "statement": "Las infracciones de las normas reguladoras de los servicios de transporte público discrecional de viajeros y viajeras en automóviles de turismo se clasifican en:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Pequeñas, medianas y altas"
+            },
+            {
+              "key": "b",
+              "text": "Regladas y no regladas"
+            },
+            {
+              "key": "c",
+              "text": "Leves, graves y muy graves"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Cuestionario de inglés",
+      "questions": [
+        {
+          "id": "2022-06-22-ingles-1",
+          "number": 1,
+          "statement": "¿Me lleva al hotel Palacio de los Patos?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Could you shake me to the Palacio de los Patos Hotel?"
+            },
+            {
+              "key": "b",
+              "text": "Could you take me to the Palacio de los Patos Hotel?"
+            },
+            {
+              "key": "c",
+              "text": "Could you send me to the Palacio de los Patos Hotel"
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-ingles-2",
+          "number": 2,
+          "statement": "Here's your change. Have a good day.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Su cambio, que tenga un buen día"
+            },
+            {
+              "key": "b",
+              "text": "Su cambio, qué buen día hace"
+            },
+            {
+              "key": "c",
+              "text": "Su cambio, muchas gracias"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-ingles-3",
+          "number": 3,
+          "statement": "Son 10 euros con veinte.",
+          "options": [
+            {
+              "key": "a",
+              "text": "It's ten twenty"
+            },
+            {
+              "key": "b",
+              "text": "It's eight with forty"
+            },
+            {
+              "key": "c",
+              "text": "It's twelve twenty"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-ingles-4",
+          "number": 4,
+          "statement": "¿Cuánto cuesta?",
+          "options": [
+            {
+              "key": "a",
+              "text": "Where are you from?"
+            },
+            {
+              "key": "b",
+              "text": "How much does it cost?"
+            },
+            {
+              "key": "c",
+              "text": "How long does it take to arrive?"
+            }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-ingles-5",
+          "number": 5,
+          "statement": "Please, take me to the train station.",
+          "options": [
+            {
+              "key": "a",
+              "text": "Lléveme a la parada de tren, por favor"
+            },
+            {
+              "key": "b",
+              "text": "A la parada de metro más cercana, por favor"
+            },
+            {
+              "key": "c",
+              "text": "Lléveme a la estación de tren, por favor"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "reserva",
+      "title": "Preguntas de reserva",
+      "questions": [
+        {
+          "id": "2022-06-22-reserva-36",
+          "number": 36,
+          "statement": "La comisión de las infracciones previstas en el art. 85.a) de la Ordenanza Municipal podrá implicar, independientemente de la sanción pecuniaria que corresponda:",
+          "options": [
+            {
+              "key": "a",
+              "text": "El precintado del vehículo"
+            },
+            {
+              "key": "b",
+              "text": "La retirada de la correspondiente licencia o autorización"
+            },
+            {
+              "key": "c",
+              "text": "Las dos respuestas anteriores son correctas, medida que podrá durar un plazo máximo de un año"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-reserva-37",
+          "number": 37,
+          "statement": "La sustitución del vehículo adscrito a una licencia auto-taxi quedará condicionada a:",
+          "options": [
+            {
+              "key": "a",
+              "text": "Que el vehículo sustituto cumpla los requisitos previstos en la Ordenanza Municipal"
+            },
+            {
+              "key": "b",
+              "text": "Que el vehículo sustituido cumpla los requisitos previstos en la Ordenanza Municipal"
+            },
+            {
+              "key": "c",
+              "text": "Que el vehículo sea 100% eléctrico"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-reserva-38",
+          "number": 38,
+          "statement": "Nos solicitan una recogida en la glorieta Festival de Música y Danza, nos dirigimos a:",
+          "options": [
+            {
+              "key": "a",
+              "text": "La confluencia de la avenida Severo Ochoa, la avenida de Fuente Nueva y la calle Santa Bárbara"
+            },
+            {
+              "key": "b",
+              "text": "En las confluencias de las calles Félix Rodríguez de la Fuente y Don Bosco"
+            },
+            {
+              "key": "c",
+              "text": "El Paseo del Generalife, junto al Paseo de los Mártires"
+            }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-reserva-39",
+          "number": 39,
+          "statement": "Efectúe el siguiente servicio por el recorrido más corto: Estación de autobuses de Granada a Hotel Dauro. (Elija la opción correcta):",
+          "options": [
+            {
+              "key": "a",
+              "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, av. Francisco Ayala, Pintor Francisco Pradilla, av. de Andalucía, av. de la Constitución, av. Severo Ochoa"
+            },
+            {
+              "key": "b",
+              "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Avenida Fuente Nueva"
+            },
+            {
+              "key": "c",
+              "text": "Av. Juan Pablo II, avenida Luis Miranda Dávalos, calle Luis Amador, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Paseo del Violón, Acera del Darro"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2022-06-22-reserva-40",
+          "number": 40,
+          "statement": "Efectúe el siguiente servicio por el recorrido más rápido y corto: Puerta Real de España hasta calle Ebro. (Elija la opción correcta):",
+          "options": [
+            {
+              "key": "a",
+              "text": "Calle Recogidas, Neptuno, Circunvalación de Granada, Ronda Sur, calle de la Sultana, Torre de Comares, calle Ebro"
+            },
+            {
+              "key": "b",
+              "text": "Cañaveral, Cmno. de Ronda, rotonda de la Aviación Española, Paseo del Violón, calle Antonio Dalmases, calle Profesor Tierno Galván, avenida de América, carretera de Dílar"
+            },
+            {
+              "key": "c",
+              "text": "Puerta Real de España, Acera del Darro, Paseo del Violón, Profesor Tierno Galván, Fontiveros, Andrés Segovia, Carlos V, calle Torre de Comares, calle Pintor Maldonado y calle Ebro"
+            }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

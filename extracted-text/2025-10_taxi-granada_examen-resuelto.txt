@@ -1,0 +1,244 @@
+# fuente: 2025-10_taxi-granada_examen-resuelto.pdf
+# metodo: pdftotext
+# ADVERTENCIA: si el metodo es OCR, revisar/corregir el texto a mano.
+
+AYUNTAMIENTO DE GRANADA
+CONCEJALÍA DELEGADA MOVILIDAD, PROTECCIÓN CIUDADANA, AGENDA
+URBANA, SOSTENIBILIDAD Y FONDOS NEXT GENERATION
+EXAMEN PARA EL PERMISO MUNICIPAL DE CONDUCTOR/A
+DE AUTO-TAXI EN EL ÁREA DE PRESTACIÓN CONJUNTA DE GRANADA. 26/11/2025
+CUESTIONARIO GENERAL.1. Las condiciones básicas de accesibilidad y no discriminación de las personas con
+discapacidad para el acceso y utilización de los medios de transporte serán exigibles:
+a. Para todas las infraestructuras y material de transporte.
+b. Para algunas las infraestructuras y material de transporte.
+c. Para ninguna de las infraestructuras y material de transporte.
+2. Las personas consumidoras y usuarias:
+a. Deberán usar el Sistema de Hojas Electrónicas de Quejas y Reclamaciones.
+b. Deberán usar hojas de quejas y reclamaciones en soporte papel.
+c. Podrán usar del Sistema de Hojas Electrónicas de Quejas y Reclamaciones o
+presentar hojas de quejas y reclamaciones en soporte papel.
+3. Según el Real Decreto 1544/2007 ¿cuántas licencias de taxi deben corresponder a
+vehículos adaptados para personas con movilidad reducida?
+a. Al menos un 7% de las licencias.
+b. Al menos un 6% de las licencias.
+c. Al menos un 5% de las licencias.
+4. En caso de transmisión “mortis causa” con varios herederos, los mismos dispondrán
+para determinar la nueva persona titular, de un plazo de:
+a. Treinta meses desde el fallecimiento.
+b. Veinte meses desde el fallecimiento.
+c. Diez meses desde el fallecimiento.
+5. Cuando un servicio se contrate de forma telemática y finalmente no se haga uso del
+mismo sin cancelación previa:
+a. Se generará una deuda que equivaldrá a la cantidad estipulada como “doble de la
+carrera mínima” de la franja horaria correspondiente.
+b. Se generará una deuda que equivaldrá a la cantidad estipulada como “carrera
+mínima” de la franja horaria correspondiente.
+c. No generará deuda.
+
+6. En caso de accidente o avería que haga imposible la continuación del servicio, el viajero
+o viajera:
+a. No deberá abonar el importe de tal servicio.
+b. Deberá abonar el importe de tal servicio hasta el momento referido, incluyendo la
+puesta en marcha del taxímetro.
+c. Deberá abonar el importe de tal servicio hasta el momento referido, descontando
+la puesta en marcha del taxímetro.
+7. Las personas usuarias del servicio de taxi tendrán derecho a:
+a. Disponer sobre la apertura y cierre de ventanillas en verano, pero no en invierno.
+b. Disponer sobre la apertura y cierre de ventanillas siempre que no esté el aire
+acondicionado encendido.
+c. Disponer sobre la apertura y cierre de ventanillas, en cualquier época del año.
+8. Las personas usuarias no podrán:
+a. Beber o comer en el interior del vehículo sin previa autorización del conductor o
+conductora, salvo en el caso de menores lactantes.
+b. Exigir del conductor o la conductora el cumplimiento de todas las obligaciones
+vinculadas a la prestación del servicio.
+c. Subir al taxi con un perro guía.
+9. En caso de calamidad pública o emergencia grave, el personal afecto al servicio de auto
+taxis, así como los vehículos adscritos al mismo:
+a. Deberán dejar de prestar el servicio y retirarse a su domicilio para no estorbar a los
+equipos de emergencia.
+b. No podrán prestar ningún servicio que no sea el propio de la emergencia.
+c. Quedarán a disposición de las autoridades.
+10. Los municipios que integran el Área de Prestación Conjunta de Granada:
+a. No podrán conceder nuevas licencias de auto-taxi en su municipio.
+b. Sólo podrán conceder nuevas licencias en su municipio cuando éstas sean para servicio
+adaptado.
+c. Podrán conceder nuevas licencias de auto-taxi en su municipio.
+11. Cuando se integre un nuevo municipio en el APC de Granada, las personas titulares de
+las licencias de dicho municipio deberán, antes de iniciar la prestación del servicio en el
+APC:
+a. Canjear su licencia ante el órgano gestor, aunque no es necesario que se cumplan los
+requisitos exigidos para su obtención.
+b. Canjear su licencia ante el órgano gestor y cumplir con los requisitos y
+condiciones exigidas para su obtención.
+c. Prestar directamente el servicio en el APC, ya que la ordenanza no dice nada sobre el
+canje.
+
+12. No será aplicable el precio cerrado a:
+a. Los servicios contratados en calle.
+b. Los servicios contratados mediante app.
+c. Los servicios concertados mediante cualquier medio telemático.
+13. Ubicación de la Biblioteca Pública Municipal de la Chana:
+a) Calle Virgen de la Consolación, s/n.
+b) Calle Sagrada Familia, s/n.
+c) Calle Periodista Eugenio Selles, s/n.
+14. El modelo oficial del cuadro de tarifas, deberá:
+a) Estar colocado en el exterior del vehículo, en lugar visible para los posibles viajeros.
+b) Estar colocado en el interior del vehículo, en lugar visible para los viajeros.
+c) Estar en posesión del conductor, que lo pondrá a disposición de los viajeros que los
+soliciten.
+15. Para ir a la Jefatura Superior de la Policia Nacional, tendremos que dirigirnos a la siguiente calle:
+a) Calle del Mediterráneo.
+b) Calle la Palmita.
+c) Calle Cerro del Oro.
+16. El incumplimiento del régimen tarifario, se considera una infracción:
+a) Grave.
+b) Leve.
+c) Muy grave.
+17. ¿Dónde se ubica el Teatro Alhambra?
+a) C/Molinos nº 56.
+b) C/ Santiago nº 11.
+c) C/ San Matias nº 23.
+18. La dirección de la Facultad de Medicina de Granada es:
+a) Avenida Doctor Jesús Candel Fábregas, Parque Tecnológico de la Salud
+b) Avenida del Conocimiento, nº 11, Parque Tecnológico de la Salud
+c) Avenida de la Universidad s/n, Parque Tecnológico de la Salud.
+19. ¿En que barrio de Granada se ubica el Mirador de San Nicolás?
+a) Barrio de la Chana
+b) Barrio del Zaidín
+c) Barrio del Albaycín
+
+20. Si un usuario le pide ir a la estación de Autobuses de Granada, se tiene que dirigir a:
+a) Camino de Ronda nº 45
+b) Paseo de Cartuja s/n
+c) Avda. Juan Pablo II s/n
+21. ¿Cuál de los siguientes municipios forma parte del Área de Prestación Conjunta?
+a) Ogíjares
+b) Las Gabias
+c) Santa Fe
+22. ¿Puede montarse baca porta-esquíes en un vehículo autotaxi segun la Ordenanza Municipal?
+a) Sí, en cualquier caso.
+b) No, excepto si son barras porta-esquies provisionales que se fijen con carácter
+puntual.
+c) No, en cualquier caso.
+23. Para ir al Hospital de Neuro-Traumatología y Rehabilitación de Granada , la dirección
+es:
+a) Avda. Juan Pablo II s/n
+b) Paseo del Emperador Carlos V s/n
+c) Avda. de la Ilustración nº 14
+24. Se recoge a un usuario un viernes no festivo a las 17:00 horas en Granada capital y su
+destino es el Aeropuerto de Granada, ¿que tarifa ha de indicar el módulo luminoso exterior?
+a) Tarifa 2
+b) Tarifa 7
+c) Tarifa 8
+25. ¿Cuál es la cantidad mínima que debe cobrar un conductor durante la espera en la
+Tarifa 2 en el área de Prestación Conjunta?
+a. 21,84 €
+b. 27,33 €
+c. 34,15
+26. ¿Cuál es la carrera mínima según la Tarifa Especial Nocturna?
+a. 4,25 €
+b. 5,28 €
+c. 6,50 €
+
+27. ¿Cuándo se aplicará la tarifa especial nocturna en Granada?
+a. Todos los días de 21:00 a 7:00 horas
+b. Los sábados y festivos desde la 1:00 hasta las 6:00 horas
+c. De 22:00 a 6:00 horas de lunes a viernes
+28. ¿Cuál es el importe del suplemento por cada maleta o bulto en la tarifa urbana?
+a. 0,53 €
+b. 1,03 €
+c. No hay suplemento
+29. ¿Cuál es el suplemento por salida de estaciones de ferrocarril o autobuses?
+a. 0,53 €
+b. 1,03 €
+c. 2,00 €
+30. Según el Anexo XII.6, ¿cuál es el tiempo máximo de espera de cortesía incluido en un
+servicio precontratado a precio cerrado?
+a. 3 minutos
+b. 5 minutos
+c. 10 minutos
+31. ¿Qué datos debe entregar obligatoriamente el conductor en el justificante de un servicio
+precontratado a precio cerrado?
+a. Solo el costo del servicio.
+b. Fecha y hora de inicio, origen, destino y precio del servicio.
+c. Solamente son obligatorios fecha y destino.
+32. ¿Qué elementos son obligatorios en el sistema tarifario de un vehículo auto-taxi según el
+artículo 239?
+a. Taxímetro individual virtual, indicador tarifario y escáner de tarjeta de crédito/débito.
+b. Taxímetro, módulo tarifario, impresora y lector de tarjeta
+c. Solo indicador exterior tarifario
+33. ¿Cuál es la obligación del conductor respecto al cambio de moneda según el artículo
+242.2?
+a. No existe obligación
+b. Facilitar cambio hasta 50 euros
+c. Facilitar cambio hasta 20 euros
+34. Según el artículo 240.2, ¿cuándo entra en funcionamiento el taxímetro en servicios
+contratados por concertación previa?
+a. Al bajar bandera
+b. Cuando se adjudica el servicio
+c. Cuando el usuario entra en el vehículo
+
+35. Cuando un usuario se baja de un taxi y solicita la espera de éste, ¿qué garantía de pago
+puede reclamar el taxista a la persona usuaria?
+a. El equivalente a 15 minutos
+b. El equivalente a media hora de espera más el recorrido efectuado
+c. El equivalente a una hora de espera más el recorrido efectuado
+36. ¿Puede llevarme a la catedral?
+a. Coud I take you to the cathedral?
+b. Could you take me to the cathedral?
+c. Could I take me to the cathedral?
+37. What´s the fare to the railway station?
+a. ¿Cuál es la distancia a la estación de mercancias?
+b. ¿Cuál es el tiempo a la estación de bus?
+c. ¿Cuál es la tarifa a la estación de tren?
+38. ¿Me puede dar un recibo?
+a. Can I have a receipt?
+b. Can I have a receive?
+c. Can I have a recipe?
+39. Can you wait at the door?
+a. ¿Puede sostener la puerta?
+b. ¿Puede cerrar la puerta?
+c. ¿Puede esperar en la puerta?
+40. ¿Está seguro de que estamos en la calle Gran Vía, 32?
+a. Are yo sure this is 32, Gran Via street?
+b. Is you sure this is 32, Gran Vía Street?
+c. You are sure this is 32, Gran Vía street?
+
+PREGUNTAS DE RESERVA.41. El Decreto 82/2022, de 17 de mayo, por el que se regulan las hojas de quejas y
+reclamaciones de las personas consumidoras y usuarias en la Comunidad Autónoma de
+Andalucía, define DENUNCIA como:
+a. La manifestación de desagrado efectuada por una persona consumidora o usuaria.
+b. El escrito en el que se ponen en conocimiento de la Administración Pública hechos
+que pudieran ser constitutivos de una infracción administrativa en materia de
+consumo.
+c. La manifestación dirigida, por una persona consumidora o usuaria, ante quien
+comercializa un bien o presta un servicio, pidiendo una restitución, reparación o
+indemnización.
+
+42. ¿Qué parámetros utiliza el algoritmo de cálculo de precio cerrado según el Anexo XII.6?
+a. Tarifas vigentes, distancia y número de maletas
+b. Distancia recorrida, tiempo de recorrido y tarifas vigentes
+c. Solo la hora del servicio y número de personas
+43. Si en un servicio precontratado a precio cerrado la persona usuaria interrumpe
+voluntariamente el servicio en un punto determinado, ¿qué deberá abonar?
+a. Solo el recorrido realizado
+b. El importe íntegro del precio ofertado
+c. El precio del servicio mínimo
+44. Según el artículo 244, ¿cuál es el contenido mínimo obligatorio de un recibo de taxi?
+a. Número de recibo, NIF del conductor, número de licencia, matrícula, origen y destino
+del servicio, fecha, clase de tarifa, horas de inicio y final, distancia e importe total
+desglosado
+b. Número de recibo, NIF de la persona titular, número de licencia, matrícula,
+origen y destino del servicio, fecha, clase de tarifa, horas de inicio y final,
+distancia e importe total desglosado
+c. Número de recibo, NIF de la persona titular, firma del conductor, número de licencia,
+matrícula, origen y destino del servicio, fecha, clase de tarifa, horas de inicio y final,
+distancia e importe total sin suplementos.
+45. ¿Quién tiene la competencia para determinar las tarifas de los servicios de taxi
+interurbanos según el artículo 234.2?
+a. El Ayuntamiento de Granada
+b. La Consejería competente en materia de transportes
+c. La Asociación de Taxistas
+
+

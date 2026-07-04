@@ -1,0 +1,425 @@
+# fuente: 2020-09-29_taxi-granada_plantilla.pdf
+# metodo: tesseract-ocr
+# ADVERTENCIA: si el metodo es OCR, revisar/corregir el texto a mano.
+
+Len uf F
+ae,
+IA
+EXAMEN PARA LA OBTENCIÓN DEL PERMISO MUNICIPAL DE CONDUCTOR O
+CONDUCTORA DE AUTO-TAXI.
+GRANADA, 29 DE SEPTIEMBRE DE 2020
+
+1. Según el artículo 2 de la Ordenanza Reguladora del Servicio de Transporte Público de
+Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada, el
+Auto-Taxi se define como:
+
+a) Vehículo automóvil con capacidad de hasta cinco plazas, incluido el conductor, apto para
+prestar el servicio de taxi, provisto de aparato taximetro homologado.
+
+b) Vehículo automóvil con capacidad de hasta nueve plazas, incluido el conductor, apto
+para prestar el servicio de taxi, provisto de aparato taxímetro homologado.
+
+c) Vehículo automóvil con capacidad de hasta nueve plazas, incluido el conductor, apto para
+prestar el servicio de taxi a personas en silla de ruedas, provisto de aparato taxímetro
+homologado.
+
+2. Con carácter excepcional, previa tramitación del oportuno procedimiento, se podrá:
+
+a) Otorgar sólo licencia de transporte interurbano.
+
+b) Otorgar conjuntamente licencia de transporte urbano y licencia de transporte interurbano.
+
+c) Otorgar sólo licencia de transporte urbano.
+
+3. La falta de visado en el plazo de dos meses, contados a partir de la fecha que corresponda de
+forma ordinaria, determinará la apertura de procedimiento para la:
+
+a) Declaración de caducidad de licencia.
+
+b) Procedimiento sancionador. !
+
+c) Suspensión de la licencia.
+
+4. El Ayuntamiento de Granada promoverá la incorporación de vehículos adaptados para el
+transporte de personas usuarias con discapacidad, a efectos de alcanzar el porcentaje de:
+
+a) El 2% de vehículos adaptados.
+
+b) El 5% de vehículos adaptados.
+
+c) El 10% de vehículos adaptados.
+
+5. Según la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras
+en Automóviles de Turismo Auto-Taxis en el Municipio de Granada, la tarjeta de
+identificación de conductor de taxi, siempre que se está prestando el servicio, se colocará en:
+
+a) Delante de la guantera del vehículo.
+
+
+ESA
+3 ¡BE
+Hp
+
+b) La parte inferior derecha de la luna delantera del vehículo.
+
+c) Las dos respuesta anteriores son correctas.
+
+6. Los vehículos auto-taxis deberán dedicarse a la prestación del servicio del taxi.
+
+a) En todo momento.
+
+b) En horario de mañana, tarde o noche.
+
+c) Cuando se encuentren de servicio.
+
+7. Para quien conduzca un taxi sin haber obtenido el correspondiente permiso municipal de
+conductor/a, el órgano municipal competente podrá acordar:
+
+a) La imposibilidad de obtenerlo en el plazo de hasta cinco años.
+
+a) La imposibilidad de obtenerlo en el plazo de hasta siete años.
+
+| a) La imposibilidad de obtenerlo en el plazo de hasta diez años.
+
+8. ¿Puede un usuario contratar servicios periódicos?
+
+a) Si, cuando el usuario acuda a una misma parada aún sin concertación previa.
+
+b) No, está prohibido en la ordenanza.
+
+c) Sólo cuando se haga concertación previa.
+
+9. Abrir o cerrar los cristales a indicación del usuario; ayudar a salir y a apearse del vehículo a
+los ancianos, enfermos, personas con movilidad reducida, niños y en general a cuantas
+personas lo precisen por su estado físico; recoger y colocar adecuadamente las maletas y
+demás bultos de equipaje; encender la luz interior del vehículo por la noche, para facilitar la
+subida y bajada y el pago del servicio; bajar el volumen del receptor de radio a voluntad del
+pasajero. Son:
+
+a) Obligaciones del/a conductor/a de taxi.
+
+b) Normas generales que no obligan al conductor de taxi.
+
+c) Recomendaciones de carácter general que nada tienen que ver con el servicio de taxi.
+
+10. Las infracciones muy graves efectuadas por los/las conductores/as de taxi prescribirán:
+
+a) Alaño.
+
+b) Alos dos años.
+
+c) Alos tres años.
+
+11. La tarifa 2 urbana se aplicará:
+
+
+E
+
+a) Día de la Cruz, desde las 0 horas hasta las 24 horas.
+
+b) Los días oficiales de la Feria del Corpus desde las 0 horas hasta las 24 horas.
+
+c) Los días 24 y el 31 de diciembre desde las 0 horas hasta las 24 horas.
+
+12. Se podrá cobrar un suplemento en las tarifas, por:
+
+a) Cada maleta de más de 50 cm.
+
+b) La salida de la estación del AVE.
+
+c) La concertación del servicio en la emisora de radio taxi.
+
+13, La tarifa interurbana de un lunes a las 20h por bajada de bandera es:
+
+a) 3,18€
+
+b) 1,58€
+
+c) 1,92€
+
+14. La tarifa 8 se aplica:
+
+a) De lunes a viernes laborables entre las 22 y las 6 h.
+
+b) Sábados, domingos y festivos entre las 22 y las 6 h.
+
+c) Sólo domingos y festivos.
+
+|
+
+15. Segun el Decreto 472/2019, de 28 de mayo, por el que se regulan las hojas de quejas y
+reclamaciones de las personas consumidoras y usuarias en Andalucia y su tramitación
+administrativa, se define como queja.:
+
+a) la manifestación de desagrado efectuada por una persona consumidora o usuaria,
+antes, durante o después de consumir un bien o recibir un servicio, que considera
+insatisfactorio, dirigida hacia la persona física o jurídica, o ente sin personalidad, que
+lo comercializa o presta, mostrando sólo disconformidad, sin efectuar reclamación
+alguna.
+
+b) el escrito en el que se ponen en conocimiento de la Administración Pública hechos que
+pudieran ser constitutivos de una infracción administrativa en materia de consumo.
+
+c) la manifestación dirigida, por una persona consumidora o usuaria, antes, durante o después
+de consumir un bien o recibir un servicio, a la persona física o jurídica, o ente sin
+personalidad, que lo comercializa o presta, en el que, de forma expresa o tácita, pide una
+restitución, reparación o indemnización, la rescisión de un contrato, anulación de una deuda,
+la realización de una prestación a la que cree tener derecho, o cualquier otra pretensión, en
+relación con la solicitud de prestación de un bien o un servicio que considera
+insatisfactoriamente atendida.
+
+16. Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y
+Primaria Federico García Lorca (C.E.I.P).
+
+
+yo
+a) Calle Poeta César Vallejo, n° 6
+b) Calle Rector Marín Ocete, n° 1.
+c) Calle García Lorca, n° 40.
+17. Indique la dirección correcta para el siguiente destino: CPIFP Aynadamar.
+a) Cl Doctor Salvatierra, 5
+b) Paseo de la Cartuja, 20.
+c) Calle Cardenal Parrado, s/n.
+18. Indique la dirección correcta para el siguiente destino: Polideportivo Aynadamar.
+a) Paseo de la Cartuja, 15
+b) Callejón Tallacarne, 15
+c) Camino de San Antonio, 35
+19. Indique la dirección correcta para el siguiente destino: Hotel Gala Plácido 1923,
+| a) Calle Alcala de Henares, 13
+b) Plaza de Don Pedro Manjón, 3
+c) Avda. De Cervantes, 13
+20. ¿Cuantos años una persona puede ser titular de una licencia municipal de auto taxi?
+a) 4 años desde su obtención
+b) 5 años desde su obtención
+c) Indefinida
+21. ¿Cual de los siguientes dispositivos es obligatorio llevar en el taxi desde el año 2016?
+a) Datáfono
+b) Impresora
+c) Navegador
+22. Según el artículo 22 de la Ordenanza Reguladora del Servicio de Transporte Público de
+Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada
+(publicada en BOP núm 203, de 22 de octubre de 2015), las dimensiones mínimas y las
+características del interior del vehículo y de los asientos serán las precisas para proporcionar
+al público la seguridad y comodidad propias de este tipo de servicio. A estos efectos, tendrán
+una longitud y una capacidad útil del maletero como mínimo de
+
+
+10 i a
+
+a) 3.300 milimetros y de 200 litros.
+
+b) 4.000 milimetros y de 300 litros.
+
+c) 4.300 milímetros y de 330 litros
+
+23. La adecuación, conservación y limpieza de todos los elementos e instalaciones de los
+vehículos auto taxi serán atendidos, atendiendo al artículo 22 de la ordenanza reguladora del
+taxi de Granada (BOP núm 203, de 22 de octubre de 2015), por:
+
+a) sus titulares respectivos.
+
+b) la asociación del taxi correspondiente.
+
+c) este asunto no lo contempla la ordenanza municipal.
+
+24. Hallarse en posesión del permiso de conducción suficiente expedido por el órgano
+competente en materia de tráfico y seguridad vial; Disponer del permiso municipal de
+conductor o conductora de auto-taxi vigente para el ejercicio de la actividad; y figurar dada
+de alta y al corriente de pago en el régimen correspondiente de la Seguridad Social.
+
+Son requisitos que establece la ordenanza reguladora del servicio de transporte público de
+viajeros y viajeras en automóviles de turismo de Granada, para (señale la respuesta
+correcta):
+
+a) Solo las personas titulares.
+
+b) Las personas titulares, asalariados o autónomas colaboradoras.
+
+c) Ambas respuestas son incorrectas.
+
+25, La dirección del Centro de Valoración y Orientación de Personas con Discapacidad,
+dependiente de la Consejería de Asuntos Sociales de la Junta de Andalucía, en Granada, es:
+
+a) Calle Ángel Barrios, núm. 3
+
+b) Calle Buenos Aires, núm. 1.
+
+c) Carretera de Alfacar, núm. 13.
+
+26. Cuando los vehículos Auto-taxis circulen en situación de libre por lugares en los que no
+existan paradas o puntos de espera, y los conductores sean requeridos por varias personas al
+mismo tiempo para prestar un servicio. Atendiendo a lo que establece la ordenanza vigente
+¿cuál de las opciones que se indican a continuación tienen preferencia sobre los demás?
+
+a) En primer lugar los ancianos, independientemente del sentido de la circulación.
+
+b) Personas acompañadas de niños, cuando estos lloren desconsoladamente.
+
+c) Las personas que se encuentren en la acera correspondiente al sentido de circulación
+del vehículo
+
+27. En el supuesto de que el lector de pago con tarjeta del taxi no funcione al finalizar el
+servicio ¿qué debe hacer el conductor?
+
+
++) Mer de
+Cee
+
+a) Interrumpira el funcionamiento del taximetro cuando sea necesario que el vehiculo se
+dirija hasta la aproximación a un cajero para la extracción de la cantidad precisa y el
+retorno al punto de destino de la persona usuaria.
+
+b) Parará el taxi y acompañará al usuario, bien a un cajero automático o hasta su casa, esperará
+a que obtenga el dinero necesario y volverán juntos al taxi, en su caso, para continuar con el
+servicio.
+
+c) El conductor de auto-taxi, en ningún caso, está obligado a resolver este problema. El usuario
+que acceda al taxi siempre debe llevar dinero en efectivo y billetes de 20 euros o menos.
+
+28. El Centro Cívico del Distrito Ronda Marqués de Mondejar se encuentra ubicado:
+
+a) Calle Marqués de Mondejar, núm 3
+
+b) Plaza de la Ilusión, núm. 2
+
+c) Camino de Ronda s/n.
+
+29. La dirección para ir al Centro Cívico Albaicin es la siguiente:
+
+a) Plaza Aliatar, núm 1.
+
+b) Cuesta del Chapiz, núm 4.
+
+c) Calle de los Panaderos, núm. 6.
+
+30. El Juzgado de Menores de Granada se encuentra en:
+
+a) Avda. Del Sur, n* 5
+
+b) Calle Marqués de la Ensenada, n° 1
+
+c) Plaza Nueva, n* 10
+
+31. Un usuario le solicita un servicio para ir a la sede de la Federación Granadina de Personas
+con Discapacidad Física y Orgánica, FEGRADI COCEMFE GRANADA. ¿Cuál será la
+dirección del destino?
+
+a) Camino de Ronda s/n.
+
+b) Calle Buenos Aires, núm. 1.
+
+c) Paseo Laguna de Cameros, número 6.
+
+32. Le solicitan un servicio de recogida en la sede de la Asociación Granadina de Atención a
+personas con parálisis cerebral en Granada (ASPACE). ¿A dónde se debe dirigir?
+
+a) Calle Primavera, núm. 250.
+
+b) Calle Mercedes Gaibrois, núm. 39.
+
+c) Esta asociación no tiene su sede en Granada
+
+33. Son las once y media de la mañana y a través de central solicitan un servicio en Carrera del
+Darro, 11. Indique la respuesta correcta.
+
+
+de eg el
+SS pes
+sy DA
+a) Realizo el servicio solicitado.
+b) No puedo atender el servicio, está prohibido el acceso al Albaicín de cualquier taxi a esta
+hora.
+c) Debo retrasar el servicio hasta las once de la noche, porque si hago el servicio solicitado me
+multarían.
+34. La revisión municipal de los vehículos auto-taxi que establece el artículo 33 de la Ordenanza
+Municipal, se realizará:
+a) Anualmente o cuando se deban efectuar comprobaciones específicas, debidamente
+motivadas.
+b) Solo al inicio de la actividad o cada dos años.
+c) Cada cinco años en caso necesario.
+35. Nos debemos dirigir a la sede de la Asociación A Favor de las Personas Con Discapacidad
+Intelectual de Granada. Indique cual de las siguientes opciones es su dirección.
+a) Calle Sta. Adela, núm. 45.
+b) Avenida de Dílar, núm. 33.
+c) Calle Escritor Miguel Toro, núm. 7.
+|
+36. Aqui tiene su cambio, gracias.
+a) Herve is your chance, Thank you.
+b) Here is your change, Thank you
+c) Here is your share, Thank you
+37. There is a traffic jam
+a) Hay una grúa
+b) Hay un camión
+c) Hay un atasco
+38. Póngase el cinturón, por favor
+a) Put on your seat belt, please
+b) Put down your head set, please
+c) Put off your mask, please
+39. No olvide sus cosas
+a) Don't forgive your destination
+b) Don't forget your things
+c) Are you staying long?
+40. How many people can you fit?
+
+
+AOL,
+
+a) Cuanto tarda?
+
+b) Cuantas personas caben?
+
+c) Cuanto vale?
+
+Preguntas de reserva
+
+1. Como se define, en el Reglamento Andaluz del Taxi, el servicio de taxi o auto-taxi:
+
+a) transporte público discrecional de transporte de viajeros y viajeras en automóviles de
+turismo, prestado en régimen de actividad privada.
+
+b) transporte privado discrecional de transporte de viajeros y viajeras en automóviles de
+turismo, prestado en régimen de actividad pública.
+
+c) transporte público de viajeros y viajeras sin itinerario fijo prestado en automóviles de
+
+turismo mediante precio y en régimen de concesión administrativa.
+|
+| 2. ¿Puede la persona titular de licencia de taxi arrendar la explotación de la misma?
+
+a) Solo en casos justificados de accidente o avería, enfermedad o, en general, cualquier
+circunstancia que impida o haga imposible la continuidad en la prestación del servicio,
+suficientemente acreditada.
+
+b) Solo en favor del conductor asalariado.
+
+c) No, en ningún caso.
+
+3. ¿Porque causas se extinguen las licencias de taxi?
+
+a) Por renuncia de su titular.
+
+b) Por caducidad
+
+c) A y Bson correctas.
+
+4. A tenor de lo dispuesto en la Ordenanza Municipal ¿como adjudicará las licencias de auto-
+taxi el Ayuntamiento de Granada?:
+
+a) mediante concurso subasta
+
+b) mediante concurso publico
+
+c) mediante adjudicación directa.
+
+5. Según el régimen de visado, la vigencia de las licencias de auto taxi queda condicionada a:
+
+a) La aportación por parte del titular de la licencia que el vehículo ha pasado la ITV y reúne los
+requisitos necesarios para prestar el servicio.
+
+b) La constatación anual por parte del Ayuntamiento, o ente que asuma sus funciones en
+esta materia, del mantenimiento de las condiciones que justificaron su otorgamiento.
+
+c) En vehículos nuevos la constatación cada cinco años del mantenimiento de las condiciones
+que justificaron su otorgamiento. Transcurrido dicho plazo la licencia queda condicionada a
+la constatación anual por parte del Ayuntamiento, o ente que asuma sus funciones, del
+mantenimiento de las condiciones que justificaron su otorgamiento.

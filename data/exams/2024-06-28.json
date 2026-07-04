@@ -1,0 +1,615 @@
+{
+  "id": "2024-06-28",
+  "sourceFile": "2024-06-28_taxi-granada_examen-resuelto.pdf",
+  "date": "2024-06-28",
+  "datePrecision": "day",
+  "convocatoria": "junio 2024",
+  "organo": "Ayuntamiento de Granada (Movilidad)",
+  "notes": "Plantilla correctora con enunciados. Las respuestas correctas se han deducido del marcado en negrita del PDF (pdftohtml), ya que el texto plano no conserva el formato.",
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2024-06-28-general-1",
+          "number": 1,
+          "statement": "El servicio de taxi, regulado en Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en automóviles de turismo auto-taxis en el municipio de Granada, de 15 de marzo de 2024, se realizará por vehículos debidamente autorizados y residenciados en el Área de Prestación Conjunta.",
+          "options": [
+            { "key": "a", "text": "Verdadero." },
+            { "key": "b", "text": "Falso." },
+            { "key": "c", "text": "Se puede realizar con un vehículo particular." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-2",
+          "number": 2,
+          "statement": "Según el Artículo 6 de la Ordenanza, ¿qué no puede hacer la persona titular de la licencia de auto-taxi en ningún caso?",
+          "options": [
+            { "key": "a", "text": "Prestar el servicio por personas contratadas." },
+            { "key": "b", "text": "Arrendar, traspasar o ceder por cualquier título la explotación de la misma ni del vehículo adscrito a ella." },
+            { "key": "c", "text": "Participar en el concurso público para la adjudicación de licencias." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-3",
+          "number": 3,
+          "statement": "¿Existe parada de Taxi en Paseo del Generalife nº 3?",
+          "options": [
+            { "key": "a", "text": "Si existe." },
+            { "key": "b", "text": "No hay paradas de taxi en el recinto de la Alhambra." },
+            { "key": "c", "text": "La única parada en la Alhambra está en C/ Real de la Alhambra, nº 3." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-4",
+          "number": 4,
+          "statement": "La Dirección del Centro de Lenguas Modernas de la Universidad de Granada es:",
+          "options": [
+            { "key": "a", "text": "Avda. del Hospicio, nº 1." },
+            { "key": "b", "text": "C/ Villa de Oña, nº 10." },
+            { "key": "c", "text": "Placeta del Hospicio Viejo." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-5",
+          "number": 5,
+          "statement": "¿Cuántos días tienen las personas interesadas para alegar en defensa de sus derechos una vez publicada la lista de solicitudes admitidas dentro del procedimiento de adjudicación de licencias auto taxis, atendiendo al artículo 10 de la Ordenanza?",
+          "options": [
+            { "key": "a", "text": "Quince días." },
+            { "key": "b", "text": "Treinta días." },
+            { "key": "c", "text": "Cinco días." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-6",
+          "number": 6,
+          "statement": "Qué se entiende por Queja según el Decreto 82/2022, de 17 de mayo, por el que se regulan las hojas de quejas y reclamaciones de las personas consumidoras y usuarias de la Comunidad Autónoma de Andalucía:",
+          "options": [
+            { "key": "a", "text": "La manifestación dirigida, por una persona consumidora o usuaria, antes, durante o después de consumir un bien o recibir un servicio, dirigida hacia la persona física o jurídica, o ente sin personalidad jurídica, que lo comercializa o presta, en el que de forma expresa o tácita, pide una restitución, reparación o indemnización." },
+            { "key": "b", "text": "La manifestación de desagrado efectuada por una persona consumidora o usuaria, antes, durante o después de consumir un bien o recibir un servicio, que considera insatisfactorio, dirigida hacia la persona física o jurídica, o ente sin personalidad jurídica, que lo comercializa o presta, mostrando sólo disconformidad, sin efectuar reclamación alguna." },
+            { "key": "c", "text": "El escrito en el que se ponen en conocimiento de la administración Pública hechos que pudieran ser constitutivos de una infracción administrativa en materia de consumo." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-7",
+          "number": 7,
+          "statement": "Cuando el servicio de taxi se contrate previamente con precio cerrado, se visualizará a través del módulo luminoso exterior del vehículo con el número:",
+          "options": [
+            { "key": "a", "text": "1." },
+            { "key": "b", "text": "6." },
+            { "key": "c", "text": "2." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-8",
+          "number": 8,
+          "statement": "En caso de transmisión “mortis causa” de la licencia de auto-taxi, ¿cuál es el plazo máximo que tienen los herederos para determinar la nueva persona titular?",
+          "options": [
+            { "key": "a", "text": "Dieciocho meses." },
+            { "key": "b", "text": "Veinticuatro meses." },
+            { "key": "c", "text": "Treinta meses." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-9",
+          "number": 9,
+          "statement": "Señale la respuesta correcta, en caso de accidentes o averías:",
+          "options": [
+            { "key": "a", "text": "En caso de accidentes o avería que haga imposible la continuación del servicio el viajero o viajera podrá pedir la intervención de algún agente de la autoridad o testigos que no sean familiares que lo compruebe." },
+            { "key": "b", "text": "En caso de accidentes o avería que haga imposible la continuación del servicio, el viajero o viajera deberá abonar el importe de tal servicio hasta el momento referido, descontando la puesta en marcha del taxímetro." },
+            { "key": "c", "text": "En caso de accidentes o avería que haga imposible la continuación del servicio, el viajero o viajera deberá abonar el importe de tal servicio hasta el momento referido, incluida la puesta en marcha del taxímetro." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-10",
+          "number": 10,
+          "statement": "En la concertación de un servicio de taxi, según el artículo 56 de la Ordenanza, la persona conductora tendrá derecho a no esperar más de:",
+          "options": [
+            { "key": "a", "text": "15 minutos." },
+            { "key": "b", "text": "10 minutos." },
+            { "key": "c", "text": "30 minutos." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-11",
+          "number": 11,
+          "statement": "Según el Artículo 27 de la Ordenanza ¿qué se promoverá para alcanzar el porcentaje de licencias de taxi correspondientes a vehículos adaptados?",
+          "options": [
+            { "key": "a", "text": "La modificación de las características de los vehículos existentes." },
+            { "key": "b", "text": "La incorporación de vehículos adaptados para el transporte de personas usuarias con movilidad reducida." },
+            { "key": "c", "text": "La obligación de que todos los taxis nuevos sean vehículos adaptados." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-12",
+          "number": 12,
+          "statement": "El usuario o usuaria del Taxi deberá:",
+          "options": [
+            { "key": "a", "text": "Respetar la prohibición de beber o comer en el interior del vehículo." },
+            { "key": "b", "text": "Respectar la prohibición de beber o comer en el interior del vehículo sin previa autorización del conductor o conductora." },
+            { "key": "c", "text": "Está terminantemente prohibido consumir cualquier producto alimenticio dentro del vehículo, en automóviles de turismo auto-taxi." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-13",
+          "number": 13,
+          "statement": "El conductor de taxi respetará como orden de preferencia para la atención de los usuarios en las paradas el orden de espera de los mismos, salvo en caso de urgencias relacionadas con enfermos o personas que precisen de asistencia sanitaria:",
+          "options": [
+            { "key": "a", "text": "Falso." },
+            { "key": "b", "text": "Verdadero." },
+            { "key": "c", "text": "Siempre, aunque haya enfermos se sigue el orden de preferencia." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-14",
+          "number": 14,
+          "statement": "¿Qué requisito es necesario para la sustitución del vehículo adscrito a una licencia de taxi según el Artículo 21 de la Ordenanza?",
+          "options": [
+            { "key": "a", "text": "Que el vehículo sustituto sea de la misma marca, modelo y sea nuevo." },
+            { "key": "b", "text": "Que el vehículo sustituto cumpla los requisitos previstos en la Ordenanza." },
+            { "key": "c", "text": "Que el vehículo sustituto tenga menos de cinco años de antigüedad." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-15",
+          "number": 15,
+          "statement": "¿Dónde se encuentra la Delegación del Gobierno de la Junta de Andalucía en Granada?:",
+          "options": [
+            { "key": "a", "text": "Gran Vía de Colón, nº 54." },
+            { "key": "b", "text": "C/ Ancha de Gracia, nº 6." },
+            { "key": "c", "text": "Edif. Almanjayar, C/ Joaquina Eguaras, nº 2." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-16",
+          "number": 16,
+          "statement": "Los vehículos con licencia expedida por este Ayuntamiento atenderán con carácter exclusivo las paradas establecidas en el municipio de Granada o, en su caso, en los términos municipales que conforman el Área de Prestación Conjunta de Granada.",
+          "options": [
+            { "key": "a", "text": "Verdadero." },
+            { "key": "b", "text": "Falso." },
+            { "key": "c", "text": "Pueden parar en cualquier parada de taxis de cualquier municipio de Andalucía." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-17",
+          "number": 17,
+          "statement": "¿Qué condición establece para la vigencia de las licencias de auto-taxi la ordenanza municipal de Granada?",
+          "options": [
+            { "key": "a", "text": "La constatación periódica del mantenimiento de las condiciones que justificaron su otorgamiento." },
+            { "key": "b", "text": "La aprobación anual del Ayuntamiento." },
+            { "key": "c", "text": "La renovación del contrato de arrendamiento del vehículo." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-18",
+          "number": 18,
+          "statement": "Se considera Derecho del usuario o usuaria del Taxi:",
+          "options": [
+            { "key": "a", "text": "El usuario o usuaria podrá elegir el recorrido que considere más adecuado para la realización del servicio." },
+            { "key": "b", "text": "El usuario o usuaria sólo podrá sugerir el recorrido que considere más adecuado para la realización del servicio." },
+            { "key": "c", "text": "Ambas son incorrectas." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-19",
+          "number": 19,
+          "statement": "Uno de los elementos de la imagen corporativa de los taxis del Área de Prestación Conjunta es:",
+          "options": [
+            { "key": "a", "text": "Una franja verde en las puertas traseras del vehículo." },
+            { "key": "b", "text": "Una franja roja en las puertas delanteras del vehículo." },
+            { "key": "c", "text": "Una franja verde en las puertas delanteras del vehículo." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-20",
+          "number": 20,
+          "statement": "¿Qué debe hacer la persona adjudicataria una vez recibida la notificación de adjudicación?",
+          "options": [
+            { "key": "a", "text": "Pagar la tarifa de la licencia." },
+            { "key": "b", "text": "Aportar la documentación requerida en las bases del concurso." },
+            { "key": "c", "text": "Comenzar a operar inmediatamente." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-21",
+          "number": 21,
+          "statement": "Si el aire o calefacción del vehículo no funciona:",
+          "options": [
+            { "key": "a", "text": "El usuario o usuaria podrá bajar del vehículo sin coste alguno, al inicio del servicio." },
+            { "key": "b", "text": "El usuario o usuario podrá bajar del vehículo abonando sólo la puesta en marcha del taxímetro." },
+            { "key": "c", "text": "El usuario o usuaria no tiene derechos en el funcionamiento del aire o calefacción del vehículo." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-22",
+          "number": 22,
+          "statement": "El conductor de taxi estará obligado a facilitar a las personas usuarias cambio de moneda hasta la cantidad de:",
+          "options": [
+            { "key": "a", "text": "50 euros." },
+            { "key": "b", "text": "20 euros." },
+            { "key": "c", "text": "10 euros." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-23",
+          "number": 23,
+          "statement": "Según el Artículo 22 de la Ordenanza ¿cuál es la antigüedad máxima que puede tener un vehículo para continuar dedicado a la actividad del taxi?",
+          "options": [
+            { "key": "a", "text": "Diez años desde su primera matriculación." },
+            { "key": "b", "text": "Doce años desde su primera matriculación, salvo vehículos eléctricos o híbridos." },
+            { "key": "c", "text": "Quince años desde su primera matriculación." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-24",
+          "number": 24,
+          "statement": "Se considera Deberes de los conductores y conductoras, conforme a lo establecido en la Ordenanza municipal:",
+          "options": [
+            { "key": "a", "text": "Cuidar su aspecto personal y vestir adecuadamente durante su horario de prestación del servicio." },
+            { "key": "b", "text": "Observar un comportamiento correcto con las personas usuarias y atender a sus requerimientos en cuanto a las condiciones que puedan incidir en su confort." },
+            { "key": "c", "text": "Ambas son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-25",
+          "number": 25,
+          "statement": "El servicio de taxi podrá contratarse a través de radioemisoras de taxi, por teléfono, App, plataformas, empresas de intermediación u otros sistemas tecnológicos alternativos:",
+          "options": [
+            { "key": "a", "text": "No, sólo podrá contratarse el servicio en las paradas de taxis." },
+            { "key": "b", "text": "Verdadero." },
+            { "key": "c", "text": "Ni a ni b son correctas." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-26",
+          "number": 26,
+          "statement": "¿La ordenanza municipal señala específicamente algún criterio para la adjudicación de licencias de auto-taxi? Señálelo entre las siguientes opciones:",
+          "options": [
+            { "key": "a", "text": "La localización geográfica del solicitante." },
+            { "key": "b", "text": "El número de vehículos que posee el solicitante." },
+            { "key": "c", "text": "La antigüedad como conductor de taxi." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-27",
+          "number": 27,
+          "statement": "Indique la Dirección correcta del Centro Cívico Norte:",
+          "options": [
+            { "key": "a", "text": "Plaza Jesús Escudero García, nº 2." },
+            { "key": "b", "text": "C/ Julio Moreno Dávila, nº 4." },
+            { "key": "c", "text": "Plaza Rey Badis, nº 20." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-28",
+          "number": 28,
+          "statement": "El logotipo que tienen que llevar los taxis en las puertas delanteras indicando que son de Granada y del Área de Prestación Conjunta es:",
+          "options": [
+            { "key": "a", "text": "Logotipo de la Alhambra, aprobado por su Consejo de Gobierno." },
+            { "key": "b", "text": "Logotipo de una Granada, conforme al Anexo II de la Ordenanza." },
+            { "key": "c", "text": "Logotipo del Granada Club de Fútbol, aprobado por la Presidencia del equipo." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-29",
+          "number": 29,
+          "statement": "¿En qué situación se debe devolver la tarjeta de identificación de conductor o conductora al órgano competente?",
+          "options": [
+            { "key": "a", "text": "Al renovar la licencia de auto-taxi." },
+            { "key": "b", "text": "Cuando se solicite la suspensión de la licencia o en caso de fallecimiento de la persona titular, entre otros supuestos." },
+            { "key": "c", "text": "Después de cada turno de trabajo." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-30",
+          "number": 30,
+          "statement": "Según la Ordenanza los conductores y conductoras tendrán derecho a negarse a prestar sus servicios:",
+          "options": [
+            { "key": "a", "text": "Cuando cualquiera de los viajeros y viajeras se hallen en estado de manifiesta embriaguez o intoxicación por estupefacientes." },
+            { "key": "b", "text": "Cuando se considera por parte del conductor o conductora que los viajeros o viajeras no mantienen un comportamiento correcto." },
+            { "key": "c", "text": "Ambas son correctas." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-31",
+          "number": 31,
+          "statement": "El precio de la carrera mínima en la tarifa 1 es:",
+          "options": [
+            { "key": "a", "text": "4,25 euros." },
+            { "key": "b", "text": "5,28 euros." },
+            { "key": "c", "text": "6,50 euros." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-32",
+          "number": 32,
+          "statement": "¿Qué se necesita para prestar el servicio de transporte urbano en auto-taxi según el Artículo 5 de la Ordenanza?",
+          "options": [
+            { "key": "a", "text": "Autorización de la Consejería competente en materia de transportes." },
+            { "key": "b", "text": "Licencia expedida por el Órgano Gestor así como autorización expedida por el órgano correspondiente de la Consejería competente en materia de transportes." },
+            { "key": "c", "text": "Aprobación del Consejo Andaluz del Taxi." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-33",
+          "number": 33,
+          "statement": "Según el Real Decreto 1544/2007, de 23 de noviembre, por el que se regulan las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los modos de transporte para personas con discapacidad:",
+          "options": [
+            { "key": "a", "text": "Si la altura entre la calzada y el marco del umbral de la puerta lateral trasera es superior a 250 milímetros es obligatorio que lleve un escalón." },
+            { "key": "b", "text": "Si la altura entre la calzada y el marco del umbral de la puerta lateral trasera es superior a 200 milímetros es obligatorio que lleve un escalón." },
+            { "key": "c", "text": "Ambas son incorrectas." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-34",
+          "number": 34,
+          "statement": "Qué debe tener un vehículo auto-taxi para que se le permita la instalación de emisoras de radio según el Artículo 24 de la Ordenanza?",
+          "options": [
+            { "key": "a", "text": "La correspondiente autorización individual del órgano competente en materia de telecomunicaciones." },
+            { "key": "b", "text": "Un sistema de GPS homologado." },
+            { "key": "c", "text": "Dispositivos específicos de seguridad autorizados por el Órgano Gestor." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-general-35",
+          "number": 35,
+          "statement": "Las personas usuarias de vehículo auto-taxi podrán realizar el pago con tarjeta de crédito o cualquier otro medio de pago telemático:",
+          "options": [
+            { "key": "a", "text": "Sólo si es superior a 20 euros." },
+            { "key": "b", "text": "Verdadero." },
+            { "key": "c", "text": "Falso." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Cuestionario de inglés",
+      "questions": [
+        {
+          "id": "2024-06-28-ingles-1",
+          "number": 1,
+          "statement": "Elija la opción correcta para el siguiente enunciado: “Tenemos a su disposición hojas de reclamaciones”.",
+          "options": [
+            { "key": "a", "text": "We have customer complaint forms." },
+            { "key": "b", "text": "We have customs complaint forms." },
+            { "key": "c", "text": "We have customer complaint papers." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-ingles-2",
+          "number": 2,
+          "statement": "Elija la opción correcta para el siguiente enunciado: “You can book your taxi on this number”",
+          "options": [
+            { "key": "a", "text": "Puede comprar un libro sobre taxis." },
+            { "key": "b", "text": "Puede reservar su taxi en este número." },
+            { "key": "c", "text": "Puede parar aquí." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-ingles-3",
+          "number": 3,
+          "statement": "Elija la opción correcta para el siguiente enunciado: “El servicio es para cuatro pasajeros máximo”",
+          "options": [
+            { "key": "a", "text": "The service is up for two passengers." },
+            { "key": "b", "text": "The service is up for three passengers." },
+            { "key": "c", "text": "The service is up for four passengers." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-ingles-4",
+          "number": 4,
+          "statement": "Elija la opción correcta para el siguiente enunciado: “Enjoy your stay”",
+          "options": [
+            { "key": "a", "text": "Que disfrute su estancia." },
+            { "key": "b", "text": "Que disfrute su viaje.." },
+            { "key": "c", "text": "Que disfrute su almuerzo." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-ingles-5",
+          "number": 5,
+          "statement": "Elija la opción correcta para el siguiente enunciado: “Lost and found items”",
+          "options": [
+            { "key": "a", "text": "Fuera de servicio." },
+            { "key": "b", "text": "No aceptamos cheques." },
+            { "key": "c", "text": "Objetos perdidos." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "reserva",
+      "title": "Cuestionario de reserva",
+      "questions": [
+        {
+          "id": "2024-06-28-reserva-1",
+          "number": 1,
+          "statement": "¿Qué se publicará una vez finalizado el plazo de presentación de solicitudes para la adjudicación de licencias de auto-taxi?",
+          "options": [
+            { "key": "a", "text": "Un informe detallado de cada solicitud." },
+            { "key": "b", "text": "La lista de solicitudes recibidas y admitidas." },
+            { "key": "c", "text": "Las fechas para el próximo concurso." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-reserva-2",
+          "number": 2,
+          "statement": "En las paradas de taxis y puntos de espera la preferencia de subir viajeros vendrá determinada por el orden de llegada de los usuarios:",
+          "options": [
+            { "key": "a", "text": "Nunca." },
+            { "key": "b", "text": "Verdadero." },
+            { "key": "c", "text": "Ni a ni b son correctas." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-reserva-3",
+          "number": 3,
+          "statement": "Si se coge un taxi en Granada capital a las 14:00 horas para desplazarse hasta el pueblo de Las Gabias la tarifa aplicada sería:",
+          "options": [
+            { "key": "a", "text": "Tarifa interurbana desde la salida." },
+            { "key": "b", "text": "Tarifa 1." },
+            { "key": "c", "text": "Tarifa 2." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-reserva-4",
+          "number": 4,
+          "statement": "La prestación del servicio de taxi se podrá concertar:",
+          "options": [
+            { "key": "a", "text": "En la parada de taxis." },
+            { "key": "b", "text": "En la vía pública a requerimiento de los usuarios." },
+            { "key": "c", "text": "Ambas son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-06-28-reserva-5",
+          "number": 5,
+          "statement": "En el Registro de Licencias de auto-taxis se incluirá en todo caso (señale la opción correcta).",
+          "options": [
+            { "key": "a", "text": "Los precios actuales del servicio de taxi." },
+            { "key": "b", "text": "Las incidencias relativas a la titularidad y sanciones impuestas, entre otros." },
+            { "key": "c", "text": "Los horarios de operación de cada taxi." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

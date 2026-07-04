@@ -1,0 +1,264 @@
+# fuente: 2017-11-22_taxi-granada_plantilla.pdf
+# metodo: tesseract-ocr
+# ADVERTENCIA: si el metodo es OCR, revisar/corregir el texto a mano.
+
+A
+; AYUNTAMIENTO DE GRANADA
+CONCEJALIA DELEGADA DE PROTECCIÓN CIUDADANA Y MOVILIDAD
+EXAMEN PARA PERMISO MUNICIPAL DE CONDUCTOR/A DE AUTO-TAXI EN EL
+MUNICIPIO DE GRANADA
+22/11/2017
+CUESTIONARIO GENERAL
+1. Indique la dirección correcta para el siguiente destino: Colegio P. Vicente Alexandre.
+a) C/ Bethowen
+b) C/ Fernando de los Rios
+c) Avda. De Cadiz
+2. Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir al intercambiador
+del transporte metropolitano. ¿Dónde puede tomar el autobús de Huetor Vega?
+a) Camino de Ronda, n°1, aproximadamente
+b) C/ Profesor Tierno Galvan, frente al n° 3
+c) Avda. De Dílar s/n
+3. Indique la dirección correcta del siguiente destino: Colegio de Educación Infantil y Primaria
+José Hurtado (C.E.1.P.)
+a) C/ Don Bosco, n° 14
+b) C/ Molinos, n° 55
+c) C/ Tablas, n° 10
+4. El Conservatorio Profesional de Danza “Reina Sofía” está situado en:
+a) C/ Torre de los Picos, n° 6
+b) C/ Torre de Machuca, s/n
+c) C/ Angel Barrios
+5. Indique cuál es el recorrido más corto entre Puerta Real de España y la Cámara de Comercio
+de Granada.
+a) C/Recogidas, Cmno de Ronda, C/ Cruz del Sur y C/ Luis Amador
+b) Cl Recogidas, C/ Neptuno, circunvalación de Granada, Avda. Juan Pablo 11 y C/ Luis
+Miranda de Dávalos.
+e) C/Reyes Católicos, C/ Gran Vía de Colón, Avda. De la Constitución, Avda. De
+Andalucía, C/ Francisco Pradilla y C/ Luis Amador.
+6. El Colegio de Abogados de Granada se encuentra ubicado en:
+a) Plaza Santa Ana, n° 5
+b) €/ Gran Vía de Colón, n° 14
+c) Avda. Del Sur, n° i
+
+
+7. Nos solicitan ir al Registro de Parejas de Hecho, Delegación Territorial de la Consejería de
+Igualdad y Políticas Sociales de la Junta de Andalucia, con sede en Granada que se
+encuentra en:
+
+a) Plaza Nueva s/n
+b) Cmno. De Ronda, n* 110
+c) C/ Buenos Aires, n° 1
+8. Un usuario nos solicita ir a la Oficina de Extranjeria que se encuentra ubicada en:
+a) C/ Buenos Aires, n° 1
+b) C/ San Agapito
+c) C/ Santa Rosalía, n° 14
+9. La dirección del Hotel Alhambra Palace es:
+a) Paseo de los Mártires, s/n
+b) Plaza del Arquitecto García de Paredes, n* 1
+c) C/ Acera del Darro, n° 20
+10. La dirección actual de la Facultad de Medicina en Granada es:
+a) Avda. De la Constitución
+b) Avda. De Madrid
+c) Avda. De la Investigación
+
+11. Nos solicitan un servicio con inicio en la Glorieta Festival Internacional de Música y Danza.
+
+¿A donde nos dirigimos?
+a) Ala C/ Félix Rodriguez de la Fuente, junto a la Residencia de Ancianos “Hermanitas
+de los Pobres”.
+b) A la confluencia de la Avda. Severo Ochoa, la Avda. De Fuente Nueva y la C/
+Santa Bárbara,
+c) El Paseo del Generalife, junto al Paseo de los Mártires.
+12. La dirección de la Residencia de Estudiantes Fernando de los Ríos se encuentra en:
+a) C/ Julio Moreno Davila
+b) Carretera de Alfacar
+c) Avda. Fernando de los Rios
+13. Nos solicitan un servicio en el Hospital de San Rafael, ¿A dónde nos dirigiremos?
+a) Avda. Del Conocimiento sín
+b) Parque Tecnológico de la Salud
+c) C/ San Juan de Dios, n° 19
+14. El Hotel Corona de Granada se encuentra en:
+a) Cmno de Ronda, n° 101
+b) C/ Pedro Antonio de Alarcón, n° 10
+c) C/ Alhamar, n° 12
+15. Un usuario desea tomar el transporte metropolitano para ir al pueblo de Alfacar y nos pide
+que le llevemos al intercambiador. Nuestro destino será:
+a) Avda. Severo Ochoa
+b) Cl Capitán Moreno
+c) Paseos Universitarios de Fuentenueva
+
+
+16. Con carácter general los vehículos destinados al servicio de taxi en Granada, tendrán una
+capacidad de:
+a) 5 plazas más el conductor/a
+b) 3 plazas incluido/a el conductor/a
+c) 5 plazas más una para persona con movilidad reducida
+17. Según el Decreto 72/2008, de 4 de marzo, por el que se regulan las hojas de quejas y
+reclamaciones, de las personas consumidoras y usuarias de Andalucía, el modelo de hojas de
+quejas y reclamaciones en soporte papel estará integrado por:
+a) Un juego unitario de impresos autocalcables por duplicado.
+b) Un juego unitario de impresos autocalcables por triplicado.
+c) Un juego unitario de impresos autocalcables por cuadruplicado.
+18. A tenor del Decreto 72/2008, de 4 de marzo, quién deberá firmar la hoja de reclamaciones:
+a) El conductor del taxi y el reclamante
+b) Sólo el reclamante
+c) Indistintamente cualquiera de los dos anteriores
+19. ¿Por qué causas se extinguen las licencias de taxi?
+a) Por caducidad
+b) Por renuncia de su titular
+c) a y bson correctas
+20. Como norma general, las personas titulares de licencias de auto-taxi, podrán contratar, para
+la prestación del servicio, a:
+a) dos personas asalariadas
+b) una persona asalariada y una autónoma
+c) dos personas asalariadas si la persona titular se encuentra en situación de
+enfermedad de larga duración.
+21. ¿Según la Ordenanza Municipal, es obligatorio llevar impresora expendedora de recibos en
+el taxi?
+a) No, es opcional.
+b) Si, desde la entrada en vigor de la ordenanza, salvo que el titular solicite autorización
+para no ponerla.
+c) Si, porque el tiempo transitorio desde la entrada en vigor de la ordenanza ya ha
+finalizado.
+22. Son funciones de las Oficinas de Información al Consumidor y al Usuario:
+a) Servir de cauce de mediación voluntaria en conflictos,
+b) Facilitar un abogado para que el consumidor ponga la correspondiente denuncia
+judicial.
+c) No es una de sus funciones registrar denuncias, ya que han de enviarlas a las
+entidades y órganos competentes.
+23, ¿Cuál es la tarifa por kilómetro recorrido, en un servicio urbano, un miércoles a las 6:00
+horas de la mañana?
+a) 0,69€
+b) 0,58€
+c) 1,04€
+
+
+24. Las autorizaciones para realizar servicios en las Áreas Territoriales de Prestación Conjunta
+sustituirán a:
+
+a) las autorizaciones de transporte interurbano.
+b) las licencias municipales.
+c) las dos respuestas anteriores son correctas.
+
+25. La realización de servicios de transporte en vehículo auto-taxi careciendo del permiso
+municipal de conductor y conductora de auto-taxi se considera una falta:
+
+a) leve
+b) grave
+c) muy grave
+26. Las personas titulares de licencias auto-taxi en el municipio de Granada, podrán:
+a) solicitar voluntariamente que su taxi sea adaptado
+b) pasar su taxi a taxi adaptado sin necesidad de autorización
+c) tienen obligación de pasar su taxi a taxi adaptado cuando lo dicte el Ayuntamiento
+27. Podrá cambiarse el vehículo adscrito a la licencia de auto-taxi:
+a) Cuando el nuevo vehículo no tenga más de dos años.
+b) Cuando el nuevo vehículo no tenga más de cinco años.
+e) Cuando el nuevo vehículo sea de menor antigiiedad que el anterior.
+28. Podrá concertarse la prestación de un servicio:
+a) Mediante formulación de ofertas en andenes.
+b) En la vía pública, mediante una señal que pueda ser percibida por el conductor.
+c) En cualquier parte, mediante el pago de comisiones.
+
+29. Según el Reglamento de los Servicios de Transporte Público de Viajeros y Viajeras en
+Automóviles de Turismo ¿Es obligatorio llevar instalado el taxímetro en el vehículo auto-
+taxi?
+
+a) Si, en todos los municipios.
+
+b) No, en ningun municipio.
+
+c) Sólo en los municipios de más de 10.000 habitantes.
+30. Los vehículos adscritos a las licencias auto-taxi deberán:
+
+a) Pasar una revisión anual.
+
+b) Pasar una revisión antes de la puesta en servicio,
+
+c) Las respuestas a) y b) son correctas.
+
+31. Con carácter general las licencias municipales de auto taxi se otorgaran:
+
+a) Por un plazo máximo de cinco años tras el cual deberán someterse a revisión
+
+b) Quedarán condicionadas a la constatación anual por parte del Ayuntamiento de
+Granada, mediante el correspondiente visado, del mantenimiento de las condiciones
+que originariamente justificaron su otorgamiento.
+
+c) Se otorgarán por tiempo indefinido.
+
+32. Como se define, en el Reglamento Andaluz del Taxi, el servicio de taxi o auto-taxi:
+
+a) transporte público discrecional de transporte de viajeros y viajeras en
+automóviles de turismo, prestado en régimen de actividad privada.
+
+b) transporte privado discrecional de transporte de viajeros y viajeras en automóviles de
+turismo, prestado en régimen de actividad pública.
+
+c) transporte público de viajeros y viajeras sin itinerario fijo prestado en automóviles de
+
+
+turismo mediante precio y en régimen de concesión administrativa.
+
+33, ¿Puede la persona titular de licencia de taxi arrendar la explotación de la misma?
+
+a) Solo en casos justificados de accidente o avería, enfermedad o, en general, cualquier
+circunstancia que impida o haga imposible la continuidad en la prestación del
+servicio, suficientemente acreditada.
+
+b) Solo en favor del conductor asalariado.
+
+c) No, en ningún caso.
+
+34. Según la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras
+en Automóviles de Turismo Auto-Taxis en el Municipio de Granada ¿como se define el
+“Asalariado o asalariada”?:
+
+a) Persona que es contratada por el titular de la licencia para la realización de los
+servicios de taxi en los supuestos y con los requisitos que se determinen en esta
+Ordenanza.
+
+b) Aquellas autorizadas para la conducción en el servicio del taxi, en régimen especial
+de colaboración con el titular de la licencia, en los supuestos y con los requisitos que
+se determinen en la Ordenanza.
+
+c) Persona que materialmente lleva a cabo la prestación del servicio de taxi, bien en su
+condición de titular o en su cualidad de asalariada o de autónoma colaboradora,
+debidamente autorizada por este Ayuntamiento.
+
+35. Cuando vayamos a recoger alguna persona en caso de concertación previa ¿podemos exi gir
+alguna cantidad al usuario?
+
+a) No en ningún caso.
+
+b) Como máximo la cantidad que en cada momento venga determinada en las tarifas
+para cada horario como concepto de “bajada de bandera”.
+
+c) Como máximo el doble de la cantidad que en cada momento venga determinada
+en las tarifas para cada horario como concepto de “bajada de bandera”.
+
+CUESTIONARIO DE INGLÉS
+
+1. How much is the ride, please?
+a) ¿Cuanto es la tarifa diurna?
+b) ¿Cuanto es la carrera?
+c) ¿Cuanto es la bajada de bandera?
+
+2. Lléveme a la Alhambra, por favor
+a) Fly me to the Alhambra, please
+b) Don't go to the Alhambra, please
+c) Take me to the Alhambra, please
+
+3. There is a tax of 51 cents for every extra baggage.
+a) Hay un suplemento de 51 céntimos por cada maleta
+b) El taxi cuesta 51 céntimos por cada kilómetro recorrido
+c) La tarifa por salir de la estación es de 51 céntimos
+
+4. Can you wait here, please?
+a) ¿Puede aparcar aquí, por favor?
+b) ¿Puede esperar aquí, por favor?
+c) ¿Me lleva alli, por favor?
+
+
+5. Buenas tardes, al aeropuerto, por favor
+a) Good morning, to the airport, please
+b) Good afternoon to the airport, please
+c) Hello, to the airport, please

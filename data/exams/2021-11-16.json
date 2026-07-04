@@ -1,0 +1,609 @@
+{
+  "id": "2021-11-16",
+  "sourceFile": "2021-11-16_taxi-granada_examen-resuelto.pdf",
+  "date": "2021-11-16",
+  "datePrecision": "day",
+  "convocatoria": "noviembre 2021",
+  "organo": "Ayuntamiento de Granada. Órgano Gestor del Área de Prestación Conjunta del Servicio Auto-Taxi de Granada",
+  "notes": "Hoja de respuestas oficial: la opción correcta de cada pregunta aparece en negrita en el PDF; se ha detectado la negrita por fuente (Arial-BoldMT) y cada pregunta tiene exactamente una opción marcada. Las preguntas 36-40 son de inglés pero figuran dentro de la numeración continua del cuestionario general (sin encabezado de sección 'Cuestionario de inglés'), por lo que se incluyen en la sección general.",
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2021-11-16-general-1",
+          "number": 1,
+          "statement": "En el Área de Prestación Conjunta de Granada, las personas jurídicas pueden ser titulares de:",
+          "options": [
+            { "key": "a", "text": "Una licencia municipal de auto-taxi." },
+            { "key": "b", "text": "Varias licencias municipales de auto-taxi." },
+            { "key": "c", "text": "No pueden ser titulares de licencias municipales de auto-taxi." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-2",
+          "number": 2,
+          "statement": "Para un servicio al aeropuerto, la contratación por plaza con pago individual es una opción voluntaria de:",
+          "options": [
+            { "key": "a", "text": "Del Órgano Gestor del Área de Prestación Conjunta." },
+            { "key": "b", "text": "De las personas usuarias." },
+            { "key": "c", "text": "De la asociación de taxistas a la que pertenezca el taxista que va a realizar el servicio." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-3",
+          "number": 3,
+          "statement": "La publicidad en los taxis podrá instalarse en:",
+          "options": [
+            { "key": "a", "text": "Sólo en el exterior del vehículo." },
+            { "key": "b", "text": "Sólo en el interior del vehículo." },
+            { "key": "c", "text": "Tanto en el exterior como en el interior del vehículo." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-4",
+          "number": 4,
+          "statement": "El examen del Permiso Municipal de Conductor o Conductora de vehículo auto-taxi del Área de Prestación Conjunta de Granada se convocará, de forma ordinaria:",
+          "options": [
+            { "key": "a", "text": "Dos veces al año." },
+            { "key": "b", "text": "Tres veces al año." },
+            { "key": "c", "text": "Cuatro veces al año." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-5",
+          "number": 5,
+          "statement": "El tamaño de la tarjeta identificativa de conductor/a de auto-taxi será:",
+          "options": [
+            { "key": "a", "text": "A4" },
+            { "key": "b", "text": "A5" },
+            { "key": "c", "text": "A6" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-6",
+          "number": 6,
+          "statement": "La instalación de una nueva emisora de radio o de cualquier otro sistema de telecomunicación que tenga como finalidad la concertación de los servicios de taxi podrá:",
+          "options": [
+            { "key": "a", "text": "Instalarse por cualquier taxista sin autorización municipal." },
+            { "key": "b", "text": "Instalarse por cualquier asociación de taxistas sin autorización municipal." },
+            { "key": "c", "text": "Necesitará autorización previa del Órgano Gestor." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-7",
+          "number": 7,
+          "statement": "Pertenecen al Área de Prestación Conjunta de Granada, entre otros, los siguientes municipios:",
+          "options": [
+            { "key": "a", "text": "Granada y Vegas del Genil." },
+            { "key": "b", "text": "Maracena y Peligros." },
+            { "key": "c", "text": "Huetor Vega y Pulianas" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-8",
+          "number": 8,
+          "statement": "Transportar mayor número de viajeros y viajeras del autorizado para el vehículo auto-taxi, será una infracción:",
+          "options": [
+            { "key": "a", "text": "Leve." },
+            { "key": "b", "text": "Grave." },
+            { "key": "c", "text": "Muy grave." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-9",
+          "number": 9,
+          "statement": "Establece la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxi en el municipio de Granada que, la persona denunciada, dentro de los 15 días siguientes a la notificación de la incoación del procedimiento sancionador, podrá reconocer su responsabilidad realizando el pago voluntario de la multa, y se tendrá por concluido el procedimiento sancionador, en cuyo caso se reducirá la sanción, ¿en qué tanto por ciento?:",
+          "options": [
+            { "key": "a", "text": "25%." },
+            { "key": "b", "text": "35%" },
+            { "key": "c", "text": "50%" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-10",
+          "number": 10,
+          "statement": "En las puertas delanteras de los vehículos auto-taxi del Área de Prestación Conjunta de Granada, deberá aparecer el siguiente logo:",
+          "options": [
+            { "key": "a", "text": "Escudo del Ayuntamiento de Granada." },
+            { "key": "b", "text": "Una granada." },
+            { "key": "c", "text": "La signatura APC Granada." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-11",
+          "number": 11,
+          "statement": "¿Quién aprueba la revisión de las tarifas urbanas del servicio auto-taxi del Área de Prestación Conjunta?",
+          "options": [
+            { "key": "a", "text": "El/La Concejal/a Delegado/a en materia de Movilidad del Ayuntamiento de Granada." },
+            { "key": "b", "text": "El órgano competente de la Junta de Andalucía." },
+            { "key": "c", "text": "El órgano competente del Ministerio de Administraciones Públicas." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-12",
+          "number": 12,
+          "statement": "La parada de taxi más cercana del Mirador de San Nicolás está en:",
+          "options": [
+            { "key": "a", "text": "Cjón. Atarazana." },
+            { "key": "b", "text": "Cjón. San Nicolás." },
+            { "key": "c", "text": "C/ Espaldas de San Nicolás." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-13",
+          "number": 13,
+          "statement": "Si tenemos que llevar a una persona al centro de salud de Maracena, tendremos que llevarla a la siguiente calle:",
+          "options": [
+            { "key": "a", "text": "C/ Margarita Nelken" },
+            { "key": "b", "text": "Cmno. de los Eriales" },
+            { "key": "c", "text": "Avda. Dolores Ibárruri “Pasionaria”" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-14",
+          "number": 14,
+          "statement": "Para ir al CEIP Tierno Galván de Pulianas, tendremos que ir a la siguiente calle:",
+          "options": [
+            { "key": "a", "text": "Cmno. de los Yeseros" },
+            { "key": "b", "text": "Avda. Andalucía" },
+            { "key": "c", "text": "C/ Isaac Albéniz" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-15",
+          "number": 15,
+          "statement": "Como ha de realizarse el pago por parte de las personas usuarias:",
+          "options": [
+            { "key": "a", "text": "en metálico" },
+            { "key": "b", "text": "con tarjeta de crédito o cualquier otro medio de pago telemático." },
+            { "key": "c", "text": "a) y b) son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-16",
+          "number": 16,
+          "statement": "Los vehículos auto-taxis, cuando se encuentren de servicio, deberán dedicarse exclusivamente a la prestación del mismo, quedando prohibido el uso de los mismos para fines personales o cualesquiera otros. ¿qué se entiende por prestación del servicio a los efectos de la Ordenanza municipal reguladora del servicio del taxi?",
+          "options": [
+            { "key": "a", "text": "la concertación del servicio bien sea en la vía pública o a traves de la emisora." },
+            { "key": "b", "text": "la bajada de bandera." },
+            { "key": "c", "text": "la disponibilidad para prestar el servicio, esté o no ocupado por pasajeros el vehículo." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-17",
+          "number": 17,
+          "statement": "¿En qué plazo deberá presentar el titular de la licencia la solicitud de persona conductora asalariada o colaboradora autónoma a tenor de la Ordenanza municipal vigente?:",
+          "options": [
+            { "key": "a", "text": "en el plazo de 10 días desde que se realice el alta en la seguridad social." },
+            { "key": "b", "text": "en el plazo de 15 días desde que se realice el alta en la seguridad social." },
+            { "key": "c", "text": "en el plazo de 30 días desde que se realice el alta en la seguridad social." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-18",
+          "number": 18,
+          "statement": "Segun la Ordenanza municipal ¿cuál de los siguientes no es un requisito de las personas titulares de las licencias.?",
+          "options": [
+            { "key": "a", "text": "ser titular de otra licencia autotaxi o autorización de transporte interurbano en vehículo turismo." },
+            { "key": "b", "text": "Figurar inscrita y hallarse al corriente de sus obligaciones en el Régimen de la Seguridad Social que corresponda." },
+            { "key": "c", "text": "Hallarse al corriente en el cumplimiento de las obligaciones de carácter fiscal o laboral exigidas por la legislación vigente." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-19",
+          "number": 19,
+          "statement": "Cómo define la Ordenanza Municipal reguladora del servicio de transporte de viajeros en automóviles de turismo a las personas conductoras:",
+          "options": [
+            { "key": "a", "text": "Persona física o jurídica legalmente constituida a cuyo nombre se expida la correspondiente licencia o autorización." },
+            { "key": "b", "text": "Persona que es contratada por el titular de la licencia para la realización de los servicios de taxi en los supuestos y con los requisitos que se determinen en la Ordenanza." },
+            { "key": "c", "text": "Persona que materialmente lleva a cabo la prestación del servicio de taxi, bien en su condición de titular o en su cualidad de asalariada o de autónoma colaboradora, debidamente autorizada por este Ayuntamiento." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-20",
+          "number": 20,
+          "statement": "¿Quién es responsable de la colocación de los anclajes y cinturones de seguridad y de la manipulación de los equipos instalados en los vehículos adaptados?",
+          "options": [
+            { "key": "a", "text": "el personal de conducción" },
+            { "key": "b", "text": "el usuario o usuaria que accede al vehículo" },
+            { "key": "c", "text": "la persona acompañante de la persona con movilidad reducida." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-21",
+          "number": 21,
+          "statement": "Según la Ordenanza municipal ¿cuál es la primera norma de preferencia cuando los vehículos auto-taxis circulen en situación de libre por lugares en los que no existan paradas o puntos de espera, y los conductores sean requeridos por varias personas al mismo tiempo para la prestación de un servicio?",
+          "options": [
+            { "key": "a", "text": "Personas acompañadas de niños y mujeres embarazadas." },
+            { "key": "b", "text": "Enfermos, personas con movilidad reducida y ancianos." },
+            { "key": "c", "text": "Personas que se encuentren en la acera correspondiente al sentido de circulación del vehículo." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-22",
+          "number": 22,
+          "statement": "Según la citada Ordenanza ¿qué deberá hacer el conductor o conductora que encuentre objetos olvidados en el vehículo?",
+          "options": [
+            { "key": "a", "text": "los entregará en el plazo de 48 horas a la Policía Local." },
+            { "key": "b", "text": "los entregará en el plazo de 48 horas en las dependencias que designe este Ayuntamiento." },
+            { "key": "c", "text": "los entregará en el plazo de 72 horas en las dependencias que designe este Ayuntamiento." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-23",
+          "number": 23,
+          "statement": "¿Puede ir el conductor del taxi con pantalón corto mientras presta el servicio según la Ordenanza Municipal vigente?:",
+          "options": [
+            { "key": "a", "text": "si" },
+            { "key": "b", "text": "solo en verano" },
+            { "key": "c", "text": "no, debe ir con pantalón largo." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-24",
+          "number": 24,
+          "statement": "Las infracciones graves se sancionarán con multa de:",
+          "options": [
+            { "key": "a", "text": "Hasta 270,00€" },
+            { "key": "b", "text": "De 270,01€ a 1.380,00€" },
+            { "key": "c", "text": "De 270,01 a 2.760,00€" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-25",
+          "number": 25,
+          "statement": "¿Dónde se ubica el Teatro Alhambra?:",
+          "options": [
+            { "key": "a", "text": "C/ Molinos, número 56" },
+            { "key": "b", "text": "C/ Santiago, número 11" },
+            { "key": "c", "text": "C/ San Matías, número 23" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-26",
+          "number": 26,
+          "statement": "Los vehículos no podrán continuar dedicados a la actividad del taxi a partir de que alcancen una antigüedad superior a:",
+          "options": [
+            { "key": "a", "text": "12 años a contar desde su primera matriculación." },
+            { "key": "b", "text": "10 años a contar desde su primera matriculación." },
+            { "key": "c", "text": "15 años a contar desde su primera matriculación." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-27",
+          "number": 27,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y Primaria San Juan de Dios",
+          "options": [
+            { "key": "a", "text": "Gran Capitán, 15" },
+            { "key": "b", "text": "Avda. Maracena, 111" },
+            { "key": "c", "text": "Avda. Andalucía, 5" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-28",
+          "number": 28,
+          "statement": "¿Podrán los vehículos auto-taxi llevar instalada cámara de video-vigilancia?",
+          "options": [
+            { "key": "a", "text": "Sí , sin necesidad de autorización municipal" },
+            { "key": "b", "text": "Sí, previa autorización municipal." },
+            { "key": "c", "text": "No, en ningún caso" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-29",
+          "number": 29,
+          "statement": "¿ Porqué causas se extinguen las licencias de taxi?",
+          "options": [
+            { "key": "a", "text": "Por renuncia de su titular" },
+            { "key": "b", "text": "Por caducidad" },
+            { "key": "c", "text": "a y b son correctas" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-30",
+          "number": 30,
+          "statement": "Indique la dirección correcta para el siguiente destino, Colegio Público Vicente Aleixandre.",
+          "options": [
+            { "key": "a", "text": "Calle rector Marin Ocete Nº 1" },
+            { "key": "b", "text": "Calle Doctor García Royo nº 2" },
+            { "key": "c", "text": "Calle Beethoven Nº 6" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-31",
+          "number": 31,
+          "statement": "Un usuario no residente en Granada nos solicita ir a la Facultad de Medicina de Granada, nuestro destino será:",
+          "options": [
+            { "key": "a", "text": "Avenida de la Investigación nº 11. Parque Tecnológico de la Salud" },
+            { "key": "b", "text": "Avenida del Conocimiento nº 11 . Parque Tecnológico de la Salud" },
+            { "key": "c", "text": "Avenida de la Universidad, s/n. Parque Tecnológico de la Salud." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-32",
+          "number": 32,
+          "statement": "El Hotel Camino de Granada se localiza en:",
+          "options": [
+            { "key": "a", "text": "El Paseo de la Sabica nº 40 ,18009 Granada" },
+            { "key": "b", "text": "La calle Molinos nº 12, 18009 Granada" },
+            { "key": "c", "text": "Carretera de Málaga km. 29 , 18015 Granada" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-33",
+          "number": 33,
+          "statement": "Según la Ordenanza Reguladora del Servicio de Transporte de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxi en el Municipio de Granada, la capacidad útil del maletero será de :",
+          "options": [
+            { "key": "a", "text": "330 litros cómo mínimo" },
+            { "key": "b", "text": "400 litros cómo mínimo" },
+            { "key": "c", "text": "460 litros cómo mínimo" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-34",
+          "number": 34,
+          "statement": "Señale cual de las opciones siguientes es correcta según la Ordenanza Municipal.",
+          "options": [
+            { "key": "a", "text": "El personal de conducción que preste el servicio de taxi adaptado ha de ayudar a subir y bajar del vehículo a las personas con discapacidad con los elementos que puedan necesitar para desplazarse." },
+            { "key": "b", "text": "El personal de conducción no será responsable de la colocación de los anclajes y cinturones de seguridad y de la manipulación de los equipos instalados en los vehículos adaptados para facilitar el acceso y la salida de los vehículos de las personas que usen sillas de ruedas ó tengan otro tipo de discapacidad." },
+            { "key": "c", "text": "a y b son correctas ." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-35",
+          "number": 35,
+          "statement": "Según el artículo 52. de la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el municipio de Granada, la prestación del servicio de taxi se podrá concertar:",
+          "options": [
+            { "key": "a", "text": "En la vía pública , a requerimiento de los usuarios en las paradas de taxis." },
+            { "key": "b", "text": "A requerimiento de los usuarios con mediación de emisora de taxi ó cualquier otro sistema tecnológico de gestión de flotas de taxis destinado para tal fin." },
+            { "key": "c", "text": "a y b son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-36",
+          "number": 36,
+          "statement": "Please, wait here",
+          "options": [
+            { "key": "a", "text": "Aparque aquí, por favor" },
+            { "key": "b", "text": "Vaya allá, por favor" },
+            { "key": "c", "text": "Espere aquí, por favor" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-37",
+          "number": 37,
+          "statement": "Las mascotas deben ir en su transportín",
+          "options": [
+            { "key": "a", "text": "Pets in their carriers" },
+            { "key": "b", "text": "Birds in their carriers" },
+            { "key": "c", "text": "Cats in their carriers" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-38",
+          "number": 38,
+          "statement": "Debe llevar la mascarilla puesta, gracias.",
+          "options": [
+            { "key": "a", "text": "You need to wear your mask inside the car, thank you" },
+            { "key": "b", "text": "You need to tear your mark inside the car, thank you" },
+            { "key": "c", "text": "You don't need a mask inside the car, thank you" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-39",
+          "number": 39,
+          "statement": "Tariff 2 runs at night from 22:00 to 07:00",
+          "options": [
+            { "key": "a", "text": "La tarifa 2 es de dia de 10 a 7" },
+            { "key": "b", "text": "La tarifa 2 es de noche de 10 a 7" },
+            { "key": "c", "text": "La tarifa 2 es los fines de semana." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-general-40",
+          "number": 40,
+          "statement": "There's extra charge for baggage over 60 cm.",
+          "options": [
+            { "key": "a", "text": "Hay un suplemento por salida de estación" },
+            { "key": "b", "text": "Hay un suplemento por exceso de viajeros" },
+            { "key": "c", "text": "Hay un suplemento por equipaje de más de 60 cm." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "reserva",
+      "title": "Preguntas de reserva",
+      "questions": [
+        {
+          "id": "2021-11-16-reserva-1",
+          "number": 1,
+          "statement": "Según la Ordenanza municipal, son requisitos del personal de conducción.",
+          "options": [
+            { "key": "a", "text": "Hallarse en posesión del permiso de conducción suficiente expedido por el órgano competente en materia de tráfico y seguridad vial." },
+            { "key": "b", "text": "Disponer del permiso municipal de conductor o conductora de auto-taxi vigente para el ejercicio de la actividad." },
+            { "key": "c", "text": "a) y b) son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-reserva-2",
+          "number": 2,
+          "statement": "Según la Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía, los consumidores tendrán derecho a:",
+          "options": [
+            { "key": "a", "text": "La protección, reconocimiento y realización de sus legítimos intereses económicos y sociales." },
+            { "key": "b", "text": "La especial protección en aquellas situaciones de inferioridad, subordinación o indefensión en que puedan encontrarse individual o colectivamente." },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-reserva-3",
+          "number": 3,
+          "statement": "Según el Decreto 72/2008, de 4 de marzo, por el que se regulan las hojas de quejas y reclamaciones, de las personas consumidoras y usuarias de Andalucía, el modelo de hojas de quejas y reclamaciones en soporte papel estará integrado por:",
+          "options": [
+            { "key": "a", "text": "Un juego unitario de impresos autocalcables por duplicado." },
+            { "key": "b", "text": "Un juego unitario de impresos autocalcables por triplicado." },
+            { "key": "c", "text": "Un juego unitario de impresos autocalcables por cuadruplicado." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-reserva-4",
+          "number": 4,
+          "statement": "La Oficina de Extranjería que se encuentra ubicada en:",
+          "options": [
+            { "key": "a", "text": "C/ Buenos Aires, nº 1" },
+            { "key": "b", "text": "C/ San Agapito" },
+            { "key": "c", "text": "C/ Santa Rosalía, nº 14" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2021-11-16-reserva-5",
+          "number": 5,
+          "statement": "La dirección del Hotel Alhambra Palace es:",
+          "options": [
+            { "key": "a", "text": "Paseo de los Mártires, s/n" },
+            { "key": "b", "text": "Plaza del Arquitecto García de Paredes, nº 1" },
+            { "key": "c", "text": "C/ Acera del Darro, nº 20" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

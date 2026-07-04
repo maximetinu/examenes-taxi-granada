@@ -1,0 +1,17 @@
+{
+  "name": "examenes-taxi-granada",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Ingesta de exámenes de taxi de Granada a JSON tipado y validado",
+  "scripts": {
+    "extract-text": "node scripts/extract-text.mjs",
+    "gen-schema": "tsx scripts/gen-schema.mjs",
+    "validate": "tsx scripts/validate.mjs"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "zod": "^3.24.1",
+    "zod-to-json-schema": "^3.24.1"
+  }
+}

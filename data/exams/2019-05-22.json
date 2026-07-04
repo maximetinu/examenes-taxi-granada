@@ -1,0 +1,479 @@
+{
+  "id": "2019-05-22",
+  "sourceFile": "2019-05-22_taxi-granada_examen.pdf",
+  "date": "2019-05-22",
+  "datePrecision": "day",
+  "convocatoria": "mayo 2019",
+  "organo": null,
+  "notes": "Examen en blanco sin plantilla correctora: correctOption null en todas las preguntas. El documento no tiene cabeceras de sección explícitas y la numeración es continua (1-35); las preguntas 31-35 son claramente de inglés, por lo que se han separado en una sección 'ingles' conservando su numeración original. En la pregunta 28 el OCR/PDF duplica las claves de opción (a, a, b); se han corregido a a, b, c.",
+  "docType": "examen",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2019-05-22-general-1",
+          "number": 1,
+          "statement": "Los vehículos destinados a la prestación del servicio de taxi deberán reunir entre sus características (indique la respuesta más completa que sea correcta):",
+          "options": [
+            { "key": "a", "text": "La potencia mínima será de 54 CV Din. No obstante y en previsión de mejoras tecnológicas, previa justificación y con la aprobación del Ayuntamiento, podrá modificarse dicho límite." },
+            { "key": "b", "text": "La potencia será de 24 CV Din y tres puertas o cuatro puertas." },
+            { "key": "c", "text": "No tendrán limitación de potencia y como mínimo cuatro puertas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-2",
+          "number": 2,
+          "statement": "Cuando en el transcurso del servicio se produzca algún accidente, avería o detención no imputable al usuario, que momentánea o temporalmente lo interrumpe, se procederá:",
+          "options": [
+            { "key": "a", "text": "Continuará funcionando el taxímetro y descontará un importe del total del servicio." },
+            { "key": "b", "text": "Parando el taxímetro, y una vez reanudado el servicio tras la detención, el usuario estará obligado a pagar el importe de la nueva bajada de bandera. Es decir el importe del total contabilizado para el servicio." },
+            { "key": "c", "text": "Parando el taxímetro, y una vez reanudado el servicio tras la detención, el usuario no estará obligado a pagar el importe de esta nueva bajada de bandera, por lo que será descontado su importe del total del servicio." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-3",
+          "number": 3,
+          "statement": "El letrero luminoso en el centro del techo del vehículo y en su parte anterior, del vehículo auto taxi ¿Qué dimensiones tendrá?",
+          "options": [
+            { "key": "a", "text": "32 por 13 centímetros." },
+            { "key": "b", "text": "63 por 32 centímetros." },
+            { "key": "c", "text": "Depende del modelo de vehículo." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-4",
+          "number": 4,
+          "statement": "El letrero luminoso en el centro del techo del vehículo y en su parte anterior ¿que características tendrá? (señale la respuesta correcta)",
+          "options": [
+            { "key": "a", "text": "Llevar el texto TAXI GRANADA en un compartimento, y en el otro la palabra LIBRE, con iluminación independiente para cada uno de ellos." },
+            { "key": "b", "text": "Solo un compartimento con todo el texto, Taxi Granada y Libre." },
+            { "key": "c", "text": "Dos compartimentos, uno con libre y otro con ocupado, que se iluminaran alternativamente." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-5",
+          "number": 5,
+          "statement": "Los titulares de licencias podrán sustituir el vehículo:",
+          "options": [
+            { "key": "a", "text": "Por otro, sin necesidad de tramitar autorización previa." },
+            { "key": "b", "text": "Por otro, para lo que solo necesita la autorización municipal." },
+            { "key": "c", "text": "Las dos respuesta anteriores son incorrectas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-6",
+          "number": 6,
+          "statement": "La revisión municipal preceptiva establecida en el artículo 34 de la Ordenanza Municipal, se realizará:",
+          "options": [
+            { "key": "a", "text": "Anualmente" },
+            { "key": "b", "text": "Cada dos años." },
+            { "key": "c", "text": "Cada cinco años." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-7",
+          "number": 7,
+          "statement": "Según el artículo 43 de la ordenanza municipal, señale la opción correcta:",
+          "options": [
+            { "key": "a", "text": "Se prohíbe recoger viajeros en puntos que disten menos de cincuenta metros de las paradas oficiales establecidas, salvo en el caso de que dichas paradas se encuentren desiertas por no existir vehículos." },
+            { "key": "b", "text": "Se prohíbe recoger viajeros en puntos que disten menos de cincuenta metros de las paradas oficiales establecidas, en cualquier caso." },
+            { "key": "c", "text": "Se prohíbe recoger viajeros en puntos que disten menos de cien metros de las paradas oficiales establecidas, salvo en el caso de que dichas paradas se encuentren desiertas por no existir vehículos." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-8",
+          "number": 8,
+          "statement": "Atendiendo al artículo 52 de la Ordenanza que regula el servicio, los conductores deberán seguir el itinerario señalado por el pasajero:",
+          "options": [
+            { "key": "a", "text": "Siempre que pueda hacerse sin incumplir las normas y señales de circulación." },
+            { "key": "b", "text": "Siempre. Las órdenes son las órdenes." },
+            { "key": "c", "text": "Solo cuando sea el recorrido más corto." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-9",
+          "number": 9,
+          "statement": "Abrir o cerra los cristales a indicación del usuario; ayudar a salir y a apearse del vehículo a los ancianos, enfermos, inválidos, niños y en general a cuantas personas lo precisen por su estado físico; recoger y colocar adecuadamente las maletas y demás bultos de equipaje; encender la luz interior del vehículo por la noche, para facilitar la subida y bajada y el pago del servicio; bajar el volumen del receptor de radio a voluntad del pasajero. Son:",
+          "options": [
+            { "key": "a", "text": "Obligaciones del conductor de taxi." },
+            { "key": "b", "text": "Normas generales que no obligan al conductor de taxi." },
+            { "key": "c", "text": "Recomendaciones de carácter general que nada tienen que ver con el servicio de taxi." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-10",
+          "number": 10,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y Primaria Arrayanes (C.E.I.P).",
+          "options": [
+            { "key": "a", "text": "Calle Rector Marín Ocete, nº 1." },
+            { "key": "b", "text": "Calle Merced Alta, s/n." },
+            { "key": "c", "text": "Calle Casería de Afguirre, nº 40." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-11",
+          "number": 11,
+          "statement": "Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir al intercambiador de transporte metropolitano. ¿dónde pueda tomar el autobús a la Zubia?",
+          "options": [
+            { "key": "a", "text": "Avenida de Dílar, s/n." },
+            { "key": "b", "text": "Camino de Ronda, nº 1, aproximadamente." },
+            { "key": "c", "text": "Violón, frente Palacio de Congresos." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-12",
+          "number": 12,
+          "statement": "El conservatorio profesional de música Ángel Barrios está situado en:",
+          "options": [
+            { "key": "a", "text": "En la calle Ángel Barrios" },
+            { "key": "b", "text": "La calle Torre de los Picos, nº 6." },
+            { "key": "c", "text": "La calle San Jerónimo, nº 46." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-13",
+          "number": 13,
+          "statement": "Nos solicitan ir a la Delegación Territorial de Fomento y Vivienda en Granada, el destino correcto es:",
+          "options": [
+            { "key": "a", "text": "Edificio \"Almanjayar\". Avenida Joaquina Eguaras, núm. 2." },
+            { "key": "b", "text": "Edifico \"La normal. Calle Gran Vía de Colón, s/n." },
+            { "key": "c", "text": "Ninguna de las anteriores, la Delegación Territorial está en Sevilla." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-14",
+          "number": 14,
+          "statement": "Nos solicitan una recogida en la glorieta Festival de Música y Danza, nos dirigimos a:",
+          "options": [
+            { "key": "a", "text": "La confluencia de la avenida Severo Ochoa, la avenida de Fuente Nueva y la calle Santa Bárbara." },
+            { "key": "b", "text": "La calle Félix Rodríguez de la Fuente, junto al asilo de ancianos \"Hermanitas de los Pobres\"." },
+            { "key": "c", "text": "El Paseo del Generalife, junto al Paseo de los Mártires." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-15",
+          "number": 15,
+          "statement": "La dirección del la Facultad de Ciencias de la Salud de Granada es:",
+          "options": [
+            { "key": "a", "text": "Avenida de la Ilustración, nº 60. Parque Tecnológico de la Salud." },
+            { "key": "b", "text": "Avenida del Conocimiento, nº 11. Parque Tecnológico de la Salud." },
+            { "key": "c", "text": "Avenida de la Universidad, s/n Parque Tecnológico de la Salud." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-16",
+          "number": 16,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y Primaria Federico García Lorca (C.E.I.P).",
+          "options": [
+            { "key": "a", "text": "Calle Poeta César Vallejo, nº 6" },
+            { "key": "b", "text": "Calle Rector Marín Ocete, nº 1." },
+            { "key": "c", "text": "Calle García Lorca, nº 40." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-17",
+          "number": 17,
+          "statement": "Indique la dirección correcta para el siguiente destino: Instituto Miguel de Cervantes.",
+          "options": [
+            { "key": "a", "text": "Este instituto no está en Granada." },
+            { "key": "b", "text": "Camino de los Neveros, nº 1." },
+            { "key": "c", "text": "Calle Profesor Albareda, s/n." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-18",
+          "number": 18,
+          "statement": "Nos solicitan ir al Centro de día \"Buenos Aires\", junto a la Confederación Granadina de Empresarios, el destino correcto es:",
+          "options": [
+            { "key": "a", "text": "Calle Maestro Montero." },
+            { "key": "b", "text": "Calle Eudoxia Piriz." },
+            { "key": "c", "text": "Avenida de la Argentinita." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-19",
+          "number": 19,
+          "statement": "Efectúe el siguiente servicio por el recorrido más corto: Estación de autobuses de Granada a Hotel Granada Center. (elija la opción correcta)",
+          "options": [
+            { "key": "a", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, av. Francisco Ayala, Pintor Francisco Pradilla, av. de Andalucía, av. de la Constitución, av. Severo Ochoa." },
+            { "key": "b", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Avenida Fuente Nueva." },
+            { "key": "c", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Calle Julio Verne, calle Arabial, calle Mendez Nuñez, Avenida Fuente Nueva." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-20",
+          "number": 20,
+          "statement": "¿Cuanto vale la bajada de bandera en un miércoles festivo a las 11 de la mañana, para un trayecto urbano?",
+          "options": [
+            { "key": "a", "text": "1,54 euros" },
+            { "key": "b", "text": "1,52 euros" },
+            { "key": "c", "text": "1,92 euros" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-21",
+          "number": 21,
+          "statement": "En la Tarifa 2 de las tarifas urbanas, ¿cuanto cuesta cada hora de espera?",
+          "options": [
+            { "key": "a", "text": "2,39 euros" },
+            { "key": "b", "text": "26,48 euros" },
+            { "key": "c", "text": "25,25 euros" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-22",
+          "number": 22,
+          "statement": "Según el cuadro de tarifas vigente en un servicio de transporte interurbano, un día laborable entre las 6 y las 22h, se aplicará:",
+          "options": [
+            { "key": "a", "text": "la tarifa 1" },
+            { "key": "b", "text": "la tarifa 8" },
+            { "key": "c", "text": "la tarifa 7" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-23",
+          "number": 23,
+          "statement": "¿Cuantos años una persona puede ser titular de una licencia municipal de auto taxi?",
+          "options": [
+            { "key": "a", "text": "4 años desde su obtención" },
+            { "key": "b", "text": "5 años desde su obtención" },
+            { "key": "c", "text": "Indefinida" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-24",
+          "number": 24,
+          "statement": "¿Donde comienza el servicio interurbano?",
+          "options": [
+            { "key": "a", "text": "en el límite del municipio de Granada con otros municipios." },
+            { "key": "b", "text": "en el término municipal del municipio de destino." },
+            { "key": "c", "text": "en el sitio donde se recoge al cliente cuando nos pide que le llevemos a otro municipio." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-25",
+          "number": 25,
+          "statement": "Según la Ordenanza Municipal de Granada ¿cual es el cambio mínimo que esta obligado a facilitar el conductor?",
+          "options": [
+            { "key": "a", "text": "10 euros" },
+            { "key": "b", "text": "20 euros" },
+            { "key": "c", "text": "50 euros." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-26",
+          "number": 26,
+          "statement": "¿Cuántos eurotaxis, como mínimo, debe haber en el municipio de Granada?",
+          "options": [
+            { "key": "a", "text": "36" },
+            { "key": "b", "text": "5% de la flota" },
+            { "key": "c", "text": "2/3 de la flota" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-27",
+          "number": 27,
+          "statement": "El Centro Cultural Federico García Lorca se encuentra en:",
+          "options": [
+            { "key": "a", "text": "La Plaza Isabel La Católica" },
+            { "key": "b", "text": "La Plaza Benalúa" },
+            { "key": "c", "text": "La Plaza de la Romanilla" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-28",
+          "number": 28,
+          "statement": "La Jefatura Superior de la Policía Nacional se encuentra en:",
+          "options": [
+            { "key": "a", "text": "C/ México" },
+            { "key": "b", "text": "C/ Palmita" },
+            { "key": "c", "text": "C/ Amapola" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-29",
+          "number": 29,
+          "statement": "¿Cuál es el recorrido más corto entre el Estadio CF Nuevo Los Cármenes y la Comisaría Nacional de Policía (Distrito Sur)?",
+          "options": [
+            { "key": "a", "text": "C/ Pintor Manuel Maldonado, C/ Poeta Gracián, Avda. De Dílar, C/ Chile" },
+            { "key": "b", "text": "C/ Pintor Manuel Maldonado, C/ Torre de Comares, C/ Chile" },
+            { "key": "c", "text": "C/ Torre de Comares, Avda. Del Conocimiento, Avda. De Dílar, C/ Uruguay" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-general-30",
+          "number": 30,
+          "statement": "¿A qué dirección llevaremos a una persona que quiere ir al Hospital HLA Inmaculada?",
+          "options": [
+            { "key": "a", "text": "C/ Mozart" },
+            { "key": "b", "text": "C/ Doctor Alejandro Otero" },
+            { "key": "c", "text": "C/ Doctor López Font" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Cuestionario de inglés",
+      "questions": [
+        {
+          "id": "2019-05-22-ingles-31",
+          "number": 31,
+          "statement": "Me da una factura, por favor?",
+          "options": [
+            { "key": "a", "text": "Can I have a recipe?" },
+            { "key": "b", "text": "Can I have a recipient?" },
+            { "key": "c", "text": "Can I have a receipt?" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-ingles-32",
+          "number": 32,
+          "statement": "Arranged service",
+          "options": [
+            { "key": "a", "text": "Servicio de reparto" },
+            { "key": "b", "text": "Servicio concertado" },
+            { "key": "c", "text": "Servicio complementario" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-ingles-33",
+          "number": 33,
+          "statement": "¿De dónde es usted?",
+          "options": [
+            { "key": "a", "text": "Where are you from?" },
+            { "key": "b", "text": "Where are you staying?" },
+            { "key": "c", "text": "Where to?" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-ingles-34",
+          "number": 34,
+          "statement": "Necesito un eurotaxi para mañana a las 10",
+          "options": [
+            { "key": "a", "text": "I need a taxi van for tomorrow at 10" },
+            { "key": "b", "text": "I need an adapted vehicle for tomorrow at 10" },
+            { "key": "c", "text": "I need a pick up taxi for tomorrow at 10" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-05-22-ingles-35",
+          "number": 35,
+          "statement": "The minimum race of the two tariff is 5.02 €",
+          "options": [
+            { "key": "a", "text": "La carrera mínima en la terminal dos es de €5.02" },
+            { "key": "b", "text": "La carrera mínima de la tarifa dos es de €5.02" },
+            { "key": "c", "text": "La mínima carrera de las dos tarifas es de €5.02" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

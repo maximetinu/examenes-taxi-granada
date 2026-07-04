@@ -1,0 +1,615 @@
+{
+  "id": "2024-10-31",
+  "sourceFile": "2024-10-31_taxi-granada_examen-resuelto.pdf",
+  "date": "2024-10-31",
+  "datePrecision": "day",
+  "convocatoria": "octubre 2024",
+  "organo": "Ayuntamiento de Granada",
+  "notes": "La capa de texto (pdftotext) no conserva la negrita; las respuestas correctas se leyeron de las imágenes del PDF, donde la opción correcta aparece en negrita.",
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2024-10-31-general-1",
+          "number": 1,
+          "statement": "Indique la ubicación del Tribunal Superior de Justicia de Andalucía:",
+          "options": [
+            { "key": "a", "text": "Av. del Sur, nº1. Granada." },
+            { "key": "b", "text": "Av. del Sur, nº1. Sevilla." },
+            { "key": "c", "text": "Plaza Nueva, nº10. Granada." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-2",
+          "number": 2,
+          "statement": "Señale la dirección correcta de la Facultad de Ciencias de la Salud:",
+          "options": [
+            { "key": "a", "text": "Avda. de la Ilustración, 60." },
+            { "key": "b", "text": "Avda. del Conocimiento, 20." },
+            { "key": "c", "text": "Avda. Doctor Jesús Candel Fábregas, 20." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-3",
+          "number": 3,
+          "statement": "Según el Real Decreto 1544/2007, de 23 de noviembre, por el que se regulan las condiciones básicas de accesibilidad y no discriminación para el acceso y utilización de los modos de transporte para personas con discapacidad:",
+          "options": [
+            { "key": "a", "text": "Los ayuntamientos promoverán que al menos un 6 por ciento, o fracción, de las licencias de taxi correspondan a vehículos adaptados." },
+            { "key": "b", "text": "Los ayuntamientos promoverán que al menos un 7 por ciento, o fracción, de las licencias de taxi correspondan a vehículos adaptados." },
+            { "key": "c", "text": "Los titulares de las licencias solicitarán voluntariamente que su taxi sea adaptado." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-4",
+          "number": 4,
+          "statement": "Usted es titular de una licencia del Área Territorial de Prestación Conjunta (APC) de Granada y le solicitan realizar un servicio con origen en el municipio de Pulianas y destino en el municipio de Granada, siendo las diez horas y veinte minutos (10:20 a.m.) de un viernes laboral. La tarifa correspondiente a la bajada de bandera que se aplicará al mismo será (seleccione la opción correcta):",
+          "options": [
+            { "key": "a", "text": "El correspondiente a la Tarifa 1. 1,60 €." },
+            { "key": "b", "text": "El correspondiente a la Tarifa 2. 2,02 €." },
+            { "key": "c", "text": "El correspondiente a la Tarifa 7. 3,51€." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-5",
+          "number": 5,
+          "statement": "Señale la dirección del Ayuntamiento de Peligros:",
+          "options": [
+            { "key": "a", "text": "Plaza de España, 1. Peligros." },
+            { "key": "b", "text": "Plaza de la Constitución, 1. Peligros." },
+            { "key": "c", "text": "C/Veracruz, 1. Peligros." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-6",
+          "number": 6,
+          "statement": "Atendiendo a las tarifas vigentes, señale: ¿cuál es el suplemento por cada maleta o bulto?",
+          "options": [
+            { "key": "a", "text": "0,53 €, por cada maleta o bulto." },
+            { "key": "b", "text": "1,03 €, por todas las maletas y bultos." },
+            { "key": "c", "text": "2,00 €, cuando el servicio tenga origen o destino el aeropuerto, estación, pase por la Puerta de los Carros de la Alhambra o la barrera situada junto a las taquillas de la misma." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-7",
+          "number": 7,
+          "statement": "La Administración competente para autorizar un Área Territorial de Prestación Conjunta es:",
+          "options": [
+            { "key": "a", "text": "La Junta de Andalucía." },
+            { "key": "b", "text": "El Ayuntamiento." },
+            { "key": "c", "text": "El Consorcio Metropolitano de Transporte." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-8",
+          "number": 8,
+          "statement": "¿Dónde se encuentra el Palacio de los Córdova en Granada?",
+          "options": [
+            { "key": "a", "text": "En el Realejo." },
+            { "key": "b", "text": "Cerca de la Alhambra." },
+            { "key": "c", "text": "En el Albaicín. Cerca del Paseo de los Tristes." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-9",
+          "number": 9,
+          "statement": "¿Qué personas están obligadas a disponer de hojas de quejas y reclamaciones según el Decreto 72/2008?",
+          "options": [
+            { "key": "a", "text": "Los empresarios del sector público de Andalucía, exclusivamente." },
+            { "key": "b", "text": "Sólo las grandes empresas de más de 30 empleados que comercialicen bienes o presten servicios en Andalucía." },
+            { "key": "c", "text": "Todas las personas físicas o jurídicas que comercialicen bienes o presten servicios en Andalucía." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-10",
+          "number": 10,
+          "statement": "Según el Real Decreto 1544/2007, de 23 de noviembre:",
+          "options": [
+            { "key": "a", "text": "El taxi accesible deberá llevar un respaldo con reposacabezas fijo." },
+            { "key": "b", "text": "El taxi accesible deberá llevar un respaldo con reposacabezas móvil, que se pueda adaptar a las necesidades del mismo." },
+            { "key": "c", "text": "No llevará respaldo alguno, pero sí dispondrá de anclaje para la silla de ruedas." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-11",
+          "number": 11,
+          "statement": "Según el Decreto 72/2008, de 4 de marzo, por el que se regulan las hojas de quejas y reclamaciones de las personas consumidoras y usuarias en Andalucía y las actuaciones administrativas relacionadas con ellas, ¿quién es el responsable de tramitar las reclamaciones que se presenten a través de las hojas de quejas y reclamaciones?:",
+          "options": [
+            { "key": "a", "text": "El propio establecimiento donde se realizó la reclamación." },
+            { "key": "b", "text": "La Administración competente en materia de consumo." },
+            { "key": "c", "text": "Los servicios de atención al cliente de la empresa." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-12",
+          "number": 12,
+          "statement": "Entre los apoyos complementarios, tales como ayudas económicas, productos y tecnologías de apoyo, servicios o tratamientos especializados, otros servicios personales, etc. para el establecimiento de condiciones básicas de accesibilidad y no discriminación encontramos en particular:",
+          "options": [
+            { "key": "a", "text": "Pictogramas." },
+            { "key": "b", "text": "Código Morse." },
+            { "key": "c", "text": "Domótica." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-13",
+          "number": 13,
+          "statement": "Para la colocación de anuncios publicitarios en el vehículo los titulares de la licencia deberán:",
+          "options": [
+            { "key": "a", "text": "Ser autorizados por la Junta de Andalucía." },
+            { "key": "b", "text": "Ser autorizados por los municipios." },
+            { "key": "c", "text": "Será suficiente con presentar una declaración responsable ante la Administración local indicando el cumplimiento de la normativa vigente en la materia." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-14",
+          "number": 14,
+          "statement": "Usted es titular de una licencia auto-taxi del Área Territorial de Prestación Conjunta (APC) de Granada y le solicitan realizar un servicio con origen el municipio de Pulianas y destino el municipio de Granada. ¿Qué tarifa se aplicará al servicio si se realiza por la mañana de un día laboral?",
+          "options": [
+            { "key": "a", "text": "El servicio no lo puedo realizar porque debo estar en posesión de la licencia del municipio de Pulianas." },
+            { "key": "b", "text": "El servicio sí lo puedo realizar, pero tengo que aplicar la tarifa 7, aprobada por resolución de 5 de febrero de 2024 de la Dirección General de Movilidad y Transportes (BOJA nº 30 de 12.02.2024)." },
+            { "key": "c", "text": "El servicio se realiza aplicando la tarifa 1 (resolución de la Consejería de Economía, Hacienda y Fondos Europeos de 16.08.2023, publicada en BOJA nº 170 de 05.09.2023)." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-15",
+          "number": 15,
+          "statement": "Señale en qué horario se aplica la tarifa especial nocturna los sábados y festivos según las tarifas vigentes para el APC de Granada:",
+          "options": [
+            { "key": "a", "text": "De 22:00 a 7:00 horas." },
+            { "key": "b", "text": "De 1:00 a 6:00 horas." },
+            { "key": "c", "text": "Estas tarifas sólo se aplican para la ciudad de Granada." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-16",
+          "number": 16,
+          "statement": "Según la resolución de la Consejería de Economía, Hacienda y Fondos Europeos de 16.08.2023, la tarifa especial nocturna se aprueba condicionada a que el servicio sea atendido por, al menos, las dos terceras partes de la flota existente en cada momento. Asimismo la condiciona a que la misma cantidad de vehículos estén en servicio de 14:00 a 16:00 horas en días laborables. Seleccione la respuesta entre las siguientes:",
+          "options": [
+            { "key": "a", "text": "La afirmación es verdadera." },
+            { "key": "b", "text": "Es falsa." },
+            { "key": "c", "text": "La primera parte es verdadera y la segunda parte es falsa." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-17",
+          "number": 17,
+          "statement": "El Área Territorial de Prestación Conjunta del Taxi de Granada está conformada por los siguientes municipios:",
+          "options": [
+            { "key": "a", "text": "Granada más Armilla, Cenes de la Vega, Maracena, Peligros, Pulianas, Huétor Vega, Ogíjares, Vegas del Genil, Churriana de la Vega." },
+            { "key": "b", "text": "Los señalados en la opción “a” más los municipios de Jun, Cájar y La Zubia." },
+            { "key": "c", "text": "Granada, Albolote, Armilla, Huétor Santillan, Loja, Guadix y Baza." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-18",
+          "number": 18,
+          "statement": "¿Existe parada de Taxis en C/ Cerro de los Machos, nº 2?",
+          "options": [
+            { "key": "a", "text": "No existe. La más cercana es en Camino Real de los Neveros, nº20." },
+            { "key": "b", "text": "No existe. La más cercana es en Paseo Laguna de Cameros, nº14." },
+            { "key": "c", "text": "Sí existe." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-19",
+          "number": 19,
+          "statement": "El artículo 67 de la ordenanza reguladora del servicio Auto-taxis vigente en Granada, interrupción del funcionamiento del taxímetro, establece que si iniciado un servicio, el conductor del taxi hubiere olvidado poner en marcha el contador, el importe devengado del servicio hasta el momento de advertir la omisión, e independientemente del recorrido efectuado y aun en el supuesto de que la carrera hubiere llegado a su fin, corresponde a:",
+          "options": [
+            { "key": "a", "text": "Se divide entre dos y cada una paga su parte." },
+            { "key": "b", "text": "Al usuario siempre en todo caso y calculado sobre la base de un servicio similar." },
+            { "key": "c", "text": "Al conductor, con exclusión del importe de bajada de bandera. Salvo que exista común acuerdo y decidido libremente por el usuario." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-20",
+          "number": 20,
+          "statement": "Cuando no existe Área Territorial de Prestación Conjunta, ¿es posible que vehículos residenciados en unos municipios puedan realizar el transporte con origen en puntos situados en otros municipios diferentes?",
+          "options": [
+            { "key": "a", "text": "Sí, libremente." },
+            { "key": "b", "text": "No, bajo ningún concepto." },
+            { "key": "c", "text": "Sí, en determinados supuestos, denominados supuestos especiales de demanda, y siempre que así lo establezca la Consejería competente o el Consorcio de Transporte Metropolitano." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-21",
+          "number": 21,
+          "statement": "¿Cómo deben estar identificados los vehículos destinados al servicio de auto-taxi en el Área de Prestación Conjunta según el Anexo II de la ordenanza vigente?",
+          "options": [
+            { "key": "a", "text": "Los vehículos deben ser de color blanco y llevar una franja de color verde (PANTONE 3415) de 8 centímetros de ancho en las puertas delanteras, con la palabra “TAXI”, el número de licencia, el logo de la granada y la expresión “Área Granada” en el centro del espacio superior a la franja verde." },
+            { "key": "b", "text": "Los vehículos deben ser de color blanco y llevar una franja de color azul de 8 centímetros de ancho en las puertas delanteras, con la palabra “TAXI”, el número de licencia, el logo de la granada y la expresión “Área Granada” en el centro del espacio superior a la franja azul." },
+            { "key": "c", "text": "Los vehículos deben ser de color blanco y llevar una franja de color verde (PANTONE 3415) de 10 centímetros de ancho en las puertas delanteras, con la palabra “TAXI”, el número de licencia, el logo de la granada y la expresión “Área Granada” en el centro del espacio superior a la franja verde." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-22",
+          "number": 22,
+          "statement": "Las condiciones básicas de accesibilidad y no discriminación incluirán disposiciones, al menos, sobre (art. 23.2 del Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social):",
+          "options": [
+            { "key": "a", "text": "Recursos humanos y materiales para la promoción de la accesibilidad y la no discriminación en el ámbito de que se trate." },
+            { "key": "b", "text": "Acceso gratuito a espectáculos públicos y recreativos." },
+            { "key": "c", "text": "Programación de viajes." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-23",
+          "number": 23,
+          "statement": "Respecto a publicidad en los vehículos del servicio auto-taxi ¿Qué deben hacer las asociaciones representativas del sector respecto a la misma? Indique la respuesta según el artículo 30 de la ordenanza municipal.",
+          "options": [
+            { "key": "a", "text": "En todo caso aprobar la publicidad antes de su colocación." },
+            { "key": "b", "text": "Ser consultadas sobre la forma y contenidos de la publicidad." },
+            { "key": "c", "text": "Las asociaciones no tienen ningún papel en la regulación de la publicidad de los vehículos auto-taxi." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-24",
+          "number": 24,
+          "statement": "¿Cuál es la prioridad de servicio que deben tener los taxis adaptados, según el Real Decreto 1544/2007?",
+          "options": [
+            { "key": "a", "text": "Sólo pueden atender a personas con discapacidad." },
+            { "key": "b", "text": "Deben prestar servicio prioritario a personas con discapacidad, pero pueden atender a cualquier ciudadano si no están ocupados." },
+            { "key": "c", "text": "Sólo pueden atender a personas sin discapacidad." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-25",
+          "number": 25,
+          "statement": "La denominación correcta y completa del módulo luminoso es, según los anexos de la Ordenanza reguladora del Taxi:",
+          "options": [
+            { "key": "a", "text": "Módulo tarifario luminoso exterior." },
+            { "key": "b", "text": "Módulo retroluminoso tarifario." },
+            { "key": "c", "text": "Indicador tarifario luminoso." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-26",
+          "number": 26,
+          "statement": "Las condiciones básicas de accesibilidad y no discriminación establecerán medidas concretas para prevenir o suprimir discriminaciones e incluirán además:",
+          "options": [
+            { "key": "a", "text": "Disposiciones sobre, al menos, una serie de aspectos relacionados en el art. 23.2 del Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social." },
+            { "key": "b", "text": "Subvenciones a fondo perdido." },
+            { "key": "c", "text": "Asignaciones económicas discrecionales." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-27",
+          "number": 27,
+          "statement": "En aquellos casos en que se justifique suficientemente que la demanda de transporte no se encuentra debidamente atendida, las licencia de autotaxi:",
+          "options": [
+            { "key": "a", "text": "Pueden admitir el pago individual por plazas." },
+            { "key": "b", "text": "Pueden otorgarse para vehículos con capacidad superior a 12 plazas." },
+            { "key": "c", "text": "No se regula nada al respecto en la Ley." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-28",
+          "number": 28,
+          "statement": "Indique la ubicación del Centro de Diagnóstico Granada:",
+          "options": [
+            { "key": "a", "text": "C/ Periodista Barrios Talavera, nº6." },
+            { "key": "b", "text": "C/ Periodista Eugenio Selles, nº23." },
+            { "key": "c", "text": "Parque Tecnológico de la Salud." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-29",
+          "number": 29,
+          "statement": "Corresponde regular las condiciones básicas de accesibilidad y no discriminación:",
+          "options": [
+            { "key": "a", "text": "Al Gobierno, sin perjuicio de las competencias atribuidas a las comunidades autónomas y a las entidades locales." },
+            { "key": "b", "text": "Al Gobierno, sin perjuicio de las competencias atribuidas a las comunidades autónomas, excluidas las Entidades locales." },
+            { "key": "c", "text": "Sólo al Gobierno." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-30",
+          "number": 30,
+          "statement": "Los vehículos deberán estar equipados:",
+          "options": [
+            { "key": "a", "text": "Con un módulo luminoso interior y otro exterior." },
+            { "key": "b", "text": "Con un módulo luminoso exterior sobre el techo." },
+            { "key": "c", "text": "Se ha liberalizado de la obligación de portar luminoso tras la aparición de las VTC." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-31",
+          "number": 31,
+          "statement": "Deberá respetarse el principio de igualdad de oportunidades de las personas con discapacidad:",
+          "options": [
+            { "key": "a", "text": "Sólo por las personas físicas o las jurídicas del sector público." },
+            { "key": "b", "text": "Todas las personas que suministren bienes ofrecidos sólo dentro del ámbito de la vida privada y familiar." },
+            { "key": "c", "text": "Por todas las personas que suministren bienes o servicios ofrecidos fuera del ámbito de la vida privada y familiar." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-32",
+          "number": 32,
+          "statement": "La publicidad en el taxi se regula en la Ordenanza municipal de Granada principalmente:",
+          "options": [
+            { "key": "a", "text": "En el artículo 30." },
+            { "key": "b", "text": "En el artículo 300." },
+            { "key": "c", "text": "No se regula en ninguna parte de la Ordenanza municipal." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-33",
+          "number": 33,
+          "statement": "¿Cuál es el importe de la bajada de bandera en la Tarifa Especial Nocturna y en qué condiciones se aplica esta tarifa?",
+          "options": [
+            { "key": "a", "text": "2,02 €, aplicable de 22:00 a 7:00 horas." },
+            { "key": "b", "text": "2,47 €, aplicable los sábados y festivos de 1:00 a 6:00 horas." },
+            { "key": "c", "text": "1,60 €, aplicable de 21:00 a 7:00 horas." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-34",
+          "number": 34,
+          "statement": "Los vehículos auto-taxis pueden llevar publicidad. Para el caso concreto del exterior y según el contenido del artículo 30 de la ordenanza vigente, ¿dónde se permite colocar los anuncios publicitarios en el exterior?",
+          "options": [
+            { "key": "a", "text": "En cualquier parte del vehículo si mantiene la imagen corporativa." },
+            { "key": "b", "text": "En las puertas laterales traseras, en dos tercios de su superficie y al faldón trasero del vehículo, paragolpes y carrocería del maletero." },
+            { "key": "c", "text": "Sólo en el interior del vehículo para mantener la imagen corporativa." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-general-35",
+          "number": 35,
+          "statement": "De acuerdo a las tarifas vigentes ¿Cuánto cuesta el kilómetro recorrido en la tarifa 2?",
+          "options": [
+            { "key": "a", "text": "0,99 €." },
+            { "key": "b", "text": "1,18 €." },
+            { "key": "c", "text": "1,33 €." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Cuestionario de inglés",
+      "questions": [
+        {
+          "id": "2024-10-31-ingles-1",
+          "number": 1,
+          "statement": "Póngase el cinturón de seguridad, por favor.",
+          "options": [
+            { "key": "a", "text": "Put on your seat belt, please." },
+            { "key": "b", "text": "Put on your hat, please." },
+            { "key": "c", "text": "Put your seat belt." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-ingles-2",
+          "number": 2,
+          "statement": "No olvide sus maletas.",
+          "options": [
+            { "key": "a", "text": "Don't forget your teeth." },
+            { "key": "b", "text": "Don't forget your suitcases." },
+            { "key": "c", "text": "Don't forget your head." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-ingles-3",
+          "number": 3,
+          "statement": "Son 12 euros con 50.",
+          "options": [
+            { "key": "a", "text": "It's seven euros with eighty." },
+            { "key": "b", "text": "It's eight o'clock." },
+            { "key": "c", "text": "It's twelve euros and fifty." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-ingles-4",
+          "number": 4,
+          "statement": "Sorry, you have to wait at the taxi stop.",
+          "options": [
+            { "key": "a", "text": "Disculpe, tiene que esperar al próximo taxi." },
+            { "key": "b", "text": "Disculpe, tiene que esperar en la parada del taxi." },
+            { "key": "c", "text": "Disculpe, hoy hay huelga de taxi." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-ingles-5",
+          "number": 5,
+          "statement": "How much does the trip cost?",
+          "options": [
+            { "key": "a", "text": "¿Puedo subir con mi mascota?" },
+            { "key": "b", "text": "¿Cuantas personas caben?" },
+            { "key": "c", "text": "¿Cuánto cuesta el viaje?" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "reserva",
+      "title": "Preguntas de reserva",
+      "questions": [
+        {
+          "id": "2024-10-31-reserva-1",
+          "number": 1,
+          "statement": "¿Qué establece el Real Decreto 1544/2007 sobre la conexión de las paradas de auto-taxis con el entorno urbano?",
+          "options": [
+            { "key": "a", "text": "Las paradas no necesitan estar conectadas con el entorno urbano." },
+            { "key": "b", "text": "Las paradas deben estar conectadas con el entorno urbano a través de vías accesibles." },
+            { "key": "c", "text": "Las paradas sólo deben estar conectadas en los entornos de estaciones de tren, autobús o aeropuertos." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-reserva-2",
+          "number": 2,
+          "statement": "¿Es posible otorgar simultáneamente licencias de transporte urbano y autorizaciones de transporte interurbano?",
+          "options": [
+            { "key": "a", "text": "Sí, siempre." },
+            { "key": "b", "text": "Sí, bajo determinadas circunstancias." },
+            { "key": "c", "text": "No, nunca." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-reserva-3",
+          "number": 3,
+          "statement": "¿Cuál es el importe de la bajada de bandera en la tarifa especial nocturna y en qué condiciones se aplica esta tarifa?",
+          "options": [
+            { "key": "a", "text": "2,02 €, aplicable de 22:00 a 7:00 horas." },
+            { "key": "b", "text": "2,47 €, aplicable los sábados y festivos de 1:00 a 6:00 horas." },
+            { "key": "c", "text": "1,60 €, aplicable de 21:00 a 7:00 horas." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-reserva-4",
+          "number": 4,
+          "statement": "Si quiero llegar al municipio de Vegas del Genil, qué carretera tengo que tomar:",
+          "options": [
+            { "key": "a", "text": "GR-3304 ó GR-3305." },
+            { "key": "b", "text": "Segunda circunvalación de Granada, A-44." },
+            { "key": "c", "text": "Ambas son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2024-10-31-reserva-5",
+          "number": 5,
+          "statement": "Según la Ley 13/2003, de 17 diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía, se considera Derecho de los Consumidores:",
+          "options": [
+            { "key": "a", "text": "La protección, reconocimiento y realización de sus legítimos derechos e intereses económicos y sociales." },
+            { "key": "b", "text": "La educación y formación en aquellas situaciones de inferioridad, subordinación o indefensión en que puedan encontrarse individual o colectivamente." },
+            { "key": "c", "text": "Ambas son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

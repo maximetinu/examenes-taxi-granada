@@ -1,0 +1,290 @@
+{
+  "id": "2023-07-18-solo-general",
+  "sourceFile": "2023-07-18_taxi-granada_examen-resuelto-solo-general.pdf",
+  "date": "2023-07-18",
+  "datePrecision": "day",
+  "convocatoria": "julio 2023",
+  "organo": "Ayuntamiento de Granada",
+  "notes": "Documento con capa de texto (plantilla correctora): la respuesta correcta de cada pregunta aparece en NEGRITA en el propio enunciado; correctOption se ha tomado de esa negrita. El PDF solo capturó 4 de las 9 páginas del edicto, por lo que el cuestionario general está incompleto: solo se incluyen las preguntas 1 a 21. La pregunta 21 está truncada: el texto de la opción b) queda cortado a mitad y la opción c) no aparece en el documento (no se inventa).",
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2023-07-18-solo-general-general-1",
+          "number": 1,
+          "statement": "¿Cuál de los siguientes municipios no forma parte aún del Área de Prestación Conjunta:",
+          "options": [
+            { "key": "a", "text": "Alhendín." },
+            { "key": "b", "text": "Cenes de la Vega." },
+            { "key": "c", "text": "Peligros." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-2",
+          "number": 2,
+          "statement": "El Hotel Don Gonzalo se encuentra en el municipio de",
+          "options": [
+            { "key": "a", "text": "Granada." },
+            { "key": "b", "text": "Cenes de la Vega" },
+            { "key": "c", "text": "Maracena." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-3",
+          "number": 3,
+          "statement": "La Escuela Infantil Municipal Duende se encuentra en",
+          "options": [
+            { "key": "a", "text": "Camino Bajo de Huétor s/n" },
+            { "key": "b", "text": "Ctra. de Murcia 59" },
+            { "key": "c", "text": "Paseo de las Palmas 13" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-4",
+          "number": 4,
+          "statement": "La parada de taxi más próxima al Teatro Isabel la Católica es:",
+          "options": [
+            { "key": "a", "text": "Acera del Darro" },
+            { "key": "b", "text": "Plaza de Mariana Pineda" },
+            { "key": "c", "text": "Plaza Nueva" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-5",
+          "number": 5,
+          "statement": "La Sede del Colegio Oficial de Médicos de Granada se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Avda. de Madrid" },
+            { "key": "b", "text": "Calle Andrés Segovia" },
+            { "key": "c", "text": "Avda. de la Ilustración" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-6",
+          "number": 6,
+          "statement": "La Jefatura de la Policía Local de Maracena se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Calle Fundación Rojas" },
+            { "key": "b", "text": "Avda. Blas de Otero" },
+            { "key": "c", "text": "Plaza de la Constitución" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-7",
+          "number": 7,
+          "statement": "El IFAPA (Instituto Andaluz de Investigación y Formación Agraria, Pesquera, Alimentaria y de la Producción Ecológica) se encuentra en el Municipio de:",
+          "options": [
+            { "key": "a", "text": "Vegas del Genil" },
+            { "key": "b", "text": "Granada" },
+            { "key": "c", "text": "Churriana" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-8",
+          "number": 8,
+          "statement": "El IES Bulyana pertenece al municipio de:",
+          "options": [
+            { "key": "a", "text": "Pulianas" },
+            { "key": "b", "text": "Granada" },
+            { "key": "c", "text": "Cenes de la Vega" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-9",
+          "number": 9,
+          "statement": "El Restaurante Ruta del Veleta se encuentra en el municipio de:",
+          "options": [
+            { "key": "a", "text": "Granada" },
+            { "key": "b", "text": "Huétor Vega" },
+            { "key": "c", "text": "Cenes de la Vega" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-10",
+          "number": 10,
+          "statement": "El Instituto de Astrofísica de Andalucía se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Campus de Cartuja" },
+            { "key": "b", "text": "Glorieta de la Astronomía" },
+            { "key": "c", "text": "Avda. de Fuente Nueva" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-11",
+          "number": 11,
+          "statement": "Mi taxi se encuentra en la parada de Plaza Nueva, son las once de la mañana y a través de central solicitan un servicio en Carrera del Darro. Indique la respuesta correcta:",
+          "options": [
+            { "key": "a", "text": "Está prohibido el acceso al Albaicín de cualquier taxi a esta hora; no realizo el servicio." },
+            { "key": "b", "text": "Retraso el servicio hasta las once de la noche, porque si hago el servicio solicitado me multarían." },
+            { "key": "c", "text": "Realizo el servicio solicitado." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-12",
+          "number": 12,
+          "statement": "La Facultad de Farmacia se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Campus Fuente Nueva." },
+            { "key": "b", "text": "Campus Cartuja." },
+            { "key": "c", "text": "Parque Tecnológico de Ciencias de la Salud." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-13",
+          "number": 13,
+          "statement": "El pabellón Veleta se encuentra en el municipio de:",
+          "options": [
+            { "key": "a", "text": "Peligros" },
+            { "key": "b", "text": "Churriana" },
+            { "key": "c", "text": "Granada" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-14",
+          "number": 14,
+          "statement": "El sentido de tráfico de la calle Cardenal Parrado de Granada es:",
+          "options": [
+            { "key": "a", "text": "Descendente" },
+            { "key": "b", "text": "Ascendente" },
+            { "key": "c", "text": "Tiene doble sentido" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-15",
+          "number": 15,
+          "statement": "La Calle Arabial de Granada tiene:",
+          "options": [
+            { "key": "a", "text": "Un único sentido de tráfico." },
+            { "key": "b", "text": "Doble sentido de tráfico." },
+            { "key": "c", "text": "Dependiendo del tramo de calle tiene único o doble sentido de tráfico." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-16",
+          "number": 16,
+          "statement": "Según la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en automóviles de turismo auto-taxis en el municipio de Granada- se entiende por servicio urbano,",
+          "options": [
+            { "key": "a", "text": "El que se contrata dentro del término municipal de Granada y no sale del municipio." },
+            { "key": "b", "text": "El que se desarrolla íntegramente dentro del término municipal de Granada, o en su caso del Área de Prestación Conjunta de Granada." },
+            { "key": "c", "text": "El que se contrata y se desarrolla dentro del Área de Prestación Conjunta. Si bien se admite que pueda salir un poco (menos de un 5% del trayecto)." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-17",
+          "number": 17,
+          "statement": "Según la Ordenanza vigente, las dimensiones mínimas y las características del interior del vehículo y de los asientos serán las precisas para proporcionar al público la seguridad y comodidad propias de este tipo de servicio. En todo caso deberán contar con un mínimo de:",
+          "options": [
+            { "key": "a", "text": "4 puertas y de 330 litros de maletero." },
+            { "key": "b", "text": "2 puertas y de 200 litros de maletero." },
+            { "key": "c", "text": "5 puertas y de 300 litros de maletero." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-18",
+          "number": 18,
+          "statement": "En la Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía, los consumidores tendrán derecho a:",
+          "options": [
+            { "key": "a", "text": "La educación y formación en relación con todas las materias que puedan afectarles como consumidores." },
+            { "key": "b", "text": "La protección, reconocimiento y realización de sus legítimos intereses económicos y sociales." },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-19",
+          "number": 19,
+          "statement": "La adecuación, conservación y limpieza de todos los elementos e instalaciones de los vehículos auto taxi serán atendidos por:",
+          "options": [
+            { "key": "a", "text": "Sus titulares respectivos." },
+            { "key": "b", "text": "La asociación del taxi correspondiente." },
+            { "key": "c", "text": "Este asunto no lo contempla la ordenanza municipal." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-20",
+          "number": 20,
+          "statement": "La tarjeta de identificación de conductor de taxi, siempre que se está prestando el servicio, se colocará en:",
+          "options": [
+            { "key": "a", "text": "La parte inferior derecha de la luna delantera del vehículo." },
+            { "key": "b", "text": "Delante de la guantera del vehículo." },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-07-18-solo-general-general-21",
+          "number": 21,
+          "statement": "Atendiendo al artículo 55 de la Ordenanza municipal, señale la opción correcta.",
+          "options": [
+            { "key": "a", "text": "Se prohíbe recoger viajeros en puntos que disten menos de cien metros de las paradas oficiales establecidas, salvo en el caso de que dichas paradas se encuentren desiertas por no existir vehículos." },
+            { "key": "b", "text": "Se prohíbe recoger viajeros en puntos que disten menos de cincuenta metros de las paradas oficiales establecidas, salvo en el caso de que dichas paradas se encuentren" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

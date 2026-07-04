@@ -1,0 +1,544 @@
+{
+  "id": "2019-11-26",
+  "sourceFile": "2019-11-26_taxi-granada_examen.pdf",
+  "date": "2019-11-26",
+  "datePrecision": "day",
+  "convocatoria": "noviembre 2019",
+  "organo": "Concejalía de Seguridad Ciudadana, Movilidad, Proyectos Estratégicos y Oficina Metropolitana",
+  "notes": "Examen en blanco (sin plantilla correctora ni respuestas marcadas): todas las correctOption a null. El documento numera las preguntas 1-40 de forma continua sin cabeceras de sección; las preguntas 36-40 son de inglés (traducción) y se agrupan en una sección 'ingles' manteniendo la numeración original del documento.",
+  "docType": "examen",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2019-11-26-general-1",
+          "number": 1,
+          "statement": "¿Cuál es la norma que regula la hojas de quejas y reclamaciones de las personas consumidoras y usuarias en Andalucía?",
+          "options": [
+            { "key": "a", "text": "El Real Decreto 1544/2007" },
+            { "key": "b", "text": "El Decreto 35/2012" },
+            { "key": "c", "text": "El Decreto 72/2008" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-2",
+          "number": 2,
+          "statement": "¿Es obligatorio llevar las hojas de quejas y reclamaciones en el taxi?",
+          "options": [
+            { "key": "a", "text": "Sí" },
+            { "key": "b", "text": "No, en caso de una queja, si no se tienen las hojas de quejas y reclamaciones se podrá enviar a la persona usuaria a la Oficina Municipal del Consumidor." },
+            { "key": "c", "text": "No, pero es recomendable, sobre todo en los taxis adaptados." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-3",
+          "number": 3,
+          "statement": "¿Es el servicio de transporte de viajeros en taxi un servicio protegido por Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía?",
+          "options": [
+            { "key": "a", "text": "La Ley 13/2003, no regula la defensa y protección de los consumidores y usuarios de Andalucía." },
+            { "key": "b", "text": "Sí, conforme al mandato establecido en el artículo 51.1 y 2 de la Constitución Española." },
+            { "key": "c", "text": "No, ya que este servicio está protegido por la ordenanza municipal." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-4",
+          "number": 4,
+          "statement": "Las tarifas interurbanas se identificarán:",
+          "options": [
+            { "key": "a", "text": "Indistintamente con los número 6, 7 y 8" },
+            { "key": "b", "text": "Con los números 7 ó 8 dependiendo del día de la semana y de la hora del día." },
+            { "key": "c", "text": "Con los números 6, 7 ó 8 dependiendo del día de la semana y de la hora del día." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-5",
+          "number": 5,
+          "statement": "Los servicios interurbanos que se desarrollen en sábados, domingos y festivos de ámbito nacional, autonómico y local, y los lunes, martes, miércoles, jueves y viernes laborables en el periodo comprendido entre las 22 y las 6 horas, tendrán una tarifa por bajada de bandera de:",
+          "options": [
+            { "key": "a", "text": "3,12€" },
+            { "key": "b", "text": "1,92€" },
+            { "key": "c", "text": "1,55€" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-6",
+          "number": 6,
+          "statement": "¿Puede un taxi de Granada recoger en el Aeropuerto a un turista que se va a alojar en un hotel de Granada?",
+          "options": [
+            { "key": "a", "text": "Sí" },
+            { "key": "b", "text": "No" },
+            { "key": "c", "text": "Sólo si está previamente contratado." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-7",
+          "number": 7,
+          "statement": "Según la Ordenanza Municipal de Granada, ¿puede una persona usuaria beber en el interior del taxi sin permiso del conductor o la conductora?",
+          "options": [
+            { "key": "a", "text": "No, salvo en los días de mucha calor." },
+            { "key": "b", "text": "Sólo en el caso de lactantes." },
+            { "key": "c", "text": "No, en ningún caso." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-8",
+          "number": 8,
+          "statement": "Las infracciones muy graves por incumplimiento de lo estipulado en la Ordenanza Municipal podrán ser:",
+          "options": [
+            { "key": "a", "text": "de 1.380€ a 2.760€" },
+            { "key": "b", "text": "de 1.125€ a 2.500€" },
+            { "key": "c", "text": "de 750€ a 1.380€" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-9",
+          "number": 9,
+          "statement": "Iniciado el procedimiento sancionador, el conductor o la conductora del taxi podrá reconocer su responsabilidad realizando el pago voluntario de la multa en el plazo de 15 días siguientes a la notificación de la incoación, con las siguientes consecuencias:",
+          "options": [
+            { "key": "a", "text": "La reducción del 50% del importe de la sanción económica." },
+            { "key": "b", "text": "La renuncia a presentar alegaciones." },
+            { "key": "c", "text": "Las dos anteriores son correctas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-10",
+          "number": 10,
+          "statement": "Si un agente encargado de la inspección del servicio del taxi comprueba que la persona conductora no dispone, en el momento de la inspección, del permiso municipal de conductor o conductora de auto-taxi, se podrá:",
+          "options": [
+            { "key": "a", "text": "ordenar la inmediata paralización del vehículo" },
+            { "key": "b", "text": "acordar la imposibilidad de obtener el permiso municipal de conductor a la persona que conducía, por un plazo de hasta cinco años desde la comisión de la infracción" },
+            { "key": "c", "text": "las dos respuestas anteriores son correctas" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-11",
+          "number": 11,
+          "statement": "La autorización para la prestación del servicio interurbano será concedida por:",
+          "options": [
+            { "key": "a", "text": "El Ayuntamiento" },
+            { "key": "b", "text": "La Junta de Andalucía" },
+            { "key": "c", "text": "El Ayuntamiento oída la Junta de Andalucía" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-12",
+          "number": 12,
+          "statement": "La falta de visado en el plazo de dos meses, contados a partir de la fecha que corresponda de forma ordinaria, determinará la apertura del procedimiento para:",
+          "options": [
+            { "key": "a", "text": "Revocación de la licencia" },
+            { "key": "b", "text": "Caducidad de la licencia" },
+            { "key": "c", "text": "Anulación de la licencia" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-13",
+          "number": 13,
+          "statement": "El descanso semanal para todos los vehículos auto-taxis se establece según dispone la ordenanza reguladora del servicio de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada en:",
+          "options": [
+            { "key": "a", "text": "su disposición transitoria única." },
+            { "key": "b", "text": "su disposición adicional primera." },
+            { "key": "c", "text": "su disposición derogatoria." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-14",
+          "number": 14,
+          "statement": "La afirmación “...disponer sobre la apertura y cierre de ventanillas, el funcionamiento del aire acondicionado o calefacción en el vehículo, incluso bajar del vehículo sin coste alguno, si al requerir la puesta en funcionamiento del sistema de aire acondicionado o de calefacción, al inicio del servicio, éste no funcionara” es:",
+          "options": [
+            { "key": "a", "text": "Uno de los derechos de las personas usuarias de taxis." },
+            { "key": "b", "text": "Solo una norma de cortesía." },
+            { "key": "c", "text": "La Ordenanza prescribe nada sobre el tema." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-15",
+          "number": 15,
+          "statement": "Cuando un usuario del taxi con disfunciones visuales lleva el perro guía, y solicita llevarlo ocupando el piso del vehículo y comprometiéndose a no manchar los asientos. El importe de servicio (señale la respuesta verdadera):",
+          "options": [
+            { "key": "a", "text": "Se incrementará con el plus previsto en la tarifa por animales." },
+            { "key": "b", "text": "El animal no puede acceder en ningún caso al vehículo." },
+            { "key": "c", "text": "El animal irá gratuitamente." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-16",
+          "number": 16,
+          "statement": "La afirmación...las personas usuarias del taxi deben ser atendidos por el conductor o conductora con corrección, en condiciones básicas de igualdad, no discriminación, calidad, seguridad y preferencia dentro del turno de solicitud. Es (señale la respuesta correcta):",
+          "options": [
+            { "key": "a", "text": "una norma de cortesía, aunque no esté escrita." },
+            { "key": "b", "text": "uno de los derechos de los usuarios de taxi de la Ordenanza municipal." },
+            { "key": "c", "text": "ninguna de las dos anteriores." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-17",
+          "number": 17,
+          "statement": "Complete este párrafo con la afirmación que mejor encaje con lo establecido por la Ordenanza municipal: “El usuario del taxi ____________ elegir el itinerario o recorrido que considere más adecuado para la realización del servicio.”",
+          "options": [
+            { "key": "a", "text": "tiene derecho a." },
+            { "key": "b", "text": "no tiene derecho a." },
+            { "key": "c", "text": "está obligado a." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-18",
+          "number": 18,
+          "statement": "Al personal de conducción de taxi no le está permitido, en ningún caso, el uso de chanclas, sandalias o cualquier calzado que pueda comprometer la seguridad vial durante la conducción. Indique la respuesta correcta:",
+          "options": [
+            { "key": "a", "text": "La afirmación es falsa, en verano si lo permite la Ordenanza." },
+            { "key": "b", "text": "La afirmación es verdadera, según lo recoge la Ordenanza vigente." },
+            { "key": "c", "text": "La ordenanza permite el uso de chanclas solo en el caso de que el conductor justifique su pericia al volante." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-19",
+          "number": 19,
+          "statement": "Fumar en el interior del taxi, es una acción que:",
+          "options": [
+            { "key": "a", "text": "Permite la Ordenanza municipal cuando lo realiza el usuario." },
+            { "key": "b", "text": "Solo está permitido al conductor cuando dispone de mampara de separación." },
+            { "key": "c", "text": "La Ordenanza prohíbe expresamente fumar en el interior de los vehículos auto-taxis" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-20",
+          "number": 20,
+          "statement": "Un usuario nos solicita ir a la calle Torre de la Vela. Indique a donde se debe dirigir:",
+          "options": [
+            { "key": "a", "text": "Al distrito Geníl, entre las calles Torre Pedro de Morales y Torre de los Picos." },
+            { "key": "b", "text": "Al distrito Zaidín, junto a la calle Torre de los Picos." },
+            { "key": "c", "text": "Al distrito Centro, es una calle perpendicular al Paseo de la Sabica." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-21",
+          "number": 21,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y Primaria Federico García Lorca (C.E.I.P).",
+          "options": [
+            { "key": "a", "text": "Calle Rector Marín Ocete, nº 1." },
+            { "key": "b", "text": "Calle Poeta César Vallejo, nº 6." },
+            { "key": "c", "text": "Calle García Lorca, nº 40." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-22",
+          "number": 22,
+          "statement": "El Real Conservatorio Superior de Música de Granada está situado en:",
+          "options": [
+            { "key": "a", "text": "En la calle Ángel Barrios, nº 26" },
+            { "key": "b", "text": "La calle Torre de los Picos, nº 6." },
+            { "key": "c", "text": "La calle San Jerónimo, nº 46." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-23",
+          "number": 23,
+          "statement": "Indique la dirección correcta para el siguiente destino: Centro Municipal de Servicios Sociales Chana.",
+          "options": [
+            { "key": "a", "text": "Calle Dr. Medina Olmos, 20.B. 18015-Granada." },
+            { "key": "b", "text": "Carretera de Málaga, nº 100. 18010-Granada." },
+            { "key": "c", "text": "Calle García Lorca, nº 40. 18014-Granada." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-24",
+          "number": 24,
+          "statement": "Un usuario nos solicita ir a la calle María de Maeztu, de Granada. Indique a donde se debe dirigir:",
+          "options": [
+            { "key": "a", "text": "Distrito Norte, en la Carretera de Alfacar a la altura de la Facultad de la Actividad Física y el Deporte." },
+            { "key": "b", "text": "Distrito Ronda, junto al parque Rafael Fernández Piñar." },
+            { "key": "c", "text": "Distrito Este, junto a la gasolinera." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-25",
+          "number": 25,
+          "statement": "Nos solicitan una recogida en la glorieta Festival de Música y Danza, nos dirigimos a:",
+          "options": [
+            { "key": "a", "text": "La calle Félix Rodríguez de la Fuente, junto al asilo de ancianos \"Hermanitas de los Pobres\"." },
+            { "key": "b", "text": "Al distrito Zaidín, junto el campo de fútbol Nuevo los Cármenes." },
+            { "key": "c", "text": "La confluencia de la avenida Severo Ochoa, la avenida de Fuente Nueva y la calle Santa Bárbara." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-26",
+          "number": 26,
+          "statement": "Para llegar al Centro de Salud Las Flores nos dirigiremos a la calle:",
+          "options": [
+            { "key": "a", "text": "Cl Profesor García Gómez, 8" },
+            { "key": "b", "text": "Avda. De América, 2" },
+            { "key": "c", "text": "Cl Virgen Laconsolación, 12" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-27",
+          "number": 27,
+          "statement": "El Hotel Los Girasoles se encuentra en la calle:",
+          "options": [
+            { "key": "a", "text": "Camino de Ronda" },
+            { "key": "b", "text": "Cl San Jerónimo" },
+            { "key": "c", "text": "Cl San Juan de Dios" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-28",
+          "number": 28,
+          "statement": "La preferencia cuando los vehículos Auto-taxis circulen en situación de libre por lugares en los que no existan paradas o puntos de espera, y los conductores sean requeridos por varias personas al mismo tiempo para la prestación de un servicio. Señale la primera preferencia sobre las tres situaciones que se describen a continuación:",
+          "options": [
+            { "key": "a", "text": "Personas que se encuentren en la acera correspondiente al sentido de circulación del vehículo" },
+            { "key": "b", "text": "Impedidos, ancianos y mujeres embarazadas." },
+            { "key": "c", "text": "Personas acompañadas de niños." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-29",
+          "number": 29,
+          "statement": "En el supuesto de que el vehículo cuente con lector de pago con tarjeta y éste no funcione al finalizar el servicio ¿qué debe hacer el conductor? (señale la opción correcta)",
+          "options": [
+            { "key": "a", "text": "Parará el taxi y acompañará al usuario, bien a un cajero automático o hasta su casa, esperará a que obtenga el dinero necesario y volverán juntos al taxi, en su caso, para continuar con el servicio." },
+            { "key": "b", "text": "Interrumpirá el funcionamiento del taxímetro cuando sea necesario que el vehículo se dirija hasta la aproximación a un cajero para la extracción de la cantidad precisa y el retorno al punto de destino de la persona usuaria." },
+            { "key": "c", "text": "El conductor de auto-taxi, en ningún caso, está obligado a resolver este problema. El usuario que acceda al taxi siempre debe llevar dinero en efectivo y billetes de 20 euros o menos." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-30",
+          "number": 30,
+          "statement": "La revisión municipal de los vehículos auto-taxi que establece el artículo 33 de la Ordenanza Municipal, se realizará:",
+          "options": [
+            { "key": "a", "text": "Anualmente o cuando se deban efectuar comprobaciones específicas, debidamente motivadas." },
+            { "key": "b", "text": "Al inicio de la actividad y repetirla cada dos años." },
+            { "key": "c", "text": "Cada cinco años." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-31",
+          "number": 31,
+          "statement": "Para ir de la Estación de Autobuses al Polideportivo Parque Nueva Granada, ¿cuál es el recorrido más corto?",
+          "options": [
+            { "key": "a", "text": "Avda. Juan Pablo II, C/ Teté Monteliu, C/ Periodista Luis de Vicente, Cmno. de Alfacar, C/ Gabriela Mistral, C/ María de Maeztu y C/ Rigoberta Menchu." },
+            { "key": "b", "text": "Avda. Juan Pablo II, C/ Casería de Aguirre, C/ Joaquina Eguaras, C/ Merced Alta, Cmno. De Alfacar, C/ Gabriela Mistral, C/ María de Maeztu y C/ Rigoberta Menchu." },
+            { "key": "c", "text": "Avda. Juan Pablo II, C/ Casería de Aguirre, C/ Periodista Luis de Vicente, C/ Gabriela Mistral, C/ María de Maeztu, C/ Rigoberta Menchu y Cmno. de Alfacar" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-32",
+          "number": 32,
+          "statement": "¿Dónde se encuentra la Escuela Infantil Virgen Inmaculada?",
+          "options": [
+            { "key": "a", "text": "C/ Virgen Inmaculada" },
+            { "key": "b", "text": "Avda. Juan Pablo II" },
+            { "key": "c", "text": "Avda. Francisco Ayala" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-33",
+          "number": 33,
+          "statement": "¿Cuál es el recorrido más corto para llegar al Colegio Ave María Casa Madre desde Avda. De la Constitución?",
+          "options": [
+            { "key": "a", "text": "Avda. De la Constitución, Avda. Del Hospicio, C/ Real de Cartuja, Ctra. Mucia, C/ Pagés, Cta. del Chapiz." },
+            { "key": "b", "text": "Avda. De la Constitución, C/ Gran Vía de Colón, C/ Reyes Católicos, Pz Nueva, Carrera del Darro, Cta. del Chapiz." },
+            { "key": "c", "text": "Avda. De la Constitución, Cmno. De Ronda, C/ Recogidas, C/ Reyes Católicos, Pz Nueva, Carrera del Darro, Cta. del Chapiz." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-34",
+          "number": 34,
+          "statement": "¿A qué calle llevaremos a un usuario que quiere ir a la Mezquita Mayor de Granada?",
+          "options": [
+            { "key": "a", "text": "Camino del Sacromonte" },
+            { "key": "b", "text": "Pz de San Nicolás" },
+            { "key": "c", "text": "Callejón de las Campanas" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-general-35",
+          "number": 35,
+          "statement": "¿A qué calle llevaremos a un usuario que quiere ir al Centro Comercial Serrallo?",
+          "options": [
+            { "key": "a", "text": "Paseo Laguna de Cameros" },
+            { "key": "b", "text": "Cmno. Bajo de Huetor" },
+            { "key": "c", "text": "C/ Serrallo" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Cuestionario de inglés",
+      "questions": [
+        {
+          "id": "2019-11-26-ingles-36",
+          "number": 36,
+          "statement": "Recogida y bajada (de pasajeros)",
+          "options": [
+            { "key": "a", "text": "Pick out and drop off" },
+            { "key": "b", "text": "Pick up and drop out" },
+            { "key": "c", "text": "Pick up and drop off" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-ingles-37",
+          "number": 37,
+          "statement": "To book a taxi in advance you call....",
+          "options": [
+            { "key": "a", "text": "Para cancelar llame al....." },
+            { "key": "b", "text": "Para reservar llame al..." },
+            { "key": "c", "text": "Para reclamaciones llame al....." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-ingles-38",
+          "number": 38,
+          "statement": "Necesito un elevador para mi hijo",
+          "options": [
+            { "key": "a", "text": "I need a booster seat for my baby boy" },
+            { "key": "b", "text": "I need a stroller for my baby boy" },
+            { "key": "c", "text": "I need a baby boost for my baby boy" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-ingles-39",
+          "number": 39,
+          "statement": "How much luggage is allowed per person?",
+          "options": [
+            { "key": "a", "text": "¿Cuantos pasajeros por vehículo?" },
+            { "key": "b", "text": "¿Cuánto cobran por traslado?" },
+            { "key": "c", "text": "¿Cuánto equipaje por pasajero?" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2019-11-26-ingles-40",
+          "number": 40,
+          "statement": "Objetos perdidos en el taxi",
+          "options": [
+            { "key": "a", "text": "Items lost in taxis" },
+            { "key": "b", "text": "Items found in taxis" },
+            { "key": "c", "text": "Items spent in taxis" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

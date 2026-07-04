@@ -1,0 +1,215 @@
+# fuente: 2019-05-22_taxi-granada_examen.pdf
+# metodo: pdftotext
+# ADVERTENCIA: si el metodo es OCR, revisar/corregir el texto a mano.
+
+EXAMEN PARA LA OBTENCIÓN DEL PERMISO MUNICIPAL DE CONDUCTOR O
+CONDUCTORA DE AUTO-TAXI.
+GRANADA, 22 DE MAYO DE 2019
+1. Los vehículos destinados a la prestación del servicio de taxi deberán reunir entre sus
+características (indique la respuesta más completa que sea correcta):
+a) La potencia mínima será de 54 CV Din. No obstante y en previsión de mejoras
+tecnológicas, previa justificación y con la aprobación del Ayuntamiento, podrá
+modificarse dicho límite.
+b) La potencia será de 24 CV Din y tres puertas o cuatro puertas.
+c) No tendrán limitación de potencia y como mínimo cuatro puertas.
+
+2. Cuando en el transcurso del servicio se produzca algún accidente, avería o detención no
+imputable al usuario, que momentánea o temporalmente lo interrumpe, se procederá:
+a) Continuará funcionando el taxímetro y descontará un importe del total del servicio.
+b) Parando el taxímetro, y una vez reanudado el servicio tras la detención, el usuario estará
+obligado a pagar el importe de la nueva bajada de bandera. Es decir el importe del total
+contabilizado para el servicio.
+c) Parando el taxímetro, y una vez reanudado el servicio tras la detención, el usuario no
+estará obligado a pagar el importe de esta nueva bajada de bandera, por lo que será
+descontado su importe del total del servicio.
+
+3. El letrero luminoso en el centro del techo del vehículo y en su parte anterior, del vehículo
+auto taxi ¿Qué dimensiones tendrá?
+a) 32 por 13 centímetros.
+b) 63 por 32 centímetros.
+c) Depende del modelo de vehículo.
+
+4. El letrero luminoso en el centro del techo del vehículo y en su parte anterior ¿que
+características tendrá? (señale la respuesta correcta)
+a) Llevar el texto TAXI GRANADA en un compartimento, y en el otro la palabra LIBRE,
+con iluminación independiente para cada uno de ellos.
+b) Solo un compartimento con todo el texto, Taxi Granada y Libre.
+c) Dos compartimentos, uno con libre y otro con ocupado, que se iluminaran alternativamente.
+
+5. Los titulares de licencias podrán sustituir el vehículo:
+a) Por otro, sin necesidad de tramitar autorización previa.
+b) Por otro, para lo que solo necesita la autorización municipal.
+c) Las dos respuesta anteriores son incorrectas.
+
+6. La revisión municipal preceptiva establecida en el artículo 34 de la Ordenanza Municipal, se
+realizará:
+a) Anualmente
+b) Cada dos años.
+c) Cada cinco años.
+
+7. Según el artículo 43 de la ordenanza municipal, señale la opción correcta:
+a) Se prohíbe recoger viajeros en puntos que disten menos de cincuenta metros de las paradas
+oficiales establecidas, salvo en el caso de que dichas paradas se encuentren desiertas por no
+existir vehículos.
+b) Se prohíbe recoger viajeros en puntos que disten menos de cincuenta metros de las paradas
+oficiales establecidas, en cualquier caso.
+c) Se prohíbe recoger viajeros en puntos que disten menos de cien metros de las paradas
+oficiales establecidas, salvo en el caso de que dichas paradas se encuentren desiertas
+por no existir vehículos.
+
+8. Atendiendo al artículo 52 de la Ordenanza que regula el servicio, los conductores deberán
+seguir el itinerario señalado por el pasajero:
+a) Siempre que pueda hacerse sin incumplir las normas y señales de circulación.
+b) Siempre. Las órdenes son las órdenes.
+c) Solo cuando sea el recorrido más corto.
+
+9. Abrir o cerra los cristales a indicación del usuario; ayudar a salir y a apearse del vehículo a
+los ancianos, enfermos, inválidos, niños y en general a cuantas personas lo precisen por su
+estado físico; recoger y colocar adecuadamente las maletas y demás bultos de equipaje;
+encender la luz interior del vehículo por la noche, para facilitar la subida y bajada y el pago
+del servicio; bajar el volumen del receptor de radio a voluntad del pasajero. Son:
+a) Obligaciones del conductor de taxi.
+b) Normas generales que no obligan al conductor de taxi.
+c) Recomendaciones de carácter general que nada tienen que ver con el servicio de taxi.
+
+10. Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y
+Primaria Arrayanes (C.E.I.P).
+a) Calle Rector Marín Ocete, nº 1.
+b) Calle Merced Alta, s/n.
+c) Calle Casería de Afguirre, nº 40.
+
+11. Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir al intercambiador
+de transporte metropolitano. ¿dónde pueda tomar el autobús a la Zubia?
+a) Avenida de Dílar, s/n.
+b) Camino de Ronda, nº 1, aproximadamente.
+c) Violón, frente Palacio de Congresos.
+
+12. El conservatorio profesional de música Ángel Barrios está situado en:
+a) En la calle Ángel Barrios
+b) La calle Torre de los Picos, nº 6.
+c) La calle San Jerónimo, nº 46.
+
+13. Nos solicitan ir a la Delegación Territorial de Fomento y Vivienda en Granada, el destino
+correcto es:
+a) Edificio "Almanjayar". Avenida Joaquina Eguaras, núm. 2.
+b) Edifico "La normal. Calle Gran Vía de Colón, s/n.
+c) Ninguna de las anteriores, la Delegación Territorial está en Sevilla.
+
+14. Nos solicitan una recogida en la glorieta Festival de Música y Danza, nos dirigimos a:
+a) La confluencia de la avenida Severo Ochoa, la avenida de Fuente Nueva y la calle
+Santa Bárbara.
+b) La calle Félix Rodríguez de la Fuente, junto al asilo de ancianos "Hermanitas de los
+Pobres".
+c) El Paseo del Generalife, junto al Paseo de los Mártires.
+
+15. La dirección del la Facultad de Ciencias de la Salud de Granada es:
+a) Avenida de la Ilustración, nº 60. Parque Tecnológico de la Salud.
+b) Avenida del Conocimiento, nº 11. Parque Tecnológico de la Salud.
+c) Avenida de la Universidad, s/n Parque Tecnológico de la Salud.
+
+16. Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y
+Primaria Federico García Lorca (C.E.I.P).
+a) Calle Poeta César Vallejo, nº 6
+b) Calle Rector Marín Ocete, nº 1.
+c) Calle García Lorca, nº 40.
+17. Indique la dirección correcta para el siguiente destino: Instituto Miguel de Cervantes.
+a) Este instituto no está en Granada.
+b) Camino de los Neveros, nº 1.
+c) Calle Profesor Albareda, s/n.
+18. Nos solicitan ir al Centro de día "Buenos Aires", junto a la Confederación Granadina de
+Empresarios, el destino correcto es:
+a) Calle Maestro Montero.
+b) Calle Eudoxia Piriz.
+c) Avenida de la Argentinita.
+19. Efectúe el siguiente servicio por el recorrido más corto: Estación de autobuses de Granada a
+Hotel Granada Center. (elija la opción correcta)
+a) Av. Juan Pablo II, av. Luis Miranda Dávalos, av. Francisco Ayala, Pintor Francisco
+Pradilla, av. de Andalucía, av. de la Constitución, av. Severo Ochoa.
+b) Av. Juan Pablo II, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco Pradilla,
+Calle Cruz del Sur, Camino de Ronda, Avenida Fuente Nueva.
+c) Av. Juan Pablo II, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco Pradilla,
+Calle Cruz del Sur, Camino de Ronda, Calle Julio Verne, calle Arabial, calle Mendez
+Nuñez, Avenida Fuente Nueva.
+
+20. ¿Cuanto vale la bajada de bandera en un miércoles festivo a las 11 de la mañana, para un
+trayecto urbano?
+a) 1,54 euros
+b) 1,52 euros
+c) 1,92 euros
+21. En la Tarifa 2 de las tarifas urbanas, ¿cuanto cuesta cada hora de espera?
+a) 2,39 euros
+b) 26,48 euros
+c) 25,25 euros
+
+22. Según el cuadro de tarifas vigente en un servicio de transporte interurbano, un día laborable
+entre las 6 y las 22h, se aplicará:
+a) la tarifa 1
+b) la tarifa 8
+c) la tarifa 7
+
+23. ¿Cuantos años una persona puede ser titular de una licencia municipal de auto taxi?
+a) 4 años desde su obtención
+b) 5 años desde su obtención
+c) Indefinida
+
+24. ¿Donde comienza el servicio interurbano?
+a) en el límite del municipio de Granada con otros municipios.
+b) en el término municipal del municipio de destino.
+c) en el sitio donde se recoge al cliente cuando nos pide que le llevemos a otro municipio.
+
+25. Según la Ordenanza Municipal de Granada ¿cual es el cambio mínimo que esta obligado a
+facilitar el conductor?
+a) 10 euros
+b) 20 euros
+c) 50 euros.
+
+26. ¿Cuántos eurotaxis, como mínimo, debe haber en el municipio de Granada?
+a) 36
+b) 5% de la flota
+c) 2/3 de la flota
+
+27. El Centro Cultural Federico García Lorca se encuentra en:
+a) La Plaza Isabel La Católica
+b) La Plaza Benalúa
+c) La Plaza de la Romanilla
+
+28. La Jefatura Superior de la Policía Nacional se encuentra en:
+a) C/ México
+a) C/ Palmita
+b) C/ Amapola
+
+29. ¿Cuál es el recorrido más corto entre el Estadio CF Nuevo Los Cármenes y la Comisaría
+Nacional de Policía (Distrito Sur)?
+a) C/ Pintor Manuel Maldonado, C/ Poeta Gracián, Avda. De Dílar, C/ Chile
+b) C/ Pintor Manuel Maldonado, C/ Torre de Comares, C/ Chile
+c) C/ Torre de Comares, Avda. Del Conocimiento, Avda. De Dílar, C/ Uruguay
+
+30. ¿A qué dirección llevaremos a una persona que quiere ir al Hospital HLA Inmaculada?
+a) C/ Mozart
+b) C/ Doctor Alejandro Otero
+c) C/ Doctor López Font
+
+31. Me da una factura, por favor?
+a) Can I have a recipe?
+b) Can I have a recipient?
+c) Can I have a receipt?
+
+32. Arranged service
+a) Servicio de reparto
+b) Servicio concertado
+c) Servicio complementario
+33. ¿De dónde es usted?
+a) Where are you from?
+b) Where are you staying?
+c) Where to?
+
+34. Necesito un eurotaxi para mañana a las 10
+a) I need a taxi van for tomorrow at 10
+b) I need an adapted vehicle for tomorrow at 10
+c) I need a pick up taxi for tomorrow at 10
+35. The minimum race of the two tariff is 5.02 €
+a) La carrera mínima en la terminal dos es de €5.02
+b) La carrera mínima de la tarifa dos es de €5.02
+c) La mínima carrera de las dos tarifas es de €5.02
+
+

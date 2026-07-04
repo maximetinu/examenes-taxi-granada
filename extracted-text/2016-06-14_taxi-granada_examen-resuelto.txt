@@ -1,0 +1,342 @@
+# fuente: 2016-06_taxi-granada_examen.pdf
+# metodo: tesseract-ocr
+# ADVERTENCIA: si el metodo es OCR, revisar/corregir el texto a mano.
+
+AS
+E
+Ha:
+, AYUNTAMIENTO DE GRANADA ,
+CONCEJALÍA DELEGADA DE MOVILIDAD Y PROTECCIÓN CIUDADANA
+SECCIÓN ADMTVA. DE TRANSPORTES Y APARCAMIENTO
+Y CONTROL DE ACCESOS
+EXAMEN PARA PERMISO MUNICIPAL DE CONDUCTOR O CONDUCTORA DE
+AUTO-TAXI EN EL MUNICIPIO DE GRANADA (14 de junio de 2016)
+CONVOCATORIA APROBADA POR DECRETO DE 1 DE ABRIL DE 2016
+PRUEBA EN MATERIAS GENERALES
+1. Como se define, en el Reglamento Andaluz del Taxi, el servicio de taxi o auto-taxi:
+(@ transporte público discrecional de transporte de viajeros y viajeras en automóviles de
+turismo, prestado en régimen de actividad privada.
+
+b) transporte privado discrecional de transporte de viajeros y viajeras en automóviles de
+turismo, prestado en régimen de actividad pública.
+
+c) transporte público de viajeros y viajeras sin itinerario fijo prestado en automóviles de
+turismo mediante precio y en régimen de concesión administrativa.
+
+2. ¿Puede la persona titular de licencia de taxi arrendar la explotación de la misma?
+
+a) Solo en casos justificados de accidente o avería, enfermedad o, en general, cualquier
+circunstancia que impida o haga imposible la continuidad en la prestación del servicio,
+suficientemente acreditada.
+
+b) Solo en favor del conductor asalariado.
+
+No, en ningún caso.
+3. ¿Porque causas se extinguen las licencias de taxi?
+
+a) Por renuncia de su titular.
+
+b) Por caducidad
+a y b son correctas.
+
+4. A tenor de lo dispuesto en la Ordenanza Municipal ¿como adjudicará las licencias de auto-taxi
+el Ayuntamiento de Granada?:
+
+a) mediante concurso subasta
+
+($) mediante concurso público
+c) mediante adjudicación directa.
+5. Según el régimen de visado, la vigencia de las licencias de auto taxi queda condicionada a:
+a) La aportación por parte del titular de la licencia que el vehículo ha pasado la ITV y reúne
+los requisitos necesarios para prestar el servicio.
+1
+
+
+Ss
+
+Rap eal iG
+eo ey
+
+. AYUNTAMIENTO DE GRANADA :
+CONCEJALIA DELEGADA DE MOVILIDAD Y PROTECCIÓN CIUDADANA
+SECCION ADMTVA. DE TRANSPORTES Y APARCAMIENTO
+Y CONTROL DE ACCESOS
+(la constatación anual por parte del Ayuntamiento, o ente que asuma sus funciones en esta
+materia, del mantenimiento de las condiciones que justificaron su otorgamiento.
+
+c) En vehículos nuevos la constatación cada cinco años del mantenimiento de las
+condiciones que justificaron su otorgamiento. Transcurrido dicho plazo la licencia queda
+condicionada a la constatación anual por parte del Ayuntamiento, o ente que asuma sus
+funciones, del mantenimiento de las condiciones que justificaron su otorgamiento.
+
+6. Según la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en
+Automóviles de Turismo Auto-Taxis en el Municipio de Granada ¿como se define el “Asalariado o
+asalariada”?:
+(@ Persona que es contratada por el titular de la licencia para la realización de los servicios
+de taxi en los supuestos y con los requisitos que se determinen en esta Ordenanza.
+
+b) Aquellas autorizadas para la conducción en el servicio del taxi, en régimen especial de
+colaboración con el titular de la licencia, en los supuestos y con los requisitos que se
+determinen en la Ordenanza.
+
+c) Persona que materialmente lleva a cabo la prestación del servicio de taxi, bien en su
+condición de titular o en su cualidad de asalariada o de autónoma colaboradora,
+debidamente autorizada por este Ayuntamiento.
+
+7. En los supuestos de concertación previa... ¿cuando se considera iniciado el servicio?
+
+a) Desde que el usuario accede al vehículo.
+
+) Desde la adjudicación del servicio.
+
+¢) Desde la bajada de bandera.
+
+8. Cuando vayamos a recoger alguna persona en caso de concertación previa ¿podemos exigir
+alguna cantidad al usuario?
+
+a) No en ningún caso.
+
+b) Como máximo la cantidad que en cada momento venga determinada en las tarifas para
+cada horario como concepto de “bajada de bandera”.
+
+) (A) Como máximo el doble de la cantidad que en cada momento venga determinada en las
+tarifas para cada horario como concepto de “bajada de bandera”.
+9. A tenor de la Ordenanza Municipal del Taxi de Granada, la persona conductora tendrá derecho
+a no esperar , contados a partir del momento en que llegue al punto acordado,
+más de cinco minutos.
+b)) más de diez minutos
+Cc) más de quince minutos.
+2
+
+
+Ey ‘ae
+. AYUNTAMIENTO DE GRANADA .
+CONCEJALIA DELEGADA DE MOVILIDAD Y PROTECCION CIUDADANA
+SECCION ADMTVA. DE TRANSPORTES Y APARCAMIENTO
+Y CONTROL DE ACCESOS
+10. Según la Ordenanza Municipal; junto a las tarifas ordinarias ¿por que conceptos puede un
+taxista percibir suplementos?
+(A Por cada maleta o bulto, por salida de aeropuerto o estaciones de ferrocarril o autobuses,
+‘por servicio especial al recinto de la Alhambra y viceversa, y por aquellos otros que
+pudiera aprobar el Ayuntamiento de Granada.
+
+b) Por cada maleta o bulto, por salida de aeropuerto o estaciones de ferrocarril o autobuses y
+por aquellos otros que pudiera aprobar el Ayuntamiento de Granada.
+
+c) Por cada maleta o bulto, por salida de aeropuerto y por aquellos otros que pudiera aprobar
+el Ayuntamiento de Granada.
+
+11. Todas las personas fisicas o jurídicas que, en el sector público o en el privado, suministren
+bienes o servicios disponibles para el público, ofrecidos fuera del ámbito de la vida privada y
+familiar:
+
+a) Estarán obligadas, en sus actividades y en las transacciones consiguientes, al
+cumplimiento del principio de igualdad de oportunidades de las personas con
+discapacidad, propiciando discriminaciones indirectas por motivo de o por razón de
+
+~~, discapacidad.
+
+(o) Estarán obligadas, en sus actividades y en las transacciones consiguientes, al
+cumplimiento del principio de igualdad de oportunidades de las personas con
+discapacidad, evitando discriminaciones, directas o indirectas, por motivo de o por razón
+de discapacidad.
+
+c) No estarán obligadas, en sus actividades y en las transacciones consiguientes, al
+cumplimiento del principio de oportunidad de las personas con discapacidad, evitando
+discriminaciones indirectas, por motivo de o por razón de discapacidad.
+
+12. Los taxis adaptados prestarán servicio:
+
+(ap de forma prioritaria a las personas con discapacidad
+
+b) de forma exclusiva a las personas con discapacidad
+
+c) de forma indistinta a las personas con discapacidad y sin discapacidad, sin prioridad
+alguna.
+
+13. Los taxis adaptados o eurotaxis estarán acondicionados para que pueda viajar en el mismo una
+persona en su propia silla de ruedas y permita viajar a este pasajero:
+a) de espaldas al sentido de la marcha
+b)_ de frente al sentido de la marcha
+c) Jlas dos respuestas anteriores son correctas
+3
+
+
+Y
+ma Y a NS
+. AYUNTAMIENTO DE GRANADA .
+CONCEJALIA DELEGADA DE MOVILIDAD Y PROTECCIÓN CIUDADANA
+SECCIÓN ADMTVA. DE TRANSPORTES Y APARCAMIENTO
+Y CONTROL DE ACCESOS
+14. El Decreto 293/2009, de 7 de julio aprueba:
+a) El Reglamento de hojas de quejas y reclamaciones de las personas consumidoras y
+usuarias en Andalucía y las actuaciones administrativas relacionadas con ellas.
+b) El Reglamento de los servicios de transporte público de viajeros y viajeras en automóviles
+de turismo,
+() El Reglamento que regula las normas para la accesibilidad en las infraestructuras, el
+urbanismo, la edificación y el transporte en Andalucía.
+15. Cuando una persona consumidora del transporte en autotaxi quiere poner una reclamación a
+través de la correspondiente hoja de quejas y reclamaciones, el conductor del taxi deberá facilitar la
+correspondiente hoja a la reclamante y:
+Ambas partes deberán firmar la hoja
+b) El reclamante deberá firmar la hoja y sin que el conductor tenga obligación de firmarla
+c) Si el conductor firma la hoja de reclamaciones se considera que acepta la versión de los
+hechos de la persona reclamante.
+16. Será competente para tramitar las quejas y reclamaciones
+a) La Delegación Provincial de la Consejería competente en materia de consumo
+b) La Oficina de Información al Consumidor correspondiente al domicilio de la persona
+consumidora.
+(0) A elección de la persona consumidora, cualquiera de las dos anteriores.
+17. La queja o reclamación podrá ser archivada por:
+a) Avenencia de las partes a través del sometimiento de la controversia a mediación o a
+arbitraje
+b) El desistimiento de la parte reclamante o el acuerdo directo entre ambas
+c)} Las dos respuestas anteriores son correctas.
+18. ¿Quién será responsable de la colocación de los anclajes y cinturones de seguridad en los
+vehículos adaptados de las personas que usan silla de ruedas?
+(a) El conductor
+b) El titular de la licencia
+c) La persona usuaria
+4
+
+
+ig
+crs i
+, AYUNTAMIENTO DE GRANADA .
+CONCEJALÍA DELEGADA DE MOVILIDAD Y PROTECCIÓN CIUDADANA
+SECCIÓN ADMTVA. DE TRANSPORTES Y APARCAMIENTO
+Y CONTROL DE ACCESOS
+19. Son derechos de los consumidores, en el ámbito de la aplicación la Ley Ley 13/2003, de 17 de
+diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía.:
+
+a) La efectiva protección frente a las actuaciones que por acción u omisión ocasionen
+riesgos o daños que puedan afectar a la salud, al medio ambiente, o a la seguridad de los
+consumidores.
+
+b) La indemnización y reparación efectiva de daños y perjuicios producidos en los bienes,
+derechos o intereses que esta Ley tutela, de conformidad con la legislación vigente,
+
+(A) Las dos respuestas anteriores son correctas.
+20. El arbitraje de las reclamaciones del consumidor ante la Junta Arbitral de Transportes:
+Es un derecho del consumidor/a
+b) Es una obligación del consumidor/a
+c) No es un derecho ni una obligación del conductor
+21. Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y Primaria
+Arrayanes (C.E.I.P).
+a) Calle Rector Marín Ocete, n° 1.
+)/ Calle Merced Alta, s/n.
+€) Calle Caseria de Afguirre, n° 40.
+22. Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir al intercambiador de
+transporte metropolitano dónde pueda tomar el autobús a la Zubia. El destino será:
+a) Avenida de Dilar, s/n.
+b) Camino de Ronda, n° 1, aproximadamente.
+0 Calle Profesor Tierno Galván, frente núm. 3.
+23. El conservatorio profesional de música Ángel Barrios está situado en:
+a) En la calle Ángel Barrios
+(b)) La calle Torre de los Picos, n° 6.
+c) La calle San Jerónimo, n° 46.
+24. Nos solicitan ir a la Delegación Territorial de Fomento y Vivienda en Granada, el destino
+correcto es:
+(ay Edificio "Almanjayar”. Avenida Joaquina Eguaras, núm. 2.
+b) Edifico "La normal. Calle Gran Vía de Colón, s/n.
+c) Ninguna de las anteriores, la Delegación Territorial está en Sevilla.
+5
+
+
+Sa pe, Bs
+) AYUNTAMIENTO DE GRANADA .
+CONCEJALÍA DELEGADA DE MOVILIDAD Y PROTECCION CIUDADANA
+SECCIÓN ADMTVA. DE TRANSPORTES Y APARCAMIENTO
+Y CONTROL DE ACCESOS
+25. El Hotel Villa Oniria se localiza en:
+(2)cate San Antón, n° 28. 18.005-GRANADA
+Calle Molinos, n° 12. 18.009-GRANADA.
+c) Este hotel no existe.
+26. Nos solicitan una recogida en la glorieta Festival de Música y Danza, nos dirigimos a:
+( a) *La confluencia de la avenida Severo Ochoa, la avenida de Fuente Nueva y la calle Santa
+Bárbara.
+b) La calle Félix Rodríguez de la Fuente, junto al asilo de ancianos "Hermanitas de los
+Pobres”.
+c) El Paseo del Generalife, junto al Paseo de los Mártires.
+27. La dirección del Hostal Atenas es:
+(1) Calle Gran Vía de Colón, n° 38.
+) Paseo de los Martires.s/n.
+c) Camino de las Peñuelas.
+28. Efectúe el siguiente servicio por el recorrido más corto: Estación de autobuses de Granada a
+Hotel Dauro. (elija la opción correcta)
+a) Av. Juan Pablo IJ, av. Luis Miranda Dávalos, av. Francisco Ayala, Pintor Francisco
+Pradilla, av. de Andalucía, av. de la Constitución, av. Severo Ochoa.
+b) Av. Juan Pablo ll, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco
+Pradilla, Calle Cruz del Sur, Camino de Ronda, Avenida Fuente Nueva.
+(o) Av. Juan Pablo II, av. Luis Miranda Davalos, calle Luís Amador, Pintor Francisco
+Pradilla, Calle Cruz del Sur, Camino de Ronda, Paseo del Violón, Acera del Darro.
+29. Efectúe el siguiente servicio por el recorrido más rápido y corto: Puerta Real de España hasta
+calle Ebro. (elija la opción correcta)
+a) Calle Recogidas, Neptuno, Circunvalación de Granada, Ronda Sur, calle de la Sultana,
+Torre de Comares, calle Ebro. .
+b) Cañaveral, Cmno. de Ronda, rotonda de la Aviación Española, Paseo del Violón, calle
+Antonio Dalmases, calle Profesor Tierno Galván, avenida de América, carretera de Dilar.
+(o) Acera del Darro, Paseo del Violón, Profesor Tierno Galván, Fontiveros, Andrés Segovia,
+Carlos V, calle Torre de Comares
+6
+
+
+. AYUNTAMIENTO DE GRANADA ;
+CONCEJALIA DELEGADA DE MOVILIDAD Y PROTECCION CIUDADANA
+SECCION ADMTVA. DE TRANSPORTES Y APARCAMIENTO
+Y CONTROL DE ACCESOS
+30. La dirección del la Facultad de Ciencias de la Salud de Granada es:
+a); Avenida de la Ilustración, n° 60. Parque Tecnológico de la Salud.
+Avenida del Conocimiento, n° 11. Parque Tecnológico de la Salud.
+c) Avenida de la Universidad, s/n Parque Tecnológico de la Salud.
+31. Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y Primaria
+Federico Garcia Lorca (C.E.I.P).
+a) Calle Poeta César Vallejo, n° 6
+Calle Rector Marín Ocete, n° 1.
+c) Calle García Lorca, n° 40.
+32. Indique la dirección correcta para el siguiente destino: Instituto Miguel de Cervantes.
+Este instituto no está en Granada.
+by Camino de los Neveros, n° 1.
+c) Calle Profesor Albareda, s/n.
+33. Un usuario desea tomar el transporte metropolitano para ir a Jun y nos pide que lo llevemos a la
+parada desde dónde parte (intercambiador). Su destino será:
+a) Paseos universitarios.
+b) Avenida de Severo Ochoa.
+(Y) Calle Capitán Moreno.
+34. Nos solicitan ir al Centro de día "Buenos Aires", junto a la Confederación Granadina de
+Empresarios, el destino correcto es:
+a) Calle Maestro Montero.
+)/ Calle Eudoxia Piriz.
+c) Avenida de la Argentinita.
+35. Efectúe el siguiente servicio por el recorrido más rápido y corto: Puerta Real de España hasta la
+Cámara de Comercio de Granada. (elija la opción correcta)
+(®) Calle Reyes Católicos, Gran Vía de Colón, avenida de la Constitución, avenida de
+Andalucía, calle Luís Amador.
+b) Calle Recogidas, Camino de Ronda, calle Cruz del Sur, calle Luís Amador.
+c) Calle Recogidas, Neptuno, circunvalación de Granada a-44, avenida Juan Pablo II, Luis
+Miranda Davalos.
+7
+
+
+ya eet
+qa
+AS
+. AYUNTAMIENTO DE GRANADA .
+CONCEJALIA DELEGADA DE MOVILIDAD Y PROTECCION CIUDADANA
+SECCIÓN ADMTVA. DE TRANSPORTES Y APARCAMIENTO
+Y CONTROL DE ACCESOS
+PRUEBA DE INGLÉS
+En las siguientes cuestiones deberá traducir del español al inglés o del inglés al español,
+según corresponda:
+1. Good afternoon, Where do you want to go?
+Buenas tardes ¿ dónde qe ire
+I
+2, ¿Cuánto tiempo dura el viaje?
+How long will the genre leal / How lona is The rede? | How far is ¡42
+3. ¿Me puede esperar aqui?
+Gola wou wait ler me here? /will you Wait here?
+4. Could you take me to the city centre?
+Mas Podría llevare al centro cle da ciudad?
+5. Gracias por visitarnos.
+Thank ga der visiting Us / Thank rien dor qr visi +
+8

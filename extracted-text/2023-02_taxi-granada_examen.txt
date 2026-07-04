@@ -1,0 +1,251 @@
+# fuente: 2023-02_taxi-granada_examen.pdf
+# metodo: pdftotext
+# ADVERTENCIA: si el metodo es OCR, revisar/corregir el texto a mano.
+
+AYUNTAMIENTO DE GRANADA
+CONCEJALÍA DELEGADA DE PROTECCIÓN CIUDADANA, MOVILIDAD Y
+ECONOMÍA
+ÓRGANO GESTOR DEL ÁREA DE PRESTACIÓN CONJUNTA DEL SERVICIO AUTO-TAXI
+DE GRANADA
+EXAMEN PARA PERMISO MUNICIPAL DE CONDUCTOR/A
+DE AUTO-TAXI EN EL MUNICIPIO DE GRANADA 22/03/2023
+
+CUESTIONARIO GENERAL.1. El tamaño de la tarjeta identificativa de conductor/a de auto-taxi será:
+a) A4
+b) A5
+c) A6
+2. Según la Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y
+Usuarios de Andalucía, los consumidores tendrán derecho a:
+a) La protección, reconocimiento y realización de sus legítimos intereses económicos y
+sociales.
+b) La especial protección en aquellas situaciones de inferioridad, subordinación o
+indefensión en que puedan encontrarse individual o colectivamente.
+c) Las dos respuestas anteriores son correctas.
+3. ¿Podrá un taxi del Área de Prestación Conjunta de Granada recoger pasajeros en el puerto
+de Motril, teniendo en cuenta que el puerto está en otro término municipal?
+a) Si, siempre que exista contratación previa.
+b) No, porque siempre se debe iniciar el servicio en el ámbito del Área de Prestación
+Conjunta.
+c) Depende de lo establecido en la Ordenanza Municipal.
+4. ¿Se puede aplicar la tarifa 2 un miércoles no festivo?
+a) No, sólo los festivos nacionales, autonómicos y locales.
+b) Si, entre las 6 y las 22 horas.
+c) Si, entre las 22 y las 6 horas.
+5. ¿Cuál es la tarifa por cada hora de espera en un servicio urbano, un miércoles laborable a las
+12:00 horas?
+a) 33,09€
+b) 14,60€
+c) 21,16€
+
+6. En el interior del habitáculo del vehículo taxi y en lugar bien visible para el usuario llevará
+una placa esmaltada, en la que figurarán el número de licencia, la matrícula y el número de
+plazas autorizadas
+a) de dimensiones mínimas de 50 x 50 milímetros, con impresión blanca sobre fondo
+negro.
+b) de dimensiones mínimas de 50 x 50 milímetros, con impresión negra sobre fondo
+blanco.
+c) de dimensiones mínimas de 50 x 50 milímetros, con impresión verde sobre fondo
+blanco.
+7. ¿Se puede aplicar la tarifa especial nocturna un sábado cualquiera?
+a) No, sólo los festivos nacionales, autonómicos y locales.
+b) Si, entre las 24 y las 10 horas.
+c) Si, entre las 1 y las 6 horas.
+8. El suplemento por cada viajero que exceda del quinto, en vehículos de más de 5 plazas, es:
+a) 0,51€
+b) 1€
+c) 0,75€
+9. ¿Cual de los siguientes municipios no forma parte aún del Área de Prestación Conjunta:
+a) Las Gabias.
+b) Cenes de la Vega.
+c) Peligros.
+10. La carrera mínima correspondiente a tarifa urbana especial nocturna asciende a:
+a) 4,04 euros.
+b) 5,02 euros.
+c) 6,30 euros.
+11. ¿Debe llevarse en el vehículo auto-taxi el libro de quejas y reclamaciones?
+a) Si.
+b) No.
+c) Sólo si no se pueden presentar las reclamaciones por vía telemática.
+12. ¿Qué tarifa se aplicará a los servicios interurbanos que se desarrollen los lunes, martes,
+miércoles, jueves y viernes laborables en el periodo comprendido entre las 6:00 y las 22:00?
+a) Tarifa 6.
+b) Tarifa 7.
+c) Tarifa 8.
+
+13. ¿Que vehículos auto-taxi tienen la obligación de llevar las tarifas escritas en sistema Braille?
+a) Los vehículos adaptados.
+b) Todos los vehículos.
+c) Ningún vehículo.
+14. ¿Cuantas plazas se pueden autorizar a los vehículos auto-taxi accesibles para el transporte de
+personas en silla de ruedas?
+a) Hasta 6.
+b) Hasta 8.
+c) Hasta 9.
+15. El Hotel Vincci Albaycín se encuentra en:
+a) Avda. Constitución.
+b) Plaza Isabel la Católica.
+c) Carrera de la Virgen.
+16. La Delegación Territorial de Cultura y Patrimonio Histórico de la Junta de Andalucía se
+encuentra en:
+a) Paseo de la Bomba.
+b) Gran Vía.
+c) Plaza Gran Capitán.
+17. La calle Melchor Almagro de Granada tiene sentido de circulación:
+a) Desde Avenida Fuente Nueva a Plaza Gran Capitán.
+b) Desde Plaza Gran Capitán a Avda. Fuente Nueva.
+c) Tiene ambos sentidos.
+18. La sede del Colegio Oficial de Ingenieros Industriales se encuentra en:
+a) Avda. Constitución.
+b) Gran Vía.
+c) Plaza de los Campos.
+19. La parada de taxi más próxima al Hospital de la Inmaculada es:
+a) Santa María de la Alhambra.
+b) Laguna de Cameros.
+c) Doctor Alejandro Otero.
+20. La Delegación Municipal de Deportes tiene su sede en:
+a) Campo de fútbol Nuevo Los Cármenes.
+b) Palacio de Deportes.
+c) C/ Aguas Bravas.
+
+21. La C/ Alhamar del municipio de Granada tiene sentido de circulación:
+a) Desde San Antón a Camino de Ronda.
+b) Desde Camino de Ronda a San Antón.
+c) Tiene ambos sentidos.
+22. La Escuela Técnica Superior de Ingeniería de Caminos, Canales y Puertos se encuentra en:
+a) Campus Fuente Nueva.
+b) Campus Cartuja.
+c) Campus Aynadamar.
+23. Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir a la parada más
+próxima del autobús de Santa Fe, con la intención de ir a ese municipio. ¿Donde debería llevarlo?
+a) Avda. Del Sur, 11.
+b) Camino de Ronda, 1.
+c) Avda. de Andalucía, 1.
+24. Son las once de la mañana y a través de central solicitan un servicio en Carrera del Darro,
+nº11. Indique la respuesta correcta.
+a) Está prohibido el acceso al Albaicín de cualquier taxi a esta hora; no realizo el servicio.
+b) Retraso el servicio hasta las once de la noche, porque si hago el servicio solicitado me
+multarían.
+c) Realizo el servicio solicitado.
+25. Efectúe el siguiente servicio por el recorrido más rápido y corto: Puerta Real de España
+hasta calle Ebro. (Elija la opción correcta.)
+a) Puerta Real de España, Acera del Darro, Paseo del Violón, Profesor Tierno Galván,
+Fontiveros, Andrés Segovia, Carlos V, calle Torre de Comares, calle Pintor
+Maldonado y calle Ebro.
+b) Calle Recogidas, Neptuno, Circunvalación de Granada, Ronda Sur, calle de la Sultana,
+Torre de Comares, calle Ebro.
+c) Cañaveral, Camino de Ronda, rotonda de la Aviación Española, Paseo del Violón, calle
+Antonio Dalmases, calle Profesor Tierno Galván, Avenida de América, Carretera de Dílar.
+26. La parada de taxi más cercana del Mirador de San Nicolás está en:
+a) Cjón. Atarazana.
+b) Cjón. San Nicolás.
+c) C/ Espaldas de San Nicolás.
+27. Si tenemos que llevar a una persona al centro de salud de Maracena, tendremos que llevarla
+a la siguiente calle:
+a) C/ Margarita Nelken.
+b) Cmno. de los Eriales.
+c) Avda. Dolores Ibárruri “Pasionaria”.
+
+28. ¿Dónde se ubica el Teatro Alhambra?:
+a) C/ Molinos, número 56.
+b) C/ Santiago, número 11.
+c) C/ San Matías, número 23.
+29. ¿Donde está ubicado el Centro Federico García Lorca de Granada?
+a) Plaza de la Romanilla, s/n.
+b) Plaza de los Campos, s/n.
+c) Plaza Aliatar, s/n.
+30. Qué dirección tiene la C/ Gonzalo Gallas:
+a) Dirección Avenida Fuente Nueva a Gabriel Miró.
+b) Dirección Gabriel Miró a Avenida Fuente Nueva.
+c) Depende del tramo.
+31. Según el artículo 2 de la Ordenanza Reguladora del Servicio de Transporte Público de
+Viajeros y Viajeras en automóviles de turismo auto-taxis en el municipio de Granada – BOP nº25,
+Granada, lunes 8 de febrero de 2021- se entiende por servicio urbano, (marque la respuesta
+correcta):
+a) El que se contrata dentro del término municipal de Granada y no sale del municipio.
+b) El que se desarrolla íntegramente dentro del término municipal de Granada, o en su caso
+del Área de Prestación Conjunta de Granada.
+c) El que se contrata y se desarrolla dentro del Área de Prestación Conjunta. Si bien se admite que
+pueda salir un poco (menos de un 5% del trayecto).
+32. Según el artículo 22 de la Ordenanza Reguladora del Servicio de Transporte Público de
+Viajeros y Viajeras en automóviles de turismo auto-taxis en el municipio de Granada, la capacidad
+mínima del maletero será de:
+a) 330 litros.
+b) 200 litros.
+c) 300 litros.
+33. Abrir o cerrar los cristales a indicación del usuario; ayudar a salir y a apearse del
+vehículo a los ancianos, enfermos, inválidos, niños y en general a cuantas personas lo precisen por
+su estado físico; recoger y colocar adecuadamente las maletas y demás bultos de equipaje; encender
+la luz interior del vehículo por la noche, para facilitar la subida y bajada y el pago del servicio; bajar
+el volumen del receptor de radio a voluntad del pasajero. Son:
+a) Recomendaciones de carácter general que nada tienen que ver con el servicio de taxi.
+b) Normas generales que no obligan al conductor de taxi.
+c) Obligaciones del conductor de taxi.
+
+34. ¿Qué deberán llevar los vehículos según la Ordenanza reguladora del servicio de transporte
+público de viajeros y viajeras en automóviles de turismo auto-taxi en el municipio de Granada?
+a) Rueda de recambio en buen estado, herramientas o kit de pinchazo.
+b) Mampara separadora transparente.
+c) Sistema de posicionamiento global por satélite (GPS) debidamente homologado.
+35. Según la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y
+Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada, la tarjeta de
+identificación de conductor de taxi, siempre que se está prestando el servicio, se colocará en:
+a) La parte inferior derecha de la luna delantera del vehículo.
+b) Delante de la guantera del vehículo.
+c) Las dos respuestas anteriores son correctas.
+
+CUESTIONARIO DE INGLÉS.1. Aquí tiene su cambio, gracias.
+a) Here is your casch, thank you.
+b) Here is your share, thank you.
+c) Here is your change, thank you.
+2. On weekdays, rate one applies.
+a) Los fines de semana se aplica la tarifa uno.
+b) Los días laborables se aplica la tarifa uno.
+c) En esta semana se aplicará sólo una tarifa.
+3. ¿Se pueden llevar mascotas?
+a) Can I take my pet with me?
+b) May I walk my pet?
+c) May I walking my pet?
+4. The minimum race of the two tariff is 5,02€
+a) La carrera mínima en la terminal dos es de €5,02
+b) La carrera mínima de la tarifa dos es de €5,02
+c) La mínima carrera de las dos tarifas es de €5,02
+5. Póngase el cinturón de seguridad, por favor.
+a) Put down your head set, please.
+b) Put off your mask, please.
+c) Put on your seat belt, please.
+
+PREGUNTAS DE RESERVA.36. Atendiendo al artículo 43 de la Ordenanza municipal, señale la opción correcta.
+a) Se prohíbe recoger viajeros en puntos que disten menos de cien metros de las paradas
+oficiales establecidas, salvo en el caso de que dichas paradas se encuentren desiertas por no
+existir vehículos.
+b) Se prohíbe recoger viajeros en puntos que disten menos de cincuenta metros de las paradas
+oficiales establecidas, salvo en el caso de que dichas paradas se encuentren desiertas por no existir
+vehículos.
+c) Se prohíbe recoger viajeros en puntos que disten menos de cincuenta metros de las paradas
+oficiales estableciadas, en cualquier caso.
+37. ¿Cuántos municipios integran el Área de Prestación Conjunta de Granada, incluyendo el
+municipio de Granada?
+a) 5.
+b) 7.
+c) 8.
+38. La falta de visado en el plazo de dos meses, contados a partir de la fecha que corresponda de
+forma ordinaria, determinará la apertura del procedimiento para:
+a) Procedimiento sancionador.
+b) Suspensión de la licencia.
+c) Declaración de caducidad de la licencia.
+39. Cuando en el transcurso del servicio se produzca algún accidente, avería o detención no
+imputable al usuario, que momentánea o temporalmente lo interrumpe, se procederá:
+a) Parando el taxímetro, y una vez reanudado el servicio tras la detención, el usuario estará obligado
+a pagar el importe de la nueva bajada de bandera. Es decir el importe del total contabilizado para el
+servicio.
+b) Parando el taxímetro, y una vez reanudado el servicio tras la detención, el usuario no
+estará obligado a pagar el importe de esta nueva bajada de bandera, por lo que será
+descontado su importe del total del servicio.
+c) Continuará funcionando el taxímetro y descontará un importe del total del servicio.
+40. Dentro de las características técnicas de los vehículos y a tenor de lo dispuesto en la Ordenanza
+municipal vigente ¿Puede instalarse una mampara separadora entre el conductor y los usuarios?
+a) No, en ningún caso.
+b) Si, además es obligatorio.
+c) Es voluntario, sin perjuicio de que pueda exigirse si las condiciones sanitarias lo exigen.
+
+

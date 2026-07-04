@@ -1,0 +1,544 @@
+{
+  "id": "2017-11-22",
+  "sourceFile": "2017-11-22_taxi-granada_examen-resuelto.pdf",
+  "date": "2017-11-22",
+  "datePrecision": "day",
+  "convocatoria": "noviembre 2017",
+  "organo": "Ayuntamiento de Granada",
+  "notes": null,
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2017-11-22-general-1",
+          "number": 1,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio P. Vicente Alexandre.",
+          "options": [
+            { "key": "a", "text": "C/ Bethowen" },
+            { "key": "b", "text": "C/ Fernando de los Ríos" },
+            { "key": "c", "text": "Avda. De Cádiz" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-2",
+          "number": 2,
+          "statement": "Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir al intercambiador del transporte metropolitano. ¿Dónde puede tomar el autobús de Huétor Vega?",
+          "options": [
+            { "key": "a", "text": "Camino de Ronda, n°1, aproximadamente" },
+            { "key": "b", "text": "C/ Profesor Tierno Galván, frente al n° 3" },
+            { "key": "c", "text": "Avda. De Dílar s/n" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-3",
+          "number": 3,
+          "statement": "Indique la dirección correcta del siguiente destino: Colegio de Educación Infantil y Primaria José Hurtado (C.E.I.P.)",
+          "options": [
+            { "key": "a", "text": "C/ Don Bosco, n° 14" },
+            { "key": "b", "text": "C/ Molinos, n° 55" },
+            { "key": "c", "text": "C/ Tablas, n° 10" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-4",
+          "number": 4,
+          "statement": "El Conservatorio Profesional de Danza “Reina Sofía” está situado en:",
+          "options": [
+            { "key": "a", "text": "C/ Torre de los Picos, n° 6" },
+            { "key": "b", "text": "C/ Torre de Machuca, s/n" },
+            { "key": "c", "text": "C/ Ángel Barrios" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-5",
+          "number": 5,
+          "statement": "Indique cuál es el recorrido más corto entre Puerta Real de España y la Cámara de Comercio de Granada.",
+          "options": [
+            { "key": "a", "text": "C/ Recogidas, Cmno de Ronda, C/ Cruz del Sur y C/ Luis Amador" },
+            { "key": "b", "text": "C/ Recogidas, C/ Neptuno, circunvalación de Granada, Avda. Juan Pablo II y C/ Luis Miranda de Dávalos." },
+            { "key": "c", "text": "C/ Reyes Católicos, C/ Gran Vía de Colón, Avda. De la Constitución, Avda. De Andalucía, C/ Francisco Pradilla y C/ Luis Amador." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-6",
+          "number": 6,
+          "statement": "El Colegio de Abogados de Granada se encuentra ubicado en:",
+          "options": [
+            { "key": "a", "text": "Plaza Santa Ana, n° 5" },
+            { "key": "b", "text": "C/ Gran Vía de Colón, n° 14" },
+            { "key": "c", "text": "Avda. Del Sur, n° 1" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-7",
+          "number": 7,
+          "statement": "Nos solicitan ir al Registro de Parejas de Hecho, Delegación Territorial de la Consejería de Igualdad y Políticas Sociales de la Junta de Andalucía, con sede en Granada que se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Plaza Nueva s/n" },
+            { "key": "b", "text": "Cmno. De Ronda, n° 110" },
+            { "key": "c", "text": "C/ Buenos Aires, n° 1" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-8",
+          "number": 8,
+          "statement": "Un usuario nos solicita ir a la Oficina de Extranjería que se encuentra ubicada en:",
+          "options": [
+            { "key": "a", "text": "C/ Buenos Aires, n° 1" },
+            { "key": "b", "text": "C/ San Agapito" },
+            { "key": "c", "text": "C/ Santa Rosalía, n° 14" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-9",
+          "number": 9,
+          "statement": "La dirección del Hotel Alhambra Palace es:",
+          "options": [
+            { "key": "a", "text": "Paseo de los Mártires, s/n" },
+            { "key": "b", "text": "Plaza del Arquitecto García de Paredes, n° 1" },
+            { "key": "c", "text": "C/ Acera del Darro, n° 20" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-10",
+          "number": 10,
+          "statement": "La dirección actual de la Facultad de Medicina en Granada es:",
+          "options": [
+            { "key": "a", "text": "Avda. De la Constitución" },
+            { "key": "b", "text": "Avda. De Madrid" },
+            { "key": "c", "text": "Avda. De la Investigación" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-11",
+          "number": 11,
+          "statement": "Nos solicitan un servicio con inicio en la Glorieta Festival Internacional de Música y Danza. ¿A dónde nos dirigimos?",
+          "options": [
+            { "key": "a", "text": "A la C/ Félix Rodríguez de la Fuente, junto a la Residencia de Ancianos “Hermanitas de los Pobres”." },
+            { "key": "b", "text": "A la confluencia de la Avda. Severo Ochoa, la Avda. De Fuente Nueva y la C/ Santa Bárbara." },
+            { "key": "c", "text": "El Paseo del Generalife, junto al Paseo de los Mártires." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-12",
+          "number": 12,
+          "statement": "La dirección de la Residencia de Estudiantes Fernando de los Ríos se encuentra en:",
+          "options": [
+            { "key": "a", "text": "C/ Julio Moreno Dávila" },
+            { "key": "b", "text": "Carretera de Alfacar" },
+            { "key": "c", "text": "Avda. Fernando de los Ríos" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-13",
+          "number": 13,
+          "statement": "Nos solicitan un servicio en el Hospital de San Rafael, ¿A dónde nos dirigiremos?",
+          "options": [
+            { "key": "a", "text": "Avda. Del Conocimiento s/n" },
+            { "key": "b", "text": "Parque Tecnológico de la Salud" },
+            { "key": "c", "text": "C/ San Juan de Dios, n° 19" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-14",
+          "number": 14,
+          "statement": "El Hotel Corona de Granada se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Cmno de Ronda, n° 101" },
+            { "key": "b", "text": "C/ Pedro Antonio de Alarcón, n° 10" },
+            { "key": "c", "text": "C/ Alhamar, n° 12" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-15",
+          "number": 15,
+          "statement": "Un usuario desea tomar el transporte metropolitano para ir al pueblo de Alfacar y nos pide que le llevemos al intercambiador. Nuestro destino será:",
+          "options": [
+            { "key": "a", "text": "Avda. Severo Ochoa" },
+            { "key": "b", "text": "C/ Capitán Moreno" },
+            { "key": "c", "text": "Paseos Universitarios de Fuentenueva" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-16",
+          "number": 16,
+          "statement": "Con carácter general los vehículos destinados al servicio de taxi en Granada, tendrán una capacidad de:",
+          "options": [
+            { "key": "a", "text": "5 plazas más el conductor/a" },
+            { "key": "b", "text": "5 plazas incluido/a el conductor/a" },
+            { "key": "c", "text": "5 plazas más una para persona con movilidad reducida" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-17",
+          "number": 17,
+          "statement": "Según el Decreto 72/2008, de 4 de marzo, por el que se regulan las hojas de quejas y reclamaciones, de las personas consumidoras y usuarias de Andalucía, el modelo de hojas de quejas y reclamaciones en soporte papel estará integrado por:",
+          "options": [
+            { "key": "a", "text": "Un juego unitario de impresos autocalcables por duplicado." },
+            { "key": "b", "text": "Un juego unitario de impresos autocalcables por triplicado." },
+            { "key": "c", "text": "Un juego unitario de impresos autocalcables por cuadruplicado." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-18",
+          "number": 18,
+          "statement": "A tenor del Decreto 72/2008, de 4 de marzo, quién deberá firmar la hoja de reclamaciones:",
+          "options": [
+            { "key": "a", "text": "El conductor del taxi y el reclamante" },
+            { "key": "b", "text": "Sólo el reclamante" },
+            { "key": "c", "text": "Indistintamente cualquiera de los dos anteriores" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-19",
+          "number": 19,
+          "statement": "¿Por qué causas se extinguen las licencias de taxi?",
+          "options": [
+            { "key": "a", "text": "Por caducidad" },
+            { "key": "b", "text": "Por renuncia de su titular" },
+            { "key": "c", "text": "a y b son correctas" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-20",
+          "number": 20,
+          "statement": "Como norma general, las personas titulares de licencias de auto-taxi, podrán contratar, para la prestación del servicio, a:",
+          "options": [
+            { "key": "a", "text": "dos personas asalariadas" },
+            { "key": "b", "text": "una persona asalariada y una autónoma" },
+            { "key": "c", "text": "dos personas asalariadas si la persona titular se encuentra en situación de enfermedad de larga duración." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-21",
+          "number": 21,
+          "statement": "¿Según la Ordenanza Municipal, es obligatorio llevar impresora expendedora de recibos en el taxi?",
+          "options": [
+            { "key": "a", "text": "No, es opcional." },
+            { "key": "b", "text": "Sí, desde la entrada en vigor de la ordenanza, salvo que el titular solicite autorización para no ponerla." },
+            { "key": "c", "text": "Sí, porque el tiempo transitorio desde la entrada en vigor de la ordenanza ya ha finalizado." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-22",
+          "number": 22,
+          "statement": "Son funciones de las Oficinas de Información al Consumidor y al Usuario:",
+          "options": [
+            { "key": "a", "text": "Servir de cauce de mediación voluntaria en conflictos." },
+            { "key": "b", "text": "Facilitar un abogado para que el consumidor ponga la correspondiente denuncia judicial." },
+            { "key": "c", "text": "No es una de sus funciones registrar denuncias, ya que han de enviarlas a las entidades y órganos competentes." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-23",
+          "number": 23,
+          "statement": "¿Cuál es la tarifa por kilómetro recorrido, en un servicio urbano, un miércoles a las 6:00 horas de la mañana?",
+          "options": [
+            { "key": "a", "text": "0,69€" },
+            { "key": "b", "text": "0,58€" },
+            { "key": "c", "text": "1,04€" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-24",
+          "number": 24,
+          "statement": "Las autorizaciones para realizar servicios en las Áreas Territoriales de Prestación Conjunta sustituirán a:",
+          "options": [
+            { "key": "a", "text": "las autorizaciones de transporte interurbano." },
+            { "key": "b", "text": "las licencias municipales." },
+            { "key": "c", "text": "las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-25",
+          "number": 25,
+          "statement": "La realización de servicios de transporte en vehículo auto-taxi careciendo del permiso municipal de conductor y conductora de auto-taxi se considera una falta:",
+          "options": [
+            { "key": "a", "text": "leve" },
+            { "key": "b", "text": "grave" },
+            { "key": "c", "text": "muy grave" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-26",
+          "number": 26,
+          "statement": "Las personas titulares de licencias auto-taxi en el municipio de Granada, podrán:",
+          "options": [
+            { "key": "a", "text": "solicitar voluntariamente que su taxi sea adaptado" },
+            { "key": "b", "text": "pasar su taxi a taxi adaptado sin necesidad de autorización" },
+            { "key": "c", "text": "tienen obligación de pasar su taxi a taxi adaptado cuando lo dicte el Ayuntamiento" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-27",
+          "number": 27,
+          "statement": "Podrá cambiarse el vehículo adscrito a la licencia de auto-taxi:",
+          "options": [
+            { "key": "a", "text": "Cuando el nuevo vehículo no tenga más de dos años." },
+            { "key": "b", "text": "Cuando el nuevo vehículo no tenga más de cinco años." },
+            { "key": "c", "text": "Cuando el nuevo vehículo sea de menor antigüedad que el anterior." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-28",
+          "number": 28,
+          "statement": "Podrá concertarse la prestación de un servicio:",
+          "options": [
+            { "key": "a", "text": "Mediante formulación de ofertas en andenes." },
+            { "key": "b", "text": "En la vía pública, mediante una señal que pueda ser percibida por el conductor." },
+            { "key": "c", "text": "En cualquier parte, mediante el pago de comisiones." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-29",
+          "number": 29,
+          "statement": "Según el Reglamento de los Servicios de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo ¿Es obligatorio llevar instalado el taxímetro en el vehículo auto-taxi?",
+          "options": [
+            { "key": "a", "text": "Sí, en todos los municipios." },
+            { "key": "b", "text": "No, en ningún municipio." },
+            { "key": "c", "text": "Sólo en los municipios de más de 10.000 habitantes." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-30",
+          "number": 30,
+          "statement": "Los vehículos adscritos a las licencias auto-taxi deberán:",
+          "options": [
+            { "key": "a", "text": "Pasar una revisión anual." },
+            { "key": "b", "text": "Pasar una revisión antes de la puesta en servicio." },
+            { "key": "c", "text": "Las respuestas a) y b) son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-31",
+          "number": 31,
+          "statement": "Con carácter general las licencias municipales de auto taxi se otorgarán:",
+          "options": [
+            { "key": "a", "text": "Por un plazo máximo de cinco años tras el cual deberán someterse a revisión" },
+            { "key": "b", "text": "Quedarán condicionadas a la constatación anual por parte del Ayuntamiento de Granada, mediante el correspondiente visado, del mantenimiento de las condiciones que originariamente justificaron su otorgamiento." },
+            { "key": "c", "text": "Se otorgarán por tiempo indefinido." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-32",
+          "number": 32,
+          "statement": "Como se define, en el Reglamento Andaluz del Taxi, el servicio de taxi o auto-taxi:",
+          "options": [
+            { "key": "a", "text": "transporte público discrecional de transporte de viajeros y viajeras en automóviles de turismo, prestado en régimen de actividad privada." },
+            { "key": "b", "text": "transporte privado discrecional de transporte de viajeros y viajeras en automóviles de turismo, prestado en régimen de actividad pública." },
+            { "key": "c", "text": "transporte público de viajeros y viajeras sin itinerario fijo prestado en automóviles de turismo mediante precio y en régimen de concesión administrativa." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-33",
+          "number": 33,
+          "statement": "¿Puede la persona titular de licencia de taxi arrendar la explotación de la misma?",
+          "options": [
+            { "key": "a", "text": "Solo en casos justificados de accidente o avería, enfermedad o, en general, cualquier circunstancia que impida o haga imposible la continuidad en la prestación del servicio, suficientemente acreditada." },
+            { "key": "b", "text": "Solo en favor del conductor asalariado." },
+            { "key": "c", "text": "No, en ningún caso." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-34",
+          "number": 34,
+          "statement": "Según la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada ¿cómo se define el “Asalariado o asalariada”?:",
+          "options": [
+            { "key": "a", "text": "Persona que es contratada por el titular de la licencia para la realización de los servicios de taxi en los supuestos y con los requisitos que se determinen en esta Ordenanza." },
+            { "key": "b", "text": "Aquellas autorizadas para la conducción en el servicio del taxi, en régimen especial de colaboración con el titular de la licencia, en los supuestos y con los requisitos que se determinen en la Ordenanza." },
+            { "key": "c", "text": "Persona que materialmente lleva a cabo la prestación del servicio de taxi, bien en su condición de titular o en su cualidad de asalariada o de autónoma colaboradora, debidamente autorizada por este Ayuntamiento." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-general-35",
+          "number": 35,
+          "statement": "Cuando vayamos a recoger alguna persona en caso de concertación previa ¿podemos exigir alguna cantidad al usuario?",
+          "options": [
+            { "key": "a", "text": "No en ningún caso." },
+            { "key": "b", "text": "Como máximo la cantidad que en cada momento venga determinada en las tarifas para cada horario como concepto de “bajada de bandera”." },
+            { "key": "c", "text": "Como máximo el doble de la cantidad que en cada momento venga determinada en las tarifas para cada horario como concepto de “bajada de bandera”." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Cuestionario de inglés",
+      "questions": [
+        {
+          "id": "2017-11-22-ingles-1",
+          "number": 1,
+          "statement": "How much is the ride, please?",
+          "options": [
+            { "key": "a", "text": "¿Cuánto es la tarifa diurna?" },
+            { "key": "b", "text": "¿Cuánto es la carrera?" },
+            { "key": "c", "text": "¿Cuánto es la bajada de bandera?" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-ingles-2",
+          "number": 2,
+          "statement": "Lléveme a la Alhambra, por favor",
+          "options": [
+            { "key": "a", "text": "Fly me to the Alhambra, please" },
+            { "key": "b", "text": "Don't go to the Alhambra, please" },
+            { "key": "c", "text": "Take me to the Alhambra, please" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-ingles-3",
+          "number": 3,
+          "statement": "There is a tax of 51 cents for every extra baggage.",
+          "options": [
+            { "key": "a", "text": "Hay un suplemento de 51 céntimos por cada maleta" },
+            { "key": "b", "text": "El taxi cuesta 51 céntimos por cada kilómetro recorrido" },
+            { "key": "c", "text": "La tarifa por salir de la estación es de 51 céntimos" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-ingles-4",
+          "number": 4,
+          "statement": "Can you wait here, please?",
+          "options": [
+            { "key": "a", "text": "¿Puede aparcar aquí, por favor?" },
+            { "key": "b", "text": "¿Puede esperar aquí, por favor?" },
+            { "key": "c", "text": "¿Me lleva allí, por favor?" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2017-11-22-ingles-5",
+          "number": 5,
+          "statement": "Buenas tardes, al aeropuerto, por favor",
+          "options": [
+            { "key": "a", "text": "Good morning, to the airport, please" },
+            { "key": "b", "text": "Good afternoon to the airport, please" },
+            { "key": "c", "text": "Hello, to the airport, please" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

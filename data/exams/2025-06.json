@@ -1,0 +1,615 @@
+{
+  "id": "2025-06",
+  "sourceFile": "2025-06_taxi-granada_examen-resuelto.pdf",
+  "date": "2025-06",
+  "datePrecision": "month",
+  "convocatoria": null,
+  "organo": "Ayuntamiento de Granada",
+  "notes": "Respuestas correctas recuperadas de la NEGRITA del PDF original mediante pdftohtml (una opción en negrita por pregunta). Discrepancia de fecha: la cabecera del documento indica 02/09/2025 (equivaldría a date 2025-09-02, precisión 'day'), pero se ha mantenido date 2025-06 con precisión 'month' según indicación del orquestador. La pregunta 12 del cuestionario general figura como ANULADA en el documento y no tiene opción en negrita, por lo que su correctOption queda a null.",
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2025-06-general-1",
+          "number": 1,
+          "statement": "¿Cuál es la tarifa por kilómetro recorrido, en un servicio interurbano, un miércoles a las 6:30 horas de la mañana?",
+          "options": [
+            { "key": "a", "text": "0,66 €" },
+            { "key": "b", "text": "0,99 €" },
+            { "key": "c", "text": "0,71 €" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-2",
+          "number": 2,
+          "statement": "En el caso de que no haya que realizar ningún servicio a una persona con discapacidad, un eurotaxi podrá:",
+          "options": [
+            { "key": "a", "text": "Solo prestar servicios a personas con discapacidad." },
+            { "key": "b", "text": "Prestar el servicio a cualquier ciudadano." },
+            { "key": "c", "text": "Tendrá preferencia sobre los demás taxis para prestar el servicio a cualquier ciudadano." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-3",
+          "number": 3,
+          "statement": "Ubicación de la Biblioteca Pública Municipal de la Chana:",
+          "options": [
+            { "key": "a", "text": "Calle Virgen de la Consolación, s/n." },
+            { "key": "b", "text": "Calle Sagrada Familia, s/n." },
+            { "key": "c", "text": "Calle Periodista Eugenio Selles, s/n." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-4",
+          "number": 4,
+          "statement": "¿Podrá un taxi de Granada recoger pasajeros en el aeropuerto de Granada, teniendo en cuenta que el aeropuerto está en otro término municipal?",
+          "options": [
+            { "key": "a", "text": "Sí. Siempre que exista contratación previa." },
+            { "key": "b", "text": "No, porque siempre se debe iniciar el servicio en el municipio de Granada." },
+            { "key": "c", "text": "Depende de lo establecido en la Ordenanza Municipal." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-5",
+          "number": 5,
+          "statement": "¿Cuál es la tarifa por cada hora de espera de un servicio en el Área de Prestación Conjunta, un sábado a las 22:00 horas?",
+          "options": [
+            { "key": "a", "text": "30,09 €." },
+            { "key": "b", "text": "27,33 €." },
+            { "key": "c", "text": "15,15 €." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-6",
+          "number": 6,
+          "statement": "¿Cuál de los siguientes municipios forma parte del Área de Prestación Conjunta?",
+          "options": [
+            { "key": "a", "text": "La Zubia." },
+            { "key": "b", "text": "Las Gabias." },
+            { "key": "c", "text": "Santa Fe." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-7",
+          "number": 7,
+          "statement": "¿Dónde se ubica el Teatro Alhambra?",
+          "options": [
+            { "key": "a", "text": "C/ Molinos nº 56." },
+            { "key": "b", "text": "C/ Santiago nº 11." },
+            { "key": "c", "text": "C/ San Matías nº 23." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-8",
+          "number": 8,
+          "statement": "En las puertas delanteras de los vehículos autotaxis del Área de Prestación Conjunta de Granada, deberá aparecer el siguiente logo:",
+          "options": [
+            { "key": "a", "text": "Escudo del Ayuntamiento de Granada." },
+            { "key": "b", "text": "Una Granada." },
+            { "key": "c", "text": "La Signatura APC Granada." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-9",
+          "number": 9,
+          "statement": "La publicidad de las tarifas mediante el modelo oficial aprobado por el Órgano Gestor, deberá:",
+          "options": [
+            { "key": "a", "text": "Estar colocado en el exterior del vehículo, en lugar visible para los posibles viajeros." },
+            { "key": "b", "text": "Estar colocado en el interior del vehículo, en lugar visible y a disposición de cualquier persona usuaria que lo solicite." },
+            { "key": "c", "text": "Proporcionarse a la persona usuaria en el momento que acceda al vehículo." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-10",
+          "number": 10,
+          "statement": "La tarifa especial nocturna de un servicio urbano se aplicará:",
+          "options": [
+            { "key": "a", "text": "Los domingos y festivos desde la 1:00 hasta las 06:00 horas." },
+            { "key": "b", "text": "Los sábados y festivos desde la 1:00 hasta las 06:00 horas." },
+            { "key": "c", "text": "Todos los días festivos, desde las 21:00 horas hasta el amanecer." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-11",
+          "number": 11,
+          "statement": "El Palacio de los Cordova se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Cuesta del Chapiz, nº 2-4." },
+            { "key": "b", "text": "Cuesta de Alhacaba, nº 12." },
+            { "key": "c", "text": "Cuesta de Gomérez, nº 2." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-12",
+          "number": 12,
+          "statement": "La dirección de la Facultad de Medicina de Granada es:",
+          "options": [
+            { "key": "a", "text": "Avenida de la Investigación nº 11, Parque Tecnológico de la Salud." },
+            { "key": "b", "text": "Avenida del Conocimiento nº 11, Parque Tecnológico de la Salud." },
+            { "key": "c", "text": "Avenida de la Universidad s/n, Parque Tecnológico de la Salud." }
+          ],
+          "correctOption": null,
+          "explanation": "Pregunta marcada como ANULADA en el documento; no tiene opción en negrita.",
+          "image": null
+        },
+        {
+          "id": "2025-06-general-13",
+          "number": 13,
+          "statement": "En el taxi compartido a precio cerrado ¿cómo se reparte el importe final?",
+          "options": [
+            { "key": "a", "text": "Proporcional al recorrido de cada pasajero." },
+            { "key": "b", "text": "En función de la edad de los ocupantes." },
+            { "key": "c", "text": "A partes iguales entre ocupantes." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-14",
+          "number": 14,
+          "statement": "¿Cuál es el tiempo de espera de cortesía en un servicio a precio cerrado?",
+          "options": [
+            { "key": "a", "text": "2 minutos." },
+            { "key": "b", "text": "5 minutos." },
+            { "key": "c", "text": "10 minutos." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-15",
+          "number": 15,
+          "statement": "Si el servicio es precontratado a precio cerrado se visualizará:",
+          "options": [
+            { "key": "a", "text": "Sólo en el taxímetro, el número 6." },
+            { "key": "b", "text": "Tanto en el taxímetro como en el módulo luminoso exterior del vehículo, el número 5." },
+            { "key": "c", "text": "Tanto en el taxímetro como en el módulo luminoso exterior del vehículo, el número 6." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-16",
+          "number": 16,
+          "statement": "La dirección del Hospital Vithas de Granada es:",
+          "options": [
+            { "key": "a", "text": "Avenida Santa María de la Alhambra, nº 6." },
+            { "key": "b", "text": "Carrera de la Virgen, nº 11." },
+            { "key": "c", "text": "Camino de Ronda, nº 107." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-17",
+          "number": 17,
+          "statement": "Entre otros, ¿qué datos debe contener el recibo de un servicio de taxi?",
+          "options": [
+            { "key": "a", "text": "Nombre del pasajero." },
+            { "key": "b", "text": "Origen, destino, matrícula y tarifa aplicada." },
+            { "key": "c", "text": "Número de kilómetros del vehículo." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-18",
+          "number": 18,
+          "statement": "Se considera falta leve:",
+          "options": [
+            { "key": "a", "text": "El incumplimiento de los servicios obligatorios que, en su caso, se establezcan." },
+            { "key": "b", "text": "Realizar servicios sin llevar a bordo del vehículo la documentación formal que acredite la posibilidad legal de prestar los mismos, o que resulte exigible para la correcta acreditación de la clase de transporte que se está realizando." },
+            { "key": "c", "text": "El incumplimiento del régimen de descansos establecido por el Ayuntamiento de Granada, de conformidad con la normativa vigente." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-19",
+          "number": 19,
+          "statement": "Los hechos constatados por el personal de inspección municipal, cuando se formalicen en sus actas e informes:",
+          "options": [
+            { "key": "a", "text": "Siempre serán el inicio del correspondiente expediente sancionador." },
+            { "key": "b", "text": "No tendrán valor probatorio." },
+            { "key": "c", "text": "Gozarán de presunción de veracidad." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-20",
+          "number": 20,
+          "statement": "Según la Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía, los consumidores tendrán derecho a:",
+          "options": [
+            { "key": "a", "text": "La protección, reconocimiento y realización de sus legítimos intereses económicos y sociales." },
+            { "key": "b", "text": "La especial protección en aquellas situaciones de superioridad en que puedan encontrarse individual o colectivamente." },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-21",
+          "number": 21,
+          "statement": "La suspensión de la licencia por avería, accidente o enfermedad, podrá declararse por un plazo máximo de:",
+          "options": [
+            { "key": "a", "text": "Doce meses." },
+            { "key": "b", "text": "Veinticuatro meses." },
+            { "key": "c", "text": "Treinta y seis meses." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-22",
+          "number": 22,
+          "statement": "Se considera falta leve:",
+          "options": [
+            { "key": "a", "text": "La negativa u obstrucción a la actuación de los servicios de inspección cuando no impida, de forma notoria, el ejercicio de sus funciones." },
+            { "key": "b", "text": "Transportar mayor número de viajeros y viajeras del autorizado para el vehículo." },
+            { "key": "c", "text": "El incumplimiento del régimen de descansos establecido por el Ayuntamiento de Granada, de conformidad con la normativa vigente." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-23",
+          "number": 23,
+          "statement": "Deberá estar a disposición de los consumidores un libro de quejas y reclamaciones, así como:",
+          "options": [
+            { "key": "a", "text": "Carteles publicitarios en el exterior del taxi." },
+            { "key": "b", "text": "No es necesario que se pongan los carteles informativos, por estar establecido reglamentariamente." },
+            { "key": "c", "text": "Carteles indicativos de su existencia en la forma establecida reglamentariamente." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-24",
+          "number": 24,
+          "statement": "¿Se puede aplicar la tarifa 2 un martes no festivo?",
+          "options": [
+            { "key": "a", "text": "No, sólo los festivos nacionales, autonómicos o locales." },
+            { "key": "b", "text": "Sí, entre las 6 y las 23 horas." },
+            { "key": "c", "text": "Sí, entre las 22 y las 7 horas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-25",
+          "number": 25,
+          "statement": "El descanso semanal no será obligatorio en:",
+          "options": [
+            { "key": "a", "text": "Corpus." },
+            { "key": "b", "text": "Semana Blanca." },
+            { "key": "c", "text": "Siempre es obligatorio." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-26",
+          "number": 26,
+          "statement": "Si la persona usuaria requiere al conductor o conductora que ponga en marcha el sistema de aire acondicionado y éste no funciona, tendrá derecho a:",
+          "options": [
+            { "key": "a", "text": "Bajar del vehículo sin coste alguno al inicio del servicio." },
+            { "key": "b", "text": "Bajar del vehículo sin coste alguno a mitad del servicio." },
+            { "key": "c", "text": "Bajar del vehículo sin coste alguno al finalizar el servicio." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-27",
+          "number": 27,
+          "statement": "En caso de calamidad pública o emergencia grave, el personal afecto al servicio de auto taxis, así como los vehículos adscritos al mismo:",
+          "options": [
+            { "key": "a", "text": "Deberán realizar los servicios que se les requiera, pero siempre con tarifa 2." },
+            { "key": "b", "text": "No podrán realizar ningún servicio." },
+            { "key": "c", "text": "Quedarán a disposición de las autoridades municipales y del Área de Prestación Conjunta, a fin de coadyuvar a la prestación del servicio público de transportes." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-28",
+          "number": 28,
+          "statement": "Se tendrá en cuenta que la responsabilidad administrativa por las infracciones de las normas reguladoras de los servicios de transporte público discrecional de viajeros y viajeras en automóviles de turismo, en las infracciones cometidas con ocasión de la realización de transportes amparados en la preceptiva licencia o autorización de transporte interurbano, corresponderá:",
+          "options": [
+            { "key": "a", "text": "A cualquier persona que conduzca el taxi." },
+            { "key": "b", "text": "Al conductor o conductora del taxi, en todo caso." },
+            { "key": "c", "text": "A la persona titular de la licencia o autorización." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-29",
+          "number": 29,
+          "statement": "Las infracciones muy graves se sancionarán con multa de:",
+          "options": [
+            { "key": "a", "text": "270,01 euros a 1.380 euros." },
+            { "key": "b", "text": "1.380,01 euros a 2.760 euros." },
+            { "key": "c", "text": "2.760,01 euros a 5.000 euros." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-30",
+          "number": 30,
+          "statement": "Será infracción muy grave:",
+          "options": [
+            { "key": "a", "text": "La no iniciación o abandono del servicio sin causa justificada y sin autorización del órgano competente por plazo superior al establecido en esta Ordenanza." },
+            { "key": "b", "text": "El trato desconsiderado con las personas usuarias. Esta infracción se sancionará teniendo en cuenta los supuestos que al respecto contemple la normativa vigente sobre defensa y protección de las personas consumidoras y usuarias." },
+            { "key": "c", "text": "No proporcionar a la persona usuaria cambios de moneda metálica o billetes hasta la cantidad establecida en las condiciones de aplicación de las tarifas." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-31",
+          "number": 31,
+          "statement": "El personal de conducción deberá revisar, al finalizar cada carrera, el interior del vehículo, con objeto de comprobar si la persona usuaria ha olvidado alguna de sus pertenencias. Si no ha podido devolverlo en el acto, el conductor o conductora que encuentre objetos olvidados los entregará en las dependencias que designe este Ayuntamiento a tal efecto, en el plazo de:",
+          "options": [
+            { "key": "a", "text": "12 h." },
+            { "key": "b", "text": "24 h." },
+            { "key": "c", "text": "48 h." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-32",
+          "number": 32,
+          "statement": "Los conductores y conductoras de los vehículos taxi deberán:",
+          "options": [
+            { "key": "a", "text": "Prestar el servicio de acuerdo con su criterio, aunque la persona usuaria indique el recorrido que quiere seguir." },
+            { "key": "b", "text": "Prestar el servicio de acuerdo con el recorrido que indiquen las personas usuarias y, en su defecto, el que, siendo practicable, suponga una menor distancia entre origen y destino o menor tiempo de recorrido y menor costo." },
+            { "key": "c", "text": "Prestar el servicio que suponga una distancia entre origen y destino, rentable." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-33",
+          "number": 33,
+          "statement": "¿En qué casos se pueden cobrar suplementos en un servicio de taxi?",
+          "options": [
+            { "key": "a", "text": "Por acceso a barrios periféricos." },
+            { "key": "b", "text": "Por cada bulto, salida de aeropuerto o por cada viajero que exceda del 5º." },
+            { "key": "c", "text": "Por uso del aire acondicionado." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-34",
+          "number": 34,
+          "statement": "Si no hay concertación previa de servicio ¿Cuándo debe ponerse en funcionamiento el taxímetro?",
+          "options": [
+            { "key": "a", "text": "Cuando arranca el motor." },
+            { "key": "b", "text": "Al bajar bandera con persona usuaria y equipaje en el vehículo y destino indicado." },
+            { "key": "c", "text": "Al abrirse la puerta del vehículo." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-general-35",
+          "number": 35,
+          "statement": "En los servicios a precio cerrado:",
+          "options": [
+            { "key": "a", "text": "Las sillas de ruedas llevarán un suplemento de 0,53 € si no se indica previamente a la contratación." },
+            { "key": "b", "text": "No se podrán realizar servicios en los que las personas usuarias lleven carritos infantiles." },
+            { "key": "c", "text": "Las personas usuarias tienen derecho al transporte gratuito de sillas de ruedas y carritos infantiles." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Cuestionario de inglés",
+      "questions": [
+        {
+          "id": "2025-06-ingles-1",
+          "number": 1,
+          "statement": "Póngase el cinturón de seguridad, por favor:",
+          "options": [
+            { "key": "a", "text": "Put on your seat belt, please." },
+            { "key": "b", "text": "Put on your bag, please." },
+            { "key": "c", "text": "Put your seat belt." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-ingles-2",
+          "number": 2,
+          "statement": "Aquí tiene su cambio:",
+          "options": [
+            { "key": "a", "text": "I don’t have change." },
+            { "key": "b", "text": "Here’s your change." },
+            { "key": "c", "text": "Don’t forget your change." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-ingles-3",
+          "number": 3,
+          "statement": "Son 14 euros con 20 céntimos:",
+          "options": [
+            { "key": "a", "text": "It’s thirteen euros with twenty." },
+            { "key": "b", "text": "It’s twelve o’clock." },
+            { "key": "c", "text": "It’s fourteen euros and twenty." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-ingles-4",
+          "number": 4,
+          "statement": "¿Cómo se llama la calle de su hotel?",
+          "options": [
+            { "key": "a", "text": "Does your hotel have a name?" },
+            { "key": "b", "text": "What’s the way of your hotel?" },
+            { "key": "c", "text": "What’s the name of the street of your hotel?" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-ingles-5",
+          "number": 5,
+          "statement": "Sorry, you have to wait for the next taxi:",
+          "options": [
+            { "key": "a", "text": "Disculpe, tiene que esperar al próximo taxi." },
+            { "key": "b", "text": "Disculpe, tiene que esperar en la parada del taxi." },
+            { "key": "c", "text": "Lo siento, hoy no hay servicio de taxi." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "reserva",
+      "title": "Preguntas de reserva",
+      "questions": [
+        {
+          "id": "2025-06-reserva-1",
+          "number": 1,
+          "statement": "¿En qué forma de contratación se aplica el precio cerrado?",
+          "options": [
+            { "key": "a", "text": "En paradas de taxi." },
+            { "key": "b", "text": "Mediante la app, web, teléfono o emisora." },
+            { "key": "c", "text": "Directamente en la calle." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-reserva-2",
+          "number": 2,
+          "statement": "¿Hasta qué cantidad está obligado el personal conductor a facilitar cambio de moneda?",
+          "options": [
+            { "key": "a", "text": "10 €." },
+            { "key": "b", "text": "20 €." },
+            { "key": "c", "text": "50 €." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-reserva-3",
+          "number": 3,
+          "statement": "¿Puede montarse baca portaequipajes en un vehículo autotaxi según la Ordenanza Municipal?",
+          "options": [
+            { "key": "a", "text": "Sí." },
+            { "key": "b", "text": "No, excepto si son barras porta-esquíes provisionales que se fijen con carácter puntual." },
+            { "key": "c", "text": "No." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-reserva-4",
+          "number": 4,
+          "statement": "¿Qué garantía de pago se puede solicitar si la persona usuaria se ausenta transitoriamente?",
+          "options": [
+            { "key": "a", "text": "El recorrido efectuado más de 30 minutos de espera en zona urbana." },
+            { "key": "b", "text": "Una carrera media." },
+            { "key": "c", "text": "La totalidad del trayecto previsto." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2025-06-reserva-5",
+          "number": 5,
+          "statement": "¿Con qué número se identifica en el módulo luminoso exterior un servicio a precio cerrado?",
+          "options": [
+            { "key": "a", "text": "5." },
+            { "key": "b", "text": "6." },
+            { "key": "c", "text": "7." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

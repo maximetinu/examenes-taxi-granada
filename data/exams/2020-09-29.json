@@ -1,0 +1,609 @@
+{
+  "id": "2020-09-29",
+  "sourceFile": "2020-09-29_taxi-granada_examen-resuelto.pdf",
+  "date": "2020-09-29",
+  "datePrecision": "day",
+  "convocatoria": "septiembre 2020",
+  "organo": "Ayuntamiento de Granada",
+  "notes": "Examen escaneado; respuesta correcta marcada en negrita. En la pregunta 7 las tres opciones aparecen etiquetadas como \"a)\" en el original; se han normalizado a a/b/c según el orden.",
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2020-09-29-general-1",
+          "number": 1,
+          "statement": "Según el artículo 2 de la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada, el Auto-Taxi se define como:",
+          "options": [
+            { "key": "a", "text": "Vehículo automóvil con capacidad de hasta cinco plazas, incluido el conductor, apto para prestar el servicio de taxi, provisto de aparato taxímetro homologado." },
+            { "key": "b", "text": "Vehículo automóvil con capacidad de hasta nueve plazas, incluido el conductor, apto para prestar el servicio de taxi, provisto de aparato taxímetro homologado." },
+            { "key": "c", "text": "Vehículo automóvil con capacidad de hasta nueve plazas, incluido el conductor, apto para prestar el servicio de taxi a personas en silla de ruedas, provisto de aparato taxímetro homologado." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-2",
+          "number": 2,
+          "statement": "Con carácter excepcional, previa tramitación del oportuno procedimiento, se podrá:",
+          "options": [
+            { "key": "a", "text": "Otorgar sólo licencia de transporte interurbano." },
+            { "key": "b", "text": "Otorgar conjuntamente licencia de transporte urbano y licencia de transporte interurbano." },
+            { "key": "c", "text": "Otorgar sólo licencia de transporte urbano." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-3",
+          "number": 3,
+          "statement": "La falta de visado en el plazo de dos meses, contados a partir de la fecha que corresponda de forma ordinaria, determinará la apertura de procedimiento para la:",
+          "options": [
+            { "key": "a", "text": "Declaración de caducidad de licencia." },
+            { "key": "b", "text": "Procedimiento sancionador." },
+            { "key": "c", "text": "Suspensión de la licencia." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-4",
+          "number": 4,
+          "statement": "El Ayuntamiento de Granada promoverá la incorporación de vehículos adaptados para el transporte de personas usuarias con discapacidad, a efectos de alcanzar el porcentaje de:",
+          "options": [
+            { "key": "a", "text": "El 2% de vehículos adaptados." },
+            { "key": "b", "text": "El 5% de vehículos adaptados." },
+            { "key": "c", "text": "El 10% de vehículos adaptados." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-5",
+          "number": 5,
+          "statement": "Según la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada, la tarjeta de identificación de conductor de taxi, siempre que se está prestando el servicio, se colocará en:",
+          "options": [
+            { "key": "a", "text": "Delante de la guantera del vehículo." },
+            { "key": "b", "text": "La parte inferior derecha de la luna delantera del vehículo." },
+            { "key": "c", "text": "Las dos respuesta anteriores son correctas." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-6",
+          "number": 6,
+          "statement": "Los vehículos auto-taxis deberán dedicarse a la prestación del servicio del taxi.",
+          "options": [
+            { "key": "a", "text": "En todo momento." },
+            { "key": "b", "text": "En horario de mañana, tarde o noche." },
+            { "key": "c", "text": "Cuando se encuentren de servicio." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-7",
+          "number": 7,
+          "statement": "Para quien conduzca un taxi sin haber obtenido el correspondiente permiso municipal de conductor/a, el órgano municipal competente podrá acordar:",
+          "options": [
+            { "key": "a", "text": "La imposibilidad de obtenerlo en el plazo de hasta cinco años." },
+            { "key": "b", "text": "La imposibilidad de obtenerlo en el plazo de hasta siete años." },
+            { "key": "c", "text": "La imposibilidad de obtenerlo en el plazo de hasta diez años." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-8",
+          "number": 8,
+          "statement": "¿Puede un usuario contratar servicios periódicos?",
+          "options": [
+            { "key": "a", "text": "Sí, cuando el usuario acuda a una misma parada aún sin concertación previa." },
+            { "key": "b", "text": "No, está prohibido en la ordenanza." },
+            { "key": "c", "text": "Sólo cuando se haga concertación previa." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-9",
+          "number": 9,
+          "statement": "Abrir o cerrar los cristales a indicación del usuario; ayudar a salir y a apearse del vehículo a los ancianos, enfermos, personas con movilidad reducida, niños y en general a cuantas personas lo precisen por su estado físico; recoger y colocar adecuadamente las maletas y demás bultos de equipaje; encender la luz interior del vehículo por la noche, para facilitar la subida y bajada y el pago del servicio; bajar el volumen del receptor de radio a voluntad del pasajero. Son:",
+          "options": [
+            { "key": "a", "text": "Obligaciones del/a conductor/a de taxi." },
+            { "key": "b", "text": "Normas generales que no obligan al conductor de taxi." },
+            { "key": "c", "text": "Recomendaciones de carácter general que nada tienen que ver con el servicio de taxi." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-10",
+          "number": 10,
+          "statement": "Las infracciones muy graves efectuadas por los/las conductores/as de taxi prescribirán:",
+          "options": [
+            { "key": "a", "text": "Al año." },
+            { "key": "b", "text": "A los dos años." },
+            { "key": "c", "text": "A los tres años." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-11",
+          "number": 11,
+          "statement": "La tarifa 2 urbana se aplicará:",
+          "options": [
+            { "key": "a", "text": "Día de la Cruz, desde las 0 horas hasta las 24 horas." },
+            { "key": "b", "text": "Los días oficiales de la Feria del Corpus desde las 0 horas hasta las 24 horas." },
+            { "key": "c", "text": "Los días 24 y el 31 de diciembre desde las 0 horas hasta las 24 horas." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-12",
+          "number": 12,
+          "statement": "Se podrá cobrar un suplemento en las tarifas, por:",
+          "options": [
+            { "key": "a", "text": "Cada maleta de más de 50 cm." },
+            { "key": "b", "text": "La salida de la estación del AVE." },
+            { "key": "c", "text": "La concertación del servicio en la emisora de radio taxi." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-13",
+          "number": 13,
+          "statement": "La tarifa interurbana de un lunes a las 20h por bajada de bandera es:",
+          "options": [
+            { "key": "a", "text": "3,18€" },
+            { "key": "b", "text": "1,58€" },
+            { "key": "c", "text": "1,92€" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-14",
+          "number": 14,
+          "statement": "La tarifa 8 se aplica:",
+          "options": [
+            { "key": "a", "text": "De lunes a viernes laborables entre las 22 y las 6 h." },
+            { "key": "b", "text": "Sábados, domingos y festivos entre las 22 y las 6 h." },
+            { "key": "c", "text": "Sólo domingos y festivos." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-15",
+          "number": 15,
+          "statement": "Según el Decreto 472/2019, de 28 de mayo, por el que se regulan las hojas de quejas y reclamaciones de las personas consumidoras y usuarias en Andalucía y su tramitación administrativa, se define como queja:",
+          "options": [
+            { "key": "a", "text": "la manifestación de desagrado efectuada por una persona consumidora o usuaria, antes, durante o después de consumir un bien o recibir un servicio, que considera insatisfactorio, dirigida hacia la persona física o jurídica, o ente sin personalidad, que lo comercializa o presta, mostrando sólo disconformidad, sin efectuar reclamación alguna." },
+            { "key": "b", "text": "el escrito en el que se ponen en conocimiento de la Administración Pública hechos que pudieran ser constitutivos de una infracción administrativa en materia de consumo." },
+            { "key": "c", "text": "la manifestación dirigida, por una persona consumidora o usuaria, antes, durante o después de consumir un bien o recibir un servicio, a la persona física o jurídica, o ente sin personalidad, que lo comercializa o presta, en el que, de forma expresa o tácita, pide una restitución, reparación o indemnización, la rescisión de un contrato, anulación de una deuda, la realización de una prestación a la que cree tener derecho, o cualquier otra pretensión, en relación con la solicitud de prestación de un bien o un servicio que considera insatisfactoriamente atendida." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-16",
+          "number": 16,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y Primaria Federico García Lorca (C.E.I.P).",
+          "options": [
+            { "key": "a", "text": "Calle Poeta César Vallejo, n° 6" },
+            { "key": "b", "text": "Calle Rector Marín Ocete, n° 1." },
+            { "key": "c", "text": "Calle García Lorca, n° 40." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-17",
+          "number": 17,
+          "statement": "Indique la dirección correcta para el siguiente destino: CPIFP Aynadamar.",
+          "options": [
+            { "key": "a", "text": "Cl Doctor Salvatierra, 5" },
+            { "key": "b", "text": "Paseo de la Cartuja, 20." },
+            { "key": "c", "text": "Calle Cardenal Parrado, s/n." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-18",
+          "number": 18,
+          "statement": "Indique la dirección correcta para el siguiente destino: Polideportivo Aynadamar.",
+          "options": [
+            { "key": "a", "text": "Paseo de la Cartuja, 15" },
+            { "key": "b", "text": "Callejón Tallacarne, 15" },
+            { "key": "c", "text": "Camino de San Antonio, 35" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-19",
+          "number": 19,
+          "statement": "Indique la dirección correcta para el siguiente destino: Hotel Gala Plácido 1923.",
+          "options": [
+            { "key": "a", "text": "Calle Alcalá de Henares, 13" },
+            { "key": "b", "text": "Plaza de Don Pedro Manjón, 3" },
+            { "key": "c", "text": "Avda. De Cervantes, 13" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-20",
+          "number": 20,
+          "statement": "¿Cuántos años una persona puede ser titular de una licencia municipal de auto taxi?",
+          "options": [
+            { "key": "a", "text": "4 años desde su obtención" },
+            { "key": "b", "text": "5 años desde su obtención" },
+            { "key": "c", "text": "Indefinida" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-21",
+          "number": 21,
+          "statement": "¿Cuál de los siguientes dispositivos es obligatorio llevar en el taxi desde el año 2016?",
+          "options": [
+            { "key": "a", "text": "Datáfono" },
+            { "key": "b", "text": "Impresora" },
+            { "key": "c", "text": "Navegador" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-22",
+          "number": 22,
+          "statement": "Según el artículo 22 de la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada (publicada en BOP núm 203, de 22 de octubre de 2015), las dimensiones mínimas y las características del interior del vehículo y de los asientos serán las precisas para proporcionar al público la seguridad y comodidad propias de este tipo de servicio. A estos efectos, tendrán una longitud y una capacidad útil del maletero como mínimo de:",
+          "options": [
+            { "key": "a", "text": "3.300 milímetros y de 200 litros." },
+            { "key": "b", "text": "4.000 milímetros y de 300 litros." },
+            { "key": "c", "text": "4.300 milímetros y de 330 litros" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-23",
+          "number": 23,
+          "statement": "La adecuación, conservación y limpieza de todos los elementos e instalaciones de los vehículos auto taxi serán atendidos, atendiendo al artículo 22 de la ordenanza reguladora del taxi de Granada (BOP núm 203, de 22 de octubre de 2015), por:",
+          "options": [
+            { "key": "a", "text": "sus titulares respectivos." },
+            { "key": "b", "text": "la asociación del taxi correspondiente." },
+            { "key": "c", "text": "este asunto no lo contempla la ordenanza municipal." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-24",
+          "number": 24,
+          "statement": "Hallarse en posesión del permiso de conducción suficiente expedido por el órgano competente en materia de tráfico y seguridad vial; Disponer del permiso municipal de conductor o conductora de auto-taxi vigente para el ejercicio de la actividad; y figurar dada de alta y al corriente de pago en el régimen correspondiente de la Seguridad Social. Son requisitos que establece la ordenanza reguladora del servicio de transporte público de viajeros y viajeras en automóviles de turismo de Granada, para (señale la respuesta correcta):",
+          "options": [
+            { "key": "a", "text": "Solo las personas titulares." },
+            { "key": "b", "text": "Las personas titulares, asalariados o autónomas colaboradoras." },
+            { "key": "c", "text": "Ambas respuestas son incorrectas." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-25",
+          "number": 25,
+          "statement": "La dirección del Centro de Valoración y Orientación de Personas con Discapacidad, dependiente de la Consejería de Asuntos Sociales de la Junta de Andalucía, en Granada, es:",
+          "options": [
+            { "key": "a", "text": "Calle Ángel Barrios, núm. 3" },
+            { "key": "b", "text": "Calle Buenos Aires, núm. 1." },
+            { "key": "c", "text": "Carretera de Alfacar, núm. 13." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-26",
+          "number": 26,
+          "statement": "Cuando los vehículos Auto-taxis circulen en situación de libre por lugares en los que no existan paradas o puntos de espera, y los conductores sean requeridos por varias personas al mismo tiempo para prestar un servicio. Atendiendo a lo que establece la ordenanza vigente ¿cuál de las opciones que se indican a continuación tienen preferencia sobre los demás?",
+          "options": [
+            { "key": "a", "text": "En primer lugar los ancianos, independientemente del sentido de la circulación." },
+            { "key": "b", "text": "Personas acompañadas de niños, cuando estos lloren desconsoladamente." },
+            { "key": "c", "text": "Las personas que se encuentren en la acera correspondiente al sentido de circulación del vehículo" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-27",
+          "number": 27,
+          "statement": "En el supuesto de que el lector de pago con tarjeta del taxi no funcione al finalizar el servicio ¿qué debe hacer el conductor?",
+          "options": [
+            { "key": "a", "text": "Interrumpirá el funcionamiento del taxímetro cuando sea necesario que el vehículo se dirija hasta la aproximación a un cajero para la extracción de la cantidad precisa y el retorno al punto de destino de la persona usuaria." },
+            { "key": "b", "text": "Parará el taxi y acompañará al usuario, bien a un cajero automático o hasta su casa, esperará a que obtenga el dinero necesario y volverán juntos al taxi, en su caso, para continuar con el servicio." },
+            { "key": "c", "text": "El conductor de auto-taxi, en ningún caso, está obligado a resolver este problema. El usuario que acceda al taxi siempre debe llevar dinero en efectivo y billetes de 20 euros o menos." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-28",
+          "number": 28,
+          "statement": "El Centro Cívico del Distrito Ronda Marqués de Mondejar se encuentra ubicado:",
+          "options": [
+            { "key": "a", "text": "Calle Marqués de Mondejar, núm 3" },
+            { "key": "b", "text": "Plaza de la Ilusión, núm. 2" },
+            { "key": "c", "text": "Camino de Ronda s/n." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-29",
+          "number": 29,
+          "statement": "La dirección para ir al Centro Cívico Albaicín es la siguiente:",
+          "options": [
+            { "key": "a", "text": "Plaza Aliatar, núm 1." },
+            { "key": "b", "text": "Cuesta del Chapíz, núm 4." },
+            { "key": "c", "text": "Calle de los Panaderos, núm. 6." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-30",
+          "number": 30,
+          "statement": "El Juzgado de Menores de Granada se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Avda. Del Sur, n° 5" },
+            { "key": "b", "text": "Calle Marqués de la Ensenada, n° 1" },
+            { "key": "c", "text": "Plaza Nueva, n° 10" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-31",
+          "number": 31,
+          "statement": "Un usuario le solicita un servicio para ir a la sede de la Federación Granadina de Personas con Discapacidad Física y Orgánica, FEGRADI COCEMFE GRANADA. ¿Cuál será la dirección del destino?",
+          "options": [
+            { "key": "a", "text": "Camino de Ronda s/n." },
+            { "key": "b", "text": "Calle Buenos Aires, núm. 1." },
+            { "key": "c", "text": "Paseo Laguna de Cameros, número 6." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-32",
+          "number": 32,
+          "statement": "Le solicitan un servicio de recogida en la sede de la Asociación Granadina de Atención a personas con parálisis cerebral en Granada (ASPACE). ¿A dónde se debe dirigir?",
+          "options": [
+            { "key": "a", "text": "Calle Primavera, núm. 250." },
+            { "key": "b", "text": "Calle Mercedes Gaibrois, núm. 39." },
+            { "key": "c", "text": "Esta asociación no tiene su sede en Granada" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-33",
+          "number": 33,
+          "statement": "Son las once y media de la mañana y a través de central solicitan un servicio en Carrera del Darro, 11. Indique la respuesta correcta.",
+          "options": [
+            { "key": "a", "text": "Realizo el servicio solicitado." },
+            { "key": "b", "text": "No puedo atender el servicio, está prohibido el acceso al Albaicín de cualquier taxi a esta hora." },
+            { "key": "c", "text": "Debo retrasar el servicio hasta las once de la noche, porque si hago el servicio solicitado me multarían." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-34",
+          "number": 34,
+          "statement": "La revisión municipal de los vehículos auto-taxi que establece el artículo 33 de la Ordenanza Municipal, se realizará:",
+          "options": [
+            { "key": "a", "text": "Anualmente o cuando se deban efectuar comprobaciones específicas, debidamente motivadas." },
+            { "key": "b", "text": "Solo al inicio de la actividad o cada dos años." },
+            { "key": "c", "text": "Cada cinco años en caso necesario." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-35",
+          "number": 35,
+          "statement": "Nos debemos dirigir a la sede de la Asociación A Favor de las Personas Con Discapacidad Intelectual de Granada. Indique cual de las siguientes opciones es su dirección.",
+          "options": [
+            { "key": "a", "text": "Calle Sta. Adela, núm. 45." },
+            { "key": "b", "text": "Avenida de Dílar, núm. 33." },
+            { "key": "c", "text": "Calle Escritor Miguel Toro, núm. 7." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-36",
+          "number": 36,
+          "statement": "Aquí tiene su cambio, gracias.",
+          "options": [
+            { "key": "a", "text": "Herve is your chance, Thank you." },
+            { "key": "b", "text": "Here is your change, Thank you" },
+            { "key": "c", "text": "Here is your share, Thank you" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-37",
+          "number": 37,
+          "statement": "There is a traffic jam",
+          "options": [
+            { "key": "a", "text": "Hay una grúa" },
+            { "key": "b", "text": "Hay un camión" },
+            { "key": "c", "text": "Hay un atasco" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-38",
+          "number": 38,
+          "statement": "Póngase el cinturón, por favor",
+          "options": [
+            { "key": "a", "text": "Put on your seat belt, please" },
+            { "key": "b", "text": "Put down your head set, please" },
+            { "key": "c", "text": "Put off your mask, please" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-39",
+          "number": 39,
+          "statement": "No olvide sus cosas",
+          "options": [
+            { "key": "a", "text": "Don't forgive your destination" },
+            { "key": "b", "text": "Don't forget your things" },
+            { "key": "c", "text": "Are you staying long?" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-general-40",
+          "number": 40,
+          "statement": "How many people can you fit?",
+          "options": [
+            { "key": "a", "text": "Cuanto tarda?" },
+            { "key": "b", "text": "Cuantas personas caben?" },
+            { "key": "c", "text": "Cuanto vale?" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "reserva",
+      "title": "Preguntas de reserva",
+      "questions": [
+        {
+          "id": "2020-09-29-reserva-1",
+          "number": 1,
+          "statement": "Como se define, en el Reglamento Andaluz del Taxi, el servicio de taxi o auto-taxi:",
+          "options": [
+            { "key": "a", "text": "transporte público discrecional de transporte de viajeros y viajeras en automóviles de turismo, prestado en régimen de actividad privada." },
+            { "key": "b", "text": "transporte privado discrecional de transporte de viajeros y viajeras en automóviles de turismo, prestado en régimen de actividad pública." },
+            { "key": "c", "text": "transporte público de viajeros y viajeras sin itinerario fijo prestado en automóviles de turismo mediante precio y en régimen de concesión administrativa." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-reserva-2",
+          "number": 2,
+          "statement": "¿Puede la persona titular de licencia de taxi arrendar la explotación de la misma?",
+          "options": [
+            { "key": "a", "text": "Solo en casos justificados de accidente o avería, enfermedad o, en general, cualquier circunstancia que impida o haga imposible la continuidad en la prestación del servicio, suficientemente acreditada." },
+            { "key": "b", "text": "Solo en favor del conductor asalariado." },
+            { "key": "c", "text": "No, en ningún caso." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-reserva-3",
+          "number": 3,
+          "statement": "¿Por qué causas se extinguen las licencias de taxi?",
+          "options": [
+            { "key": "a", "text": "Por renuncia de su titular." },
+            { "key": "b", "text": "Por caducidad" },
+            { "key": "c", "text": "A y B son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-reserva-4",
+          "number": 4,
+          "statement": "A tenor de lo dispuesto en la Ordenanza Municipal ¿como adjudicará las licencias de auto-taxi el Ayuntamiento de Granada?:",
+          "options": [
+            { "key": "a", "text": "mediante concurso subasta" },
+            { "key": "b", "text": "mediante concurso publico" },
+            { "key": "c", "text": "mediante adjudicación directa." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2020-09-29-reserva-5",
+          "number": 5,
+          "statement": "Según el régimen de visado, la vigencia de las licencias de auto taxi queda condicionada a:",
+          "options": [
+            { "key": "a", "text": "La aportación por parte del titular de la licencia que el vehículo ha pasado la ITV y reúne los requisitos necesarios para prestar el servicio." },
+            { "key": "b", "text": "La constatación anual por parte del Ayuntamiento, o ente que asuma sus funciones en esta materia, del mantenimiento de las condiciones que justificaron su otorgamiento." },
+            { "key": "c", "text": "En vehículos nuevos la constatación cada cinco años del mantenimiento de las condiciones que justificaron su otorgamiento. Transcurrido dicho plazo la licencia queda condicionada a la constatación anual por parte del Ayuntamiento, o ente que asuma sus funciones, del mantenimiento de las condiciones que justificaron su otorgamiento." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

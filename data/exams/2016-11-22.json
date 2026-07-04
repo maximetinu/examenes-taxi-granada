@@ -1,0 +1,524 @@
+{
+  "id": "2016-11-22",
+  "sourceFile": "2016-11-22_taxi-granada_examen-resuelto.pdf",
+  "date": "2016-11-22",
+  "datePrecision": "day",
+  "convocatoria": "noviembre 2016",
+  "organo": "Ayuntamiento de Granada",
+  "notes": "Documento escaneado; respuestas correctas marcadas en negrita en la sección general. La sección de inglés son cuestiones de traducción libre (sin opciones a/b/c); se guardan con options vacío y correctOption null, y la respuesta manuscrita del examen se recoge en explanation.",
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Prueba en materias generales",
+      "questions": [
+        {
+          "id": "2016-11-22-general-1",
+          "number": 1,
+          "statement": "El visado de las licencias de taxi deberá realizarse:",
+          "options": [
+            { "key": "a", "text": "cada cinco año" },
+            { "key": "b", "text": "cada dos año" },
+            { "key": "c", "text": "cada año" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-2",
+          "number": 2,
+          "statement": "Las licencias municipales de taxi podrán caducarse por:",
+          "options": [
+            { "key": "a", "text": "Renuncia del titular" },
+            { "key": "b", "text": "Incumplimiento del deber de visado periódico de la licencia" },
+            { "key": "c", "text": "Revocación" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-3",
+          "number": 3,
+          "statement": "¿Podrán los vehículos auto-taxi llevar instalado GPS?",
+          "options": [
+            { "key": "a", "text": "Si, previa autorización municipal" },
+            { "key": "b", "text": "No, en ningún caso" },
+            { "key": "c", "text": "Si, sin necesidad de autorización municipal" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-4",
+          "number": 4,
+          "statement": "Es requisito del personal de conducción de los vehículos adscritos a licencias de taxi:",
+          "options": [
+            { "key": "a", "text": "Hallarse en posesión del permiso de conducción BTP" },
+            { "key": "b", "text": "Figurar dada de alta y al corriente de pago de pago en el régimen correspondiente de la Seguridad Social" },
+            { "key": "c", "text": "Examinarse para obtener el permiso municipal de conductor o conductora de auto-taxi cada cinco años" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-5",
+          "number": 5,
+          "statement": "Si un agente encargado de la inspección del servicio del taxi comprueba que la persona conductora no dispone, en el momento de la inspección, del permiso municipal de conductor o conductora de auto-taxi, se podrá:",
+          "options": [
+            { "key": "a", "text": "ordenar la inmediata paralización del vehículo" },
+            { "key": "b", "text": "acordar la imposibilidad de obtener el permiso municipal de conductor a la persona que conducía, por un plazo de hasta cinco años desde la comisión de la infracción" },
+            { "key": "c", "text": "las dos respuestas anteriores son correctas" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-6",
+          "number": 6,
+          "statement": "Según el Reglamento de los Servicios de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo dictado por la Junta de Andalucía, en el Consejo Andaluz del Taxi estarán representadas:",
+          "options": [
+            { "key": "a", "text": "la Administración de la Comunidad Autónoma de Andalucía, las Entidades Locales de Andalucía y las asociaciones profesionales del sector." },
+            { "key": "b", "text": "la Administración de la Comunidad Autónoma de Andalucía, las Entidades Locales de Andalucía, las asociaciones profesionales del sector, las organizaciones sindicales, las de personas consumidoras y usuarias, y las de personas con discapacidad a través de sus organizaciones de mayor implantación en el territorio andaluz." },
+            { "key": "c", "text": "la Administración de la Comunidad Autónoma de Andalucía, las Entidades Locales de Andalucía, las asociaciones profesionales del sector, las organizaciones sindicales y las de personas consumidoras y usuarias." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-7",
+          "number": 7,
+          "statement": "Los vehículos auto-taxi deberán tener como mínimo:",
+          "options": [
+            { "key": "a", "text": "cuatro puertas y una capacidad mínima de maletero de 330 litros." },
+            { "key": "b", "text": "dos puertas y una capacidad mínima de maletero de 330 litros." },
+            { "key": "c", "text": "cinco puertas y una capacidad mínima de maletero de 430 litros." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-8",
+          "number": 8,
+          "statement": "Según la Ordenanza Municipal, el personal de conducción estará obligado a facilitar a las personas usuarias cambio de monedas hasta:",
+          "options": [
+            { "key": "a", "text": "la cantidad de 10€, cantidad que podrá ser actualizada con ocasión de la modificación de las tarifas." },
+            { "key": "b", "text": "la cantidad de 50€, cantidad que podrá ser actualizada con ocasión de la modificación de las tarifas." },
+            { "key": "c", "text": "la cantidad de 20€, cantidad que podrá ser actualizada con ocasión de la modificación de las tarifas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-9",
+          "number": 9,
+          "statement": "¿Cuál es la norma que regula la hojas de quejas y reclamaciones de las personas consumidoras y usuarias en Andalucía?",
+          "options": [
+            { "key": "a", "text": "El Real Decreto 1544/2007" },
+            { "key": "b", "text": "El Decreto 35/2012" },
+            { "key": "c", "text": "El Decreto 72/2008" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-10",
+          "number": 10,
+          "statement": "Se considera infracción muy grave en la prestación del servicio de transporte discrecional de viajeros y viajeras en automóviles de turismo:",
+          "options": [
+            { "key": "a", "text": "Realizar servicios sin llevar a bordo del vehículo la documentación formal que acredite la posibilidad legal de prestar el mismo." },
+            { "key": "b", "text": "La negativa u obstrucción a la actuación de los servicios de inspección de los órganos competentes que impida el ejercicio de las funciones que legal o reglamentariamente tengan atribuidas." },
+            { "key": "c", "text": "No atender la solicitud de una persona usuaria estando de servicio." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-11",
+          "number": 11,
+          "statement": "El certificado de aptitud para el ejercicio profesional de conductor o conductora de auto-taxi perderá su vigencia por:",
+          "options": [
+            { "key": "a", "text": "la falta de ejercicio de la profesión durante un periodo, ininterrumpido de un año en el plazo de cinco." },
+            { "key": "b", "text": "la falta de ejercicio de la profesión durante un periodo, ininterrumpido o no, de cinco años." },
+            { "key": "c", "text": "la falta de ejercicio de la profesión durante un periodo, ininterrumpido o no, de un año en el plazo de cinco." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-12",
+          "number": 12,
+          "statement": "A tenor de la Ley 2/2003, de 12 de mayo, de Ordenación de los Transportes Urbanos y Metropolitanos de Viajeros de Andalucía, los servicios de transporte en automóviles de turismo se autorizarán, como norma general:",
+          "options": [
+            { "key": "a", "text": "para cinco plazas incluido el conductor." },
+            { "key": "b", "text": "para cinco plazas más el conductor." },
+            { "key": "c", "text": "hasta nueve plazas, incluido el conductor, si bien precisará la previa obtención de la correspondiente licencia otorgada por el Ayuntamiento." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-13",
+          "number": 13,
+          "statement": "Según la Ley 2/2003, de 12 de mayo, de ordenación de los Transportes Urbanos y Metropolitanos de Viajeros en Andalucía para la realización de transportes discrecionales en automóviles de turismo será preciso, como regla general:",
+          "options": [
+            { "key": "a", "text": "obtener sólo la licencia municipal que habilite para la prestación de servicios urbanos." },
+            { "key": "b", "text": "obtener previamente la autorización que habilite para la prestación de servicios interurbanos." },
+            { "key": "c", "text": "obtener simultáneamente la licencia municipal que habilite para la prestación de servicios urbanos y la autorización que habilite para la prestación de servicios interurbanos." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-14",
+          "number": 14,
+          "statement": "La pérdida o retirada, por cualquier causa legal, de la licencia de transporte urbano o de la autorización de transporte interurbano ¿conllevará la cancelación de la otra licencia o autorización?",
+          "options": [
+            { "key": "a", "text": "No." },
+            { "key": "b", "text": "Sólo en los casos de pérdida o retirada de la licencia como consecuencia de falta muy grave." },
+            { "key": "c", "text": "Sí, salvo en los casos en que, dándose las circunstancias previstas en la ley, la Administración competente decida expresamente su mantenimiento." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-15",
+          "number": 15,
+          "statement": "¿Cuál es la tarifa urbana por bajada de bandera (por subir al taxi) un viernes no festivo a las 23 horas?",
+          "options": [
+            { "key": "a", "text": "1,52." },
+            { "key": "b", "text": "1,92." },
+            { "key": "c", "text": "1,50." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-16",
+          "number": 16,
+          "statement": "¿Cuál es el suplemento por cada bulto que mida más de 60 cm o maleta?",
+          "options": [
+            { "key": "a", "text": "0,51." },
+            { "key": "b", "text": "0,57." },
+            { "key": "c", "text": "0,61." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-17",
+          "number": 17,
+          "statement": "¿Cuál es la tarifa de bajada de bandera (por subir al taxi) para un servicio interurbano en día laborable a las 11 de la mañana?",
+          "options": [
+            { "key": "a", "text": "2,39 euros" },
+            { "key": "b", "text": "2,80 euros" },
+            { "key": "c", "text": "3,00 euros" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-18",
+          "number": 18,
+          "statement": "La queja o reclamación podrá ser archivada por:",
+          "options": [
+            { "key": "a", "text": "Avenencia de las partes a través del sometimiento de la controversia a mediación o a arbitraje" },
+            { "key": "b", "text": "El desistimiento de la parte reclamante o el acuerdo directo entre ambas" },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-19",
+          "number": 19,
+          "statement": "La devolución de la tarjeta identificativa de conductor o conductora deberá ser entregada al órgano municipal competente en los siguientes supuestos:",
+          "options": [
+            { "key": "a", "text": "Cuando se solicite la suspensión de la licencia." },
+            { "key": "b", "text": "Cuando se averíe el vehículo a la que se halle afecto." },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-20",
+          "number": 20,
+          "statement": "Cuando los vehículos auto-taxi estén libres:",
+          "options": [
+            { "key": "a", "text": "deberán situarse siempre en las paradas habilitadas al efecto." },
+            { "key": "b", "text": "deberán estar circulando o estacionados en cualquier lugar que el conductor considere, principalmente cuando cumpla instrucciones del usuario." },
+            { "key": "c", "text": "deberán estar circulando o situarse en las paradas habilitadas al efecto." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-21",
+          "number": 21,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y Primaria José Hurtado (C.E.I.P)",
+          "options": [
+            { "key": "a", "text": "Calle Don Bosco n° 14" },
+            { "key": "b", "text": "Calle Molinos n° 55" },
+            { "key": "c", "text": "Calle Tablas, n° 10" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-22",
+          "number": 22,
+          "statement": "Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir al intercambiador de transporte metropolitano donde pueda tomar el autobús a Santa Fe, el destino será:",
+          "options": [
+            { "key": "a", "text": "Camino de Ronda s/n" },
+            { "key": "b", "text": "Avda de Dilar n° 5" },
+            { "key": "c", "text": "Rector Marín Ocete s/n" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-23",
+          "number": 23,
+          "statement": "El Ilustre Colegio de Abogados de Granada se encuentra ubicado en:",
+          "options": [
+            { "key": "a", "text": "Plaza Santa Ana n° 5" },
+            { "key": "b", "text": "Avda del Sur n° 1" },
+            { "key": "c", "text": "Gran Vía n° 14" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-24",
+          "number": 24,
+          "statement": "Un usuario nos solicita ir a la Oficina de Extranjería, que se encuentra ubicado en:",
+          "options": [
+            { "key": "a", "text": "Calle San Agapito n° 2" },
+            { "key": "b", "text": "Calle Santa Rosalia n° 14" },
+            { "key": "c", "text": "Calle Buenos Aires n° 1" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-25",
+          "number": 25,
+          "statement": "Nos solicitan ir al Registro de Parejas de Hecho de la Comunidad Autónoma de Andalucía, Delegación Territorial de la Consejería de Igualdad y Políticas Sociales de la Junta de Andalucía, con sede en Granada, que se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Camino de Ronda núm. 110" },
+            { "key": "b", "text": "Calle Buenos Aires n° 1" },
+            { "key": "c", "text": "Plaza Nueva s/n" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-26",
+          "number": 26,
+          "statement": "El Hotel Urban Dream Granada, se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Calle Molinos n° 17" },
+            { "key": "b", "text": "Avenida de la Constitución n° 21" },
+            { "key": "c", "text": "Camino de Ronda n° 107" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-27",
+          "number": 27,
+          "statement": "Nos solicitan una recogida en el Hospital San Rafael, se debe dirigir a:",
+          "options": [
+            { "key": "a", "text": "Avenida del Conocimiento s/n" },
+            { "key": "b", "text": "Parque Tecnológico de la Salud" },
+            { "key": "c", "text": "Calle San Juan de Dios n° 19" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-28",
+          "number": 28,
+          "statement": "Si deseaos visitar el Museo San Juan de Dios, Casa de los Pisa, nuestro destino será:",
+          "options": [
+            { "key": "a", "text": "Carrera del Darro, esquina a calle Pisas." },
+            { "key": "b", "text": "Carril Nuevo de San Nicolás, s/n." },
+            { "key": "c", "text": "Calle Duquesa, n° 300." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-29",
+          "number": 29,
+          "statement": "Efectúe el siguiente servicio por el recorrido mas corto: Estación de autobuses de Granada al Monasterio de Los Jerónimos:",
+          "options": [
+            { "key": "a", "text": "Estación de autobuses, Avda Juan Pablo II, Avda Madrid, Calle Dr. Oloriz, Avda Constitución, Calle Dr. Severo Ochoa, Calle Rector López Argueta. Monasterio de Los Jerónimos" },
+            { "key": "b", "text": "Estación de autobuses, Avda Juan Pablo II, Calle Sol y Sombra, Avda Argentinita, Calle Luis Miranda Dávalos, C/ Mencia Calderon, Avda Andalucía, Camino de Ronda, Mendez Nuñez, Avda Fuente Nueva, Calle Rector López Argueta, Monasterio de los Jerónimos." },
+            { "key": "c", "text": "Estación de autobuses, Avda Juan Pablo II, Calle Tete Montoliu, Avda Pulianas, Calle Ribera del Beiro, Avda de Madrid, Calle Dr Oloriz, Avda Constitución, Calle Dr. Severo Ochoa, Calle Rector López Argueta, Monasterio de Los Jerónimos." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-30",
+          "number": 30,
+          "statement": "Efectúe el siguiente servicio por el recorrido más rápido y corto: Sede Caja Rural en Calle Don Bosco n° 2, al Tribunal Superior de Justicia de Andalucía con sede en Plaza Nueva n° 10:",
+          "options": [
+            { "key": "a", "text": "Avda Don Bosco n° 2, Avda Fernando de los Ríos, Paseo del Violón, Calle Acera del Darro, Calle Reyes Católicos, Plaza Nueva n° 10." },
+            { "key": "b", "text": "Avda Don Bosco n° 2, Avda Fernando de los Rios, Camino de Ronda, Calle Mendez Nuñez, Avda Fuente Nueva, Avda Constitución, Gran Vía de Colon, Plaza Nueva n° 10." },
+            { "key": "c", "text": "Avda Don Bosco n° 2, Avda Fernando de los Rios, Paseo del Violón, Paseo de Los Basilios, Calle Puente Verde, Paseo de la Bomba, Paseo del Salón, Calle Acera del Darro, Calle Reyes Católicos, Plaza Nueva n° 10." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-31",
+          "number": 31,
+          "statement": "La dirección del Instituto de Astrofísica de Andalucía, es:",
+          "options": [
+            { "key": "a", "text": "Avenida del Conocimiento n° 3" },
+            { "key": "b", "text": "Avda de la Investigación n° 45" },
+            { "key": "c", "text": "Glorieta de la Astronomía s/n" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-32",
+          "number": 32,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio Oficial de Médicos de Granada",
+          "options": [
+            { "key": "a", "text": "Calle San Anton n° 5" },
+            { "key": "b", "text": "Calle Andrés Segovia n° 53" },
+            { "key": "c", "text": "Callle Torre de la Pólvora s/n" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-33",
+          "number": 33,
+          "statement": "Indique la dirección correcta para el siguiente destino: Teatro José Tamayo. Chana.",
+          "options": [
+            { "key": "a", "text": "Ctra de Málaga n° 100" },
+            { "key": "b", "text": "Avda Fuerzas Armadas n° 4" },
+            { "key": "c", "text": "Ese teatro no existe." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-34",
+          "number": 34,
+          "statement": "Nos solicitan ir al Colegio Notarial de Granada, el destino es:",
+          "options": [
+            { "key": "a", "text": "Plaza de la Universidad s/n" },
+            { "key": "b", "text": "Calle San Jerónimo n° 50" },
+            { "key": "c", "text": "Calle Gran Vía de Colon n° 14" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-11-22-general-35",
+          "number": 35,
+          "statement": "Indique la dirección correcta de la Confederación Granadina de Empresarios:",
+          "options": [
+            { "key": "a", "text": "Calle Arabial n° 19" },
+            { "key": "b", "text": "Calle Elena Martin Vivaldi n° 2" },
+            { "key": "c", "text": "Calle Maestro Montero n° 23." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Prueba de inglés",
+      "questions": [
+        {
+          "id": "2016-11-22-ingles-1",
+          "number": 1,
+          "statement": "Traduzca: Tarifa nocturna.",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Night fare",
+          "image": null
+        },
+        {
+          "id": "2016-11-22-ingles-2",
+          "number": 2,
+          "statement": "Traduzca: Bienvenidos a Granada.",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Welcome to Granada",
+          "image": null
+        },
+        {
+          "id": "2016-11-22-ingles-3",
+          "number": 3,
+          "statement": "Traduzca: Good evening, where to?",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Buenas tardes/noches, ¿a dónde? / ¿Dónde vamos?",
+          "image": null
+        },
+        {
+          "id": "2016-11-22-ingles-4",
+          "number": 4,
+          "statement": "Traduzca: How much is that?",
+          "options": [],
+          "correctOption": null,
+          "explanation": "¿Cuánto es? / ¿Cuánto vale?",
+          "image": null
+        },
+        {
+          "id": "2016-11-22-ingles-5",
+          "number": 5,
+          "statement": "Traduzca: ¿Me puede llevar a la estación de autobuses, por favor?",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Could/Can you take/drive me to the bus station, please?",
+          "image": null
+        }
+      ]
+    }
+  ]
+}

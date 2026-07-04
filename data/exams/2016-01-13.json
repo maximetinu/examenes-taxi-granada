@@ -1,0 +1,524 @@
+{
+  "id": "2016-01-13",
+  "sourceFile": "2016-01-13_taxi-granada_examen-resuelto.pdf",
+  "date": "2016-01-13",
+  "datePrecision": "day",
+  "convocatoria": "enero 2016",
+  "organo": "Ayuntamiento de Granada",
+  "notes": "Documento escaneado y anotado a mano (cabecera: \"PLANTILLA usada para corregir\"). La opción correcta está rodeada a mano con un círculo, no en negrita. En las preguntas 4, 12 y 24 aparece además una flecha dibujada en el margen apuntando a una opción distinta de la rodeada. Preguntas 4 y 24: el círculo está sobre 'a' pero una flecha marcada apunta a 'b'; se ha tomado 'b' como correcta por ser una corrección clara y verificable (P4: la Delegación de Educación es el edificio 'La Normal' en Gran Vía; P24: 26-dic festivo, bajada de bandera tarifa 2 = 1,92€). Pregunta 12: el círculo está claramente sobre 'b' y solo hay una marca/flecha tenue cerca de 'c'; se mantiene 'b'. La sección de inglés son traducciones libres manuscritas (sin opciones a/b/c): se han transcrito como enunciado + traducción modelo en 'explanation', con options vacío y correctOption null.",
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Prueba en materias generales",
+      "questions": [
+        {
+          "id": "2016-01-13-general-1",
+          "number": 1,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio Luis Rosales (C.E.I.P).",
+          "options": [
+            { "key": "a", "text": "Calle Rector Marín Ocete, n° 1." },
+            { "key": "b", "text": "Calle Doctor García Royo, n° 2." },
+            { "key": "c", "text": "Ninguna de respuestas anteriores es correcta." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-2",
+          "number": 2,
+          "statement": "Un usuario no residente en Granada nos solicita ir a la Residencia Universitaria El Pilar, nuestro destino será:",
+          "options": [
+            { "key": "a", "text": "Este destino no es válido, necesitamos una dirección." },
+            { "key": "b", "text": "Nuestro destino es la calle Melchor Almagro con calle Madre Riquelme." },
+            { "key": "c", "text": "El destino está en camino de Ronda, a la altura de la calle doctor Alejandro Otero." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-3",
+          "number": 3,
+          "statement": "El conservatorio profesional de música Ángel Barrios está situado en:",
+          "options": [
+            { "key": "a", "text": "En la calle Ángel Barrios" },
+            { "key": "b", "text": "La calle Torre de los Picos, n° 6." },
+            { "key": "c", "text": "La calle San Jerónimo, n° 46." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-4",
+          "number": 4,
+          "statement": "Nos solicitan ir a la Delegación de Educación de Granada, el destino correcto es:",
+          "options": [
+            { "key": "a", "text": "La Delegación Territorial de Granada de la Consejería Economía, Innovación, Ciencia y Empleo. Edif. \"Almanjayar\". Avenida Joaquina Eguaras, 2." },
+            { "key": "b", "text": "La Delegación Provincial de Educación, Edifico \"La normal\". Calle Gran Vía de Colón, s/n." },
+            { "key": "c", "text": "En realidad es la Agencia Pública Andaluza de Educación y Formación, situada en la Carretera de la Sierra." }
+          ],
+          "correctOption": "b",
+          "explanation": "El círculo manuscrito está sobre 'a' pero una flecha en el margen apunta a 'b', interpretado como corrección. La Delegación de Educación se ubica en el edificio 'La Normal', Gran Vía de Colón.",
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-5",
+          "number": 5,
+          "statement": "El Hotel Alixares se localiza en:",
+          "options": [
+            { "key": "a", "text": "El Paseo de la Sabica, n° 40. 18.009-GRANADA" },
+            { "key": "b", "text": "La calle Molinos, n° 12. 18.009-GRANADA." },
+            { "key": "c", "text": "La glorieta Festival Internacional de Música y Danza de Granada, s/n." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-6",
+          "number": 6,
+          "statement": "Nos solicitan una recogida en la glorieta Festival de Música y Danza, nos dirigimos a:",
+          "options": [
+            { "key": "a", "text": "La confluencia de la avenida Severo Ochoa, la avenida de Fuente Nueva y la calle Santa Bárbara." },
+            { "key": "b", "text": "La calle Félix Rodríguez de la Fuente, junto al asilo de ancianos \"Hermanitas de los Pobres\"." },
+            { "key": "c", "text": "El Paseo del Generalife, junto al Paseo de los Mártires." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-7",
+          "number": 7,
+          "statement": "La dirección del Hotel Alhambra Palace es:",
+          "options": [
+            { "key": "a", "text": "Plaza del arquitecto García de Paredes, n° 1." },
+            { "key": "b", "text": "Paseo de los Mártires. s/n." },
+            { "key": "c", "text": "Camino de las Peñuelas." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-8",
+          "number": 8,
+          "statement": "Efectúe el siguiente servicio por el recorrido más corto: Estación de autobuses de Granada a Hotel Granada Center. (elija la opción correcta)",
+          "options": [
+            { "key": "a", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, av. Francisco Ayala, Pintor Francisco Pradilla, av. de Andalucía, av. de la Constitución, av. Severo Ochoa." },
+            { "key": "b", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Avenida Fuente Nueva." },
+            { "key": "c", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Calle Julio Verne, calle Arabial, calle Mendez Nuñez, Avenida Fuente Nueva." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-9",
+          "number": 9,
+          "statement": "Efectúe el siguiente servicio por el recorrido más corto: Centro comercial Hipercor hasta Hotel Saray. (elija la opción correcta)",
+          "options": [
+            { "key": "a", "text": "Cl. Cañaveral, Cmno. de Ronda, rotonda de la Aviación Española, Paseo del Violón, calle Antonio Dalmases, calle Profesor Tierno Galván." },
+            { "key": "b", "text": "Cl. Cañaveral, calle Arabial, av. Fuente Nueva, av. Severo Ochoa, av. Constitución, cl. Gran Vía de Colón." },
+            { "key": "c", "text": "Cl. Cañavel, calle Arabial, calle Juncos, paseo Jardín de la Reina, Paseo del Violón, calle Tierno Galván." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-10",
+          "number": 10,
+          "statement": "La dirección de la Facultad de Medicina de Granada es:",
+          "options": [
+            { "key": "a", "text": "Avenida de la Investigación, n° 11. Parque Tecnológico de la Salud." },
+            { "key": "b", "text": "Avenida del Conocimiento, n° 11. Parque Tecnológico de la Salud." },
+            { "key": "c", "text": "Avenida de la Universidad, s/n Parque Tecnológico de la Salud." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-11",
+          "number": 11,
+          "statement": "A tenor del artículo 6 de la Ordenanza Reguladora del Servicio de Transporte de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxi en el Municipio de Granada, la persona titular de la licencia de auto-taxi:",
+          "options": [
+            { "key": "a", "text": "Deberá contratar a personas asalariadas o autónomas a tal fin." },
+            { "key": "b", "text": "Tendrá plena y exclusiva dedicación a la profesión." },
+            { "key": "c", "text": "Podrá prestar el servicio a tiempo parcial." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-12",
+          "number": 12,
+          "statement": "Con carácter general las licencias municipales de auto-taxi se otorgarán:",
+          "options": [
+            { "key": "a", "text": "Por un plazo máximo de cinco años tras el cual deberán someterse a revisión." },
+            { "key": "b", "text": "Quedarán condicionadas a la constatación anual por parte del Ayuntamiento de Granada, mediante el correspondiente visado, del mantenimiento de las condiciones que originariamente justificaron su otorgamiento." },
+            { "key": "c", "text": "Se otorgarán por tiempo indefinido." }
+          ],
+          "correctOption": "b",
+          "explanation": "Círculo manuscrito claro sobre 'b'; hay una marca/flecha tenue en el margen cerca de 'c' que introduce cierta incertidumbre.",
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-13",
+          "number": 13,
+          "statement": "Según la Ordenanza Reguladora del Servicio de Transporte de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxi en el Municipio de Granada, la capacidad útil del maletero será de:",
+          "options": [
+            { "key": "a", "text": "330 litros como mínimo" },
+            { "key": "b", "text": "340 litros como mínimo" },
+            { "key": "c", "text": "460 litros como mínimo" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-14",
+          "number": 14,
+          "statement": "Señale cual de las opciones siguientes es correcta según la Ordenanza Municipal",
+          "options": [
+            { "key": "a", "text": "El personal de conducción que preste el servicio de taxi adaptado ha de ayudar a subir y bajar del vehículo a las personas con discapacidad con los elementos que pueden necesitar para desplazarse." },
+            { "key": "b", "text": "El personal de conducción será responsable de la colocación de los anclajes y cinturones de seguridad y de la manipulación de los equipos instalados en los vehículos adaptados para facilitar el acceso y la salida de los vehículos de las personas que usen sillas de ruedas, o tengan otro tipo de discapacidad." },
+            { "key": "c", "text": "a y b son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-15",
+          "number": 15,
+          "statement": "Según el artículo 28 de la Ordenanza Reguladora del Servicio de Transporte de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxi en el Municipio de Granada, las personas con discapacidad",
+          "options": [
+            { "key": "a", "text": "Podrán ir acompañadas, en caso necesario, de perros guía pagando en este caso el suplemento establecido." },
+            { "key": "b", "text": "Podrán ir acompañadas, en caso necesario, de perros guía sin que ello suponga incremento del precio del servicio." },
+            { "key": "c", "text": "No podrán acceder al vehículo con perro guía o de asistencia." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-16",
+          "number": 16,
+          "statement": "A tenor del artículo 41 de dicha Ordenanza Municipal, el permiso municipal de conductor o conductora de auto-taxi",
+          "options": [
+            { "key": "a", "text": "Tendrá validez de cinco años desde su obtención, al término de los cuales podrá ser renovado automáticamente, por igual periodo de tiempo y sin necesidad de examen." },
+            { "key": "b", "text": "Tendrá una validez de cinco años desde su obtención, al término de los cuales podrá ser renovado, por igual periodo de tiempo previa superación de nuevo examen." },
+            { "key": "c", "text": "Tendrá validez indefinida en tanto siga en posesión del permiso de conductor y la documentación acreditativa de la aptitud para el ejercicio de la actividad." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-17",
+          "number": 17,
+          "statement": "Según la citada Ordenanza Municipal, el personal de conducción estará obligado a facilitar a las personas usuarias cambio de monedas hasta:",
+          "options": [
+            { "key": "a", "text": "la cantidad de 10 €, cantidad que podrá ser actualizada con ocasión de la modificación de las tarifas." },
+            { "key": "b", "text": "la cantidad de 50 €, cantidad que podrá ser actualizada con ocasión de la modificación de las tarifas." },
+            { "key": "c", "text": "la cantidad de 20 €, cantidad que podrá ser actualizada con ocasión de la modificación de las tarifas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-18",
+          "number": 18,
+          "statement": "En caso de accidente o avería que haga imposible la continuación del servicio, el viajero o viajera, deberá según la Ordenanza Municipal (art. 74):",
+          "options": [
+            { "key": "a", "text": "abonar el importe de tal servicio hasta el momento referido, descontando la puesta en marcha del taxímetro." },
+            { "key": "b", "text": "abonar el importe de tal servicio hasta el momento referido sin descuento alguno." },
+            { "key": "c", "text": "No deberá abonar importe por la prestación del servicio." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-19",
+          "number": 19,
+          "statement": "La prestación de servicios con vehículos distintos a los adscritos a las licencias o autorizaciones, podrá implicar",
+          "options": [
+            { "key": "a", "text": "El precintado del vehículo." },
+            { "key": "b", "text": "La retirada de la correspondiente licencia o autorización." },
+            { "key": "c", "text": "Sanción pecuniaria y las dos medidas anteriores." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-20",
+          "number": 20,
+          "statement": "Según el Decreto 72/2008, de 4 de marzo, por el que se regulan las hojas de quejas y reclamaciones de las personas consumidoras y usuarias en Andalucía, el modelo de hojas de quejas y reclamaciones en soporte papel estará integrado por",
+          "options": [
+            { "key": "a", "text": "un juego unitario de impresos autocalcables por triplicado." },
+            { "key": "b", "text": "un juego unitario de impresos autocalcables por duplicado." },
+            { "key": "c", "text": "un juego unitario de impresos autocalcables por cuadruplicado." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-21",
+          "number": 21,
+          "statement": "A tenor de dicho Decreto 72/2008 quien debe firmar la hoja de reclamaciones",
+          "options": [
+            { "key": "a", "text": "solo la parte reclamante, si bien la firma por parte de la empresa titular de la actividad supondrá la aceptación de la versión de los hechos ofrecida por la reclamante." },
+            { "key": "b", "text": "ambas partes, si bien la firma por parte de la empresa titular de la actividad sólo tendrá efectos de acuse de recibo, sin que suponga aceptación de la versión de los hechos ofrecida por la reclamante." },
+            { "key": "c", "text": "resulta obligatorio para el reclamante y facultativo para el reclamado." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-22",
+          "number": 22,
+          "statement": "Conforme al artículo 29 del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social: \"todas las personas físicas o jurídicas que, en el sector público o privado, suministren bienes o servicios disponibles para el público, ofrecidos fuera de la vida privada y familiar, estarán obligadas, en sus actividades y en las transacciones consiguientes, al cumplimiento del principio de igualdad de oportunidades de:",
+          "options": [
+            { "key": "a", "text": "Las personas mayores" },
+            { "key": "b", "text": "Las personas con discapacidad" },
+            { "key": "c", "text": "Toda la población en un mismo municipio" }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-23",
+          "number": 23,
+          "statement": "¿En cual de los siguientes supuestos no es de aplicación la tarifa 2?",
+          "options": [
+            { "key": "a", "text": "sábados y festivos de 0 a 24:00 horas" },
+            { "key": "b", "text": "día de la Cruz, desde las 7:00 horas a las 22:00 horas." },
+            { "key": "c", "text": "Viernes víspera de festivo." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-24",
+          "number": 24,
+          "statement": "¿Cual sería la tarifa por bajada de bandera un 26 de diciembre (jueves), a las 14:00 horas?",
+          "options": [
+            { "key": "a", "text": "1,52€" },
+            { "key": "b", "text": "1,92€" },
+            { "key": "c", "text": "2,39€" }
+          ],
+          "correctOption": "b",
+          "explanation": "El círculo manuscrito está sobre 'a' pero una flecha marcada apunta a 'b', interpretado como corrección. El 26 de diciembre es festivo, por lo que aplica la tarifa 2 (bajada de bandera 1,92€).",
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-25",
+          "number": 25,
+          "statement": "Las tarifas máximas de aplicación en los servicio interurbanos de transporte público discrecional de viajeros por carretera en vehículos de turismo son aprobadas por resolución de:",
+          "options": [
+            { "key": "a", "text": "La Diputación Provincial" },
+            { "key": "b", "text": "El conjunto de municipios consorciados en el ámbito de aplicación" },
+            { "key": "c", "text": "La Junta de Andalucía" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-26",
+          "number": 26,
+          "statement": "Si un cliente quiere ir al Aeropuerto Federico García Lorca Granada-Jaén, se aplicará la siguiente tarifa:",
+          "options": [
+            { "key": "a", "text": "Siempre, tarifa interurbana 1" },
+            { "key": "b", "text": "Tarifa interurbana 3 si es festivo de 00:00 horas." },
+            { "key": "c", "text": "Tarifa interurbana 2 si es lunes a las 00:00 horas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-27",
+          "number": 27,
+          "statement": "Según el Reglamento de los Servicios de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo de Andalucía, el certificado de aptitud para el ejercicio de la profesional perderá su vigencia",
+          "options": [
+            { "key": "a", "text": "Por incumplimiento sobrevenido de cualquiera de los requisitos establecidos para su obtención" },
+            { "key": "b", "text": "Por la falta de ejercicio de la profesión durante un periodo ininterrumpido o no de 1 año en el plazo de 5" },
+            { "key": "c", "text": "a y b son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-28",
+          "number": 28,
+          "statement": "En todos los municipios, los Ayuntamiento promoverán",
+          "options": [
+            { "key": "a", "text": "Que el 5% de las licencias de taxi correspondan a vehículos adaptados" },
+            { "key": "b", "text": "Que el 2% de las licencias de taxi corresponda a eurotaxis" },
+            { "key": "c", "text": "Solo las capitales de provincia tienen la obligación de promover la aplicación del correspondiente porcentaje a las licencias de taxis correspondientes a vehículos eurotaxis" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-29",
+          "number": 29,
+          "statement": "Ley 2/2003, de 12 de mayo, de Ordenación de los Transportes Urbanos y Metropolitanos de Viajeros en Andalucía.",
+          "options": [
+            { "key": "a", "text": "La pérdida o retirada por cualquier causa legal de la licencia de transporte urbano o de la autorización de transporte interurbano conllevará la cancelación de la otra licencia." },
+            { "key": "b", "text": "La pérdida o retirada por cualquier causa legal de la licencia de transporte urbano o de la autorización de transporte interurbano no conllevará la cancelación de la otra licencia." },
+            { "key": "c", "text": "La pérdida o retirada por cualquier causa legal de la licencia de transporte urbano o de la autorización de transporte interurbano conllevará la necesidad de tramitación de un procedimiento especial de autorización por parte de la Junta de Andalucía." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-30",
+          "number": 30,
+          "statement": "Se entenderá que el origen o inicio del transporte interurbano se produce en:",
+          "options": [
+            { "key": "a", "text": "En la finalización del término municipal de origen." },
+            { "key": "b", "text": "En el lugar en que son recogidos los pasajeros de forma efectiva." },
+            { "key": "c", "text": "Indistintamente, según establezca la correspondiente ordenanza municipal." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-31",
+          "number": 31,
+          "statement": "El viajero en silla de ruedas podrá viajar en un vehículo adaptado",
+          "options": [
+            { "key": "a", "text": "de frente, de espaldas o transversalmente al sentido de la marcha." },
+            { "key": "b", "text": "de frente o de espaldas al sentido de la marcha." },
+            { "key": "c", "text": "Siempre de frente al sentido de la marcha." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-32",
+          "number": 32,
+          "statement": "Son derechos de los consumidores",
+          "options": [
+            { "key": "a", "text": "La efectiva protección frente a las actuaciones que por acción u omisión ocasionen riesgos o daños que puedan afectar a la salud, al medio ambiente, o a la seguridad de los consumidores." },
+            { "key": "b", "text": "La protección, reconocimiento y realización de sus legítimos intereses económicos y empresariales." },
+            { "key": "c", "text": "La indemnización de daños y perjuicios producidos en los bienes, derechos o intereses sin necesidad de reparación efectiva" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-33",
+          "number": 33,
+          "statement": "¿Según la Tarifa 2 actualmente vigente el importe (IVA incluido) por Bajada de Bandera los sábados y festivos de 0 a 24 horas es de?:",
+          "options": [
+            { "key": "a", "text": "1,52 euros." },
+            { "key": "b", "text": "1,92 euros." },
+            { "key": "c", "text": "2,05 euros." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-34",
+          "number": 34,
+          "statement": "Según la Ordenanza Municipal vigente las licencias de auto-taxi serán transmisibles por actos:",
+          "options": [
+            { "key": "a", "text": "\"inter vivos\"" },
+            { "key": "b", "text": "\"mortis causa al conyuge viudo o los herederos forzosos\"" },
+            { "key": "c", "text": "a y b son posibles." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-01-13-general-35",
+          "number": 35,
+          "statement": "A tenor de la citada Ordenanza Municipal (art. 79 apd° f) ¿es gratuito el transporte en taxi de las de las bicicletas?",
+          "options": [
+            { "key": "a", "text": "no en ningún caso." },
+            { "key": "b", "text": "solo las de pequeñas dimensiones." },
+            { "key": "c", "text": "solo las plegables dentro de su bolsa de transporte." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Prueba de inglés",
+      "questions": [
+        {
+          "id": "2016-01-13-ingles-1",
+          "number": 1,
+          "statement": "Buenos días, ¿A dónde va, por favor?",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Traducción modelo manuscrita: \"Good morning, where to, please? / Where are you going, please?\"",
+          "image": null
+        },
+        {
+          "id": "2016-01-13-ingles-2",
+          "number": 2,
+          "statement": "Our minimum fare to the Alhambra is four Euros",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Traducción modelo manuscrita: \"La carrera mínima a la Alhambra es de 4 Euros.\"",
+          "image": null
+        },
+        {
+          "id": "2016-01-13-ingles-3",
+          "number": 3,
+          "statement": "Disfruten de su estancia.",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Traducción modelo manuscrita: \"Have a good time / Enjoy your stay.\"",
+          "image": null
+        },
+        {
+          "id": "2016-01-13-ingles-4",
+          "number": 4,
+          "statement": "I'm sorry. I don't have change for that note.",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Traducción modelo manuscrita: \"Lo siento, no tengo cambio para ese billete.\"",
+          "image": null
+        },
+        {
+          "id": "2016-01-13-ingles-5",
+          "number": 5,
+          "statement": "El precio de la carrera es de 7 Euros y 40 céntimos.",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Traducción modelo manuscrita: \"The taxi fare is seven euros and forty cents.\"",
+          "image": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "id": "2018-05-16",
+  "sourceFile": "2018-05-16_taxi-granada_examen.pdf",
+  "date": "2018-05-16",
+  "datePrecision": "day",
+  "convocatoria": "mayo 2018",
+  "organo": "Ayuntamiento de Granada",
+  "notes": "Examen en blanco, sin respuestas marcadas ni plantilla correctora; todas las correctOption son null.",
+  "docType": "examen",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2018-05-16-general-1",
+          "number": 1,
+          "statement": "En el caso de que no haya que realizar ningún servicio a una persona con discapacidad, un eurotaxi podrá:",
+          "options": [
+            { "key": "a", "text": "sólo podrá prestar servicios a personas con discapacidad." },
+            { "key": "b", "text": "prestar el servicio a cualquier ciudadano." },
+            { "key": "c", "text": "tendrá preferencia sobre los demás taxis para prestar el servicio a cualquier ciudadano." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-2",
+          "number": 2,
+          "statement": "Según la Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía, los consumidores tendrán derecho a:",
+          "options": [
+            { "key": "a", "text": "La protección, reconocimiento y realización de sus legítimos intereses económicos y sociales." },
+            { "key": "b", "text": "La especial protección en aquellas situaciones de inferioridad, subordinación o indefensión en que puedan encontrarse individual o colectivamente." },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-3",
+          "number": 3,
+          "statement": "¿Es necesario tener simultáneamente la licencia municipal de taxi y la autorización que habilite para la prestación de servicios interurbanos?",
+          "options": [
+            { "key": "a", "text": "Si, siempre." },
+            { "key": "b", "text": "Nunca podrán tenerse simultáneamente." },
+            { "key": "c", "text": "Sólo en casos especiales podrá concederse la licencia municipal sin la autorización para servicios interurbanos." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-4",
+          "number": 4,
+          "statement": "¿Podrá un taxi de Granada recoger pasajeros en el Aeropuerto de Granada, teniendo en cuenta que el Aeropuerto está en otro término municipal?",
+          "options": [
+            { "key": "a", "text": "Si, siempre que exista contratación previa." },
+            { "key": "b", "text": "No, porque siempre se debe iniciar el servicio en el municipio de Granada." },
+            { "key": "c", "text": "Depende de lo establecido en la Ordenanza Municipal." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-5",
+          "number": 5,
+          "statement": "¿Se puede aplicar la tarifa 2 un miércoles no festivo?",
+          "options": [
+            { "key": "a", "text": "No, sólo los festivos nacionales, autonómicos y locales." },
+            { "key": "b", "text": "Si, entre las 6 y las 22 horas." },
+            { "key": "c", "text": "Si, entre las 22 y las 6 horas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-6",
+          "number": 6,
+          "statement": "¿Cuál es la tarifa por cada hora de espera en un servicio urbano, un miércoles laborable a las 12:00 horas?",
+          "options": [
+            { "key": "a", "text": "33,09€" },
+            { "key": "b", "text": "14,60€" },
+            { "key": "c", "text": "21,16€" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-7",
+          "number": 7,
+          "statement": "Las autorizaciones para realizar servicios en las Áreas Territoriales de Prestación Conjunta sustituirán a:",
+          "options": [
+            { "key": "a", "text": "las autorizaciones de transporte interurbano." },
+            { "key": "b", "text": "las licencias municipales." },
+            { "key": "c", "text": "las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-8",
+          "number": 8,
+          "statement": "Se realizará un visado anual de:",
+          "options": [
+            { "key": "a", "text": "sólo de la licencia, comprobando que se mantienen las condiciones que originariamente justificaron su otorgamiento." },
+            { "key": "b", "text": "sólo del vehículo, para comprobar las condiciones del mismo y demás elementos exigidos por la Ordenanza Municipal." },
+            { "key": "c", "text": "de la licencia y del vehículo conjuntamente." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-9",
+          "number": 9,
+          "statement": "Para cambiar el vehículo adscrito a una licencia será necesario que el nuevo vehículo:",
+          "options": [
+            { "key": "a", "text": "sea de menor antigüedad que el vehículo sustituido." },
+            { "key": "b", "text": "no tenga más de dos años." },
+            { "key": "c", "text": "no tenga más de cinco años." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-10",
+          "number": 10,
+          "statement": "¿Podrá un usuario solicitar la prestación del servicio al conductor de un taxi que no esté el primero en la parada de taxis?",
+          "options": [
+            { "key": "a", "text": "Si" },
+            { "key": "b", "text": "No" },
+            { "key": "c", "text": "Sólo si los conductores de los taxis que están delante de él en la parada lo aceptan." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-11",
+          "number": 11,
+          "statement": "Se considera falta leve:",
+          "options": [
+            { "key": "a", "text": "El incumplimiento de los servicios obligatorios que, en su caso, se establezcan." },
+            { "key": "b", "text": "Realizar servicios sin llevar a bordo del vehículo la documentación formal que acredite la posibilidad legal de prestar los mismos, o que resulte exigible para la correcta acreditación de la clase de transporte que se está realizando." },
+            { "key": "c", "text": "El incumplimiento del régimen de descansos establecido por el Ayuntamiento de Granada, de conformidad con la normativa vigente." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-12",
+          "number": 12,
+          "statement": "Los descansos obligatorios los domingos serán:",
+          "options": [
+            { "key": "a", "text": "desde las 07:00 horas hasta las 03:00 horas del lunes." },
+            { "key": "b", "text": "desde las 06:00 horas hasta las 23:59 horas del domingo." },
+            { "key": "c", "text": "desde las 0:00 horas hasta las 23:59 horas del domingo." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-13",
+          "number": 13,
+          "statement": "Los hechos constatados por el personal de inspección municipal, cuando se formalicen en sus actas e informes:",
+          "options": [
+            { "key": "a", "text": "siempre serán el inicio del correspondiente expediente sancionador." },
+            { "key": "b", "text": "no tendrán valor probatorio." },
+            { "key": "c", "text": "gozaran de presunción de veracidad." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-14",
+          "number": 14,
+          "statement": "La imagen del personal de conducción se considera adecuada según la ordenanza si:",
+          "options": [
+            { "key": "a", "text": "está debidamente aseado." },
+            { "key": "b", "text": "lleva prenda inferior de pantalón largo." },
+            { "key": "c", "text": "las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-15",
+          "number": 15,
+          "statement": "En el interior del habitáculo del vehículo taxi y en lugar bien visible para el usuario llevará una placa esmaltada, en la que figurarán el número de licencia, la matrícula y el número de plazas autorizadas",
+          "options": [
+            { "key": "a", "text": "de dimensiones mínimas de 50 x 50 milímetros, con impresión blanca sobre fondo negro" },
+            { "key": "b", "text": "de dimensiones mínimas de 50 x 50 milímetros, con impresión negra sobre fondo blanco" },
+            { "key": "c", "text": "de dimensiones mínimas de 50 x 50 milímetros, con impresión verde sobre fondo blanco" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-16",
+          "number": 16,
+          "statement": "Indique la dirección correcta para el siguiente destino: Escuela Oficial de Idiomas de Granada.",
+          "options": [
+            { "key": "a", "text": "Calle Rector Marín Ocete, nº 1." },
+            { "key": "b", "text": "Calle Merced Alta, s/n." },
+            { "key": "c", "text": "Calle Casería de Aguirre, nº 1.440" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-17",
+          "number": 17,
+          "statement": "Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir al intercambiador de transporte metropolitano dónde pueda tomar el autobús a la Zubia. El destino será:",
+          "options": [
+            { "key": "a", "text": "Avenida de Dílar, s/n." },
+            { "key": "b", "text": "Camino de Ronda, nº 1, aproximadamente." },
+            { "key": "c", "text": "Calle Profesor Tierno Galván, frente núm. 3." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-18",
+          "number": 18,
+          "statement": "¿Cual es la dirección del conservatorio profesional de música Ángel Barrios?",
+          "options": [
+            { "key": "a", "text": "En la calle Ángel Barrios" },
+            { "key": "b", "text": "La calle Torre de los Picos, nº 6." },
+            { "key": "c", "text": "En Granada no hay conservatorio de música." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-19",
+          "number": 19,
+          "statement": "Un usuario solicita ir a la Delegación Territorial de Fomento, Vivienda, Turismo y Comercio de Granada, el destino correcto es:",
+          "options": [
+            { "key": "a", "text": "Edificio \"Almanjayar\". Avenida Joaquina Eguaras, núm. 2." },
+            { "key": "b", "text": "Edifico \"La normal\". Calle Gran Vía de Colón, s/n." },
+            { "key": "c", "text": "Ninguna de las anteriores, la Delegación Territorial está en Sevilla." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-20",
+          "number": 20,
+          "statement": "El Hotel Villa Oniria se localiza en:",
+          "options": [
+            { "key": "a", "text": "Calle San Antón, nº 28. 18.005-GRANADA" },
+            { "key": "b", "text": "Calle Molinos, nº 12. 18.009-GRANADA." },
+            { "key": "c", "text": "Este hotel no existe." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-21",
+          "number": 21,
+          "statement": "Nos solicitan una recogida en la glorieta Festival de Música y Danza, nos dirigimos a:",
+          "options": [
+            { "key": "a", "text": "La confluencia de la avenida Severo Ochoa, la avenida de Fuente Nueva y la calle Santa Bárbara." },
+            { "key": "b", "text": "En las confluencias de las calles Félix Rodríguez de la Fuente y Don Bosco." },
+            { "key": "c", "text": "El Paseo del Generalife, junto al Paseo de los Mártires." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-22",
+          "number": 22,
+          "statement": "Son las once de la mañana y a través de central solicitan un servicio en Carrera del Darro, nº11. Indique la respuesta correcta.",
+          "options": [
+            { "key": "a", "text": "Está prohibido el acceso al Albaicín de cualquier taxi a esta hora, no realizo el servicio." },
+            { "key": "b", "text": "Retraso el servicio hasta las once de la noche, porque si hago el servicio solicitado me multarían." },
+            { "key": "c", "text": "Realizo el servicio solicitado." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-23",
+          "number": 23,
+          "statement": "La tarifa especial nocturna no se aplica:",
+          "options": [
+            { "key": "a", "text": "Los viernes de 22:00 a 23:59 horas." },
+            { "key": "b", "text": "Días comprendidos entre el 24 y el 31 de diciembre (entre las 7:00 horas a 22:00 del día siguiente)." },
+            { "key": "c", "text": "Durante los días oficiales de la Semana Santa." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-24",
+          "number": 24,
+          "statement": "Efectúe el siguiente servicio por el recorrido más corto: Estación de autobuses de Granada a Hotel Dauro. (elija la opción correcta)",
+          "options": [
+            { "key": "a", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, av. Francisco Ayala, Pintor Francisco Pradilla, av. de Andalucía, av. de la Constitución, av. Severo Ochoa." },
+            { "key": "b", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Avenida Fuente Nueva." },
+            { "key": "c", "text": "Av. Juan Pablo II, avenida Luís Miranda Dávalos, calle Luís Amador, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Paseo del Violón, Acera del Darro." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-25",
+          "number": 25,
+          "statement": "Efectúe el siguiente servicio por el recorrido más rápido y corto: Puerta Real de España hasta calle Ebro. (elija la opción correcta)",
+          "options": [
+            { "key": "a", "text": "Calle Recogidas, Neptuno, Circunvalación de Granada, Ronda Sur, calle de la Sultana, Torre de Comares, calle Ebro." },
+            { "key": "b", "text": "Cañaveral, Cmno. de Ronda, rotonda de la Aviación Española, Paseo del Violón, calle Antonio Dalmases, calle Profesor Tierno Galván, avenida de América, carretera de Dílar." },
+            { "key": "c", "text": "Puerta Real de España, Acera del Darro, Paseo del Violón, Profesor Tierno Galván, Fontiveros, Andrés Segovia, Carlos V, calle Torre de Comares, calle Pintor Maldonado y calle Ebro." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-26",
+          "number": 26,
+          "statement": "La dirección del la Facultad de Ciencias de la Salud de Granada es:",
+          "options": [
+            { "key": "a", "text": "Avenida de la Ilustración, nº 60. Parque Tecnológico de la Salud." },
+            { "key": "b", "text": "Avenida del Conocimiento, nº 11. Parque Tecnológico de la Salud." },
+            { "key": "c", "text": "Avenida de la Universidad, s/n Parque Tecnológico de la Salud." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-27",
+          "number": 27,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y Primaria Federico García Lorca (C.E.I.P).",
+          "options": [
+            { "key": "a", "text": "Calle Poeta César Vallejo, nº 6" },
+            { "key": "b", "text": "Calle Rector Marín Ocete, nº 1." },
+            { "key": "c", "text": "Calle García Lorca, nº 40." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-28",
+          "number": 28,
+          "statement": "Indique la dirección correcta para el siguiente destino: Instituto de enseñanza secundaria Miguel de Cervantes.",
+          "options": [
+            { "key": "a", "text": "Camino de los Neveros, nº 1." },
+            { "key": "b", "text": "Calle Profesor Albareda, s/n." },
+            { "key": "c", "text": "El instituto no está en Granada." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-29",
+          "number": 29,
+          "statement": "Un usuario desea tomar el transporte metropolitano para ir a Jun y nos pide que lo llevemos a la parada desde dónde parte (intercambiador). Su destino será:",
+          "options": [
+            { "key": "a", "text": "Paseos universitarios." },
+            { "key": "b", "text": "Avenida de Severo Ochoa." },
+            { "key": "c", "text": "Calle Capitán Moreno." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-30",
+          "number": 30,
+          "statement": "Nos solicitan ir al Centro de día \"Buenos Aires\", junto a la Confederación Granadina de Empresarios, el destino correcto es:",
+          "options": [
+            { "key": "a", "text": "Calle Maestro Montero." },
+            { "key": "b", "text": "Calle Eudoxia Piriz." },
+            { "key": "c", "text": "Avenida de la Argentinita." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-31",
+          "number": 31,
+          "statement": "Efectúe el siguiente servicio por el recorrido más rápido y corto: Puerta Real de España hasta la Cámara de Comercio de Granada. (elija la opción correcta)",
+          "options": [
+            { "key": "a", "text": "Puerta Real de España, calle Reyes Católicos, Gran Vía de Colón, avenida de la Constitución, avenida de Andalucía, calle Francisco Pradilla y calle Luís Amador." },
+            { "key": "b", "text": "Calle Recogidas, Camino de Ronda, calle Cruz del Sur, calle Luís Amador." },
+            { "key": "c", "text": "Calle Recogidas, Neptuno, circunvalación de Granada a-44, avenida Juan Pablo II, Luís Miranda Dávalos." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-32",
+          "number": 32,
+          "statement": "Según la Ordenanza vigente del taxi de Granada, artículo 65.4, la cantidad máxima para recogida de la persona usuaria en los servicios de concertación previa a través de emisoras de radio o cualquier otro sistema contemplado en el artículo 56, nunca superará (marque la respuesta correcta)",
+          "options": [
+            { "key": "a", "text": "El doble de la cantidad que en cada momento venga determinada en las tarifas para el concepto de “bajada de bandera”." },
+            { "key": "b", "text": "El triple de la cantidad que en cada momento venga determinada en las tarifas para el concepto de “bajada de bandera”." },
+            { "key": "c", "text": "No se establece importe máximo." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-33",
+          "number": 33,
+          "statement": "Según la Ordenanza vigente del taxi de Granada en los supuestos de servicios por concertación previa (artículo 56), cuando se interrumpirá la continuidad del contador del taxímetro,",
+          "options": [
+            { "key": "a", "text": "Nunca." },
+            { "key": "b", "text": "Depende de la marca de taxímetro." },
+            { "key": "c", "text": "Cuando llegue el contador a la cuantía máxima que establece el artículo 65.4." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-34",
+          "number": 34,
+          "statement": "La toma de carburante del vehículo auto taxi, se podrá realizar, atendiendo a la Ordenanza vigente del taxi de Granada, artículo 68",
+          "options": [
+            { "key": "a", "text": "Solo cuando el vehículo se encuentre libre, salvo autorización expresa de la persona usuaria." },
+            { "key": "b", "text": "Durante las noches de servicio." },
+            { "key": "c", "text": "Exclusivamente al inicio de la jornada laboral." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-general-35",
+          "number": 35,
+          "statement": "La tarifa especial nocturna se aplicará",
+          "options": [
+            { "key": "a", "text": "Cuando el taxista lo considere más oportuno porque hay mucha demanda." },
+            { "key": "b", "text": "Los sábados y festivos desde la 1:00 hasta las 06:00 horas." },
+            { "key": "c", "text": "Las 24 horas de los días festivos que coincida con fecha impar." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Cuestionario de inglés",
+      "questions": [
+        {
+          "id": "2018-05-16-ingles-1",
+          "number": 1,
+          "statement": "On bank holidays our daily minimun fare is five Euros.",
+          "options": [
+            { "key": "a", "text": "La tarifa ordinaria son cinco euros." },
+            { "key": "b", "text": "La tarifa ordinaria los días festivos son 5 euros." },
+            { "key": "c", "text": "La tarifa nocturna son 5 euros en festivos." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-ingles-2",
+          "number": 2,
+          "statement": "Shall I print a receipt?",
+          "options": [
+            { "key": "a", "text": "¿Le imprimo un recibo?" },
+            { "key": "b", "text": "¿Le cobro en efectivo?" },
+            { "key": "c", "text": "¿Le ayudo con el equipaje?" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-ingles-3",
+          "number": 3,
+          "statement": "Guárdese el cambio, por favor",
+          "options": [
+            { "key": "a", "text": "Our currency is the Euro." },
+            { "key": "b", "text": "Please, take me downtown" },
+            { "key": "c", "text": "Please, keep the change" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-ingles-4",
+          "number": 4,
+          "statement": "How much is the ride to the airport?",
+          "options": [
+            { "key": "a", "text": "Lléveme al aeropuerto." },
+            { "key": "b", "text": "¿Dónde está el aeropuerto?" },
+            { "key": "c", "text": "¿Cuánto cuesta al aeropuerto?" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2018-05-16-ingles-5",
+          "number": 5,
+          "statement": "¿Sabe el horario de apertura de la Alhambra?",
+          "options": [
+            { "key": "a", "text": "Do you know the times of the Alhambra?" },
+            { "key": "b", "text": "Do you know the opening times of the Alhambra?" },
+            { "key": "c", "text": "Do you know the closing times of the Alhambra?" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

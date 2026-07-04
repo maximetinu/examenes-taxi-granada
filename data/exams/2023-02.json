@@ -1,0 +1,615 @@
+{
+  "id": "2023-02",
+  "sourceFile": "2023-02_taxi-granada_examen.pdf",
+  "date": "2023-03-22",
+  "datePrecision": "day",
+  "convocatoria": null,
+  "organo": "Ayuntamiento de Granada",
+  "notes": "El id asignado por el orquestador es 2023-02 (mes) y la indicación era datePrecision 'month', pero la cabecera del documento muestra fecha completa 22/03/2023; siguiendo la guía (fecha del contenido, no del nombre) se usa date '2023-03-22' con datePrecision 'day'. Examen en blanco: sin respuestas marcadas ni plantilla correctora, por lo que todas las correctOption son null. Corregida errata evidente de OCR en la pregunta 36 opción c ('estableciadas' → 'establecidas').",
+  "docType": "examen",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Cuestionario general",
+      "questions": [
+        {
+          "id": "2023-02-general-1",
+          "number": 1,
+          "statement": "El tamaño de la tarjeta identificativa de conductor/a de auto-taxi será:",
+          "options": [
+            { "key": "a", "text": "A4" },
+            { "key": "b", "text": "A5" },
+            { "key": "c", "text": "A6" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-2",
+          "number": 2,
+          "statement": "Según la Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía, los consumidores tendrán derecho a:",
+          "options": [
+            { "key": "a", "text": "La protección, reconocimiento y realización de sus legítimos intereses económicos y sociales." },
+            { "key": "b", "text": "La especial protección en aquellas situaciones de inferioridad, subordinación o indefensión en que puedan encontrarse individual o colectivamente." },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-3",
+          "number": 3,
+          "statement": "¿Podrá un taxi del Área de Prestación Conjunta de Granada recoger pasajeros en el puerto de Motril, teniendo en cuenta que el puerto está en otro término municipal?",
+          "options": [
+            { "key": "a", "text": "Si, siempre que exista contratación previa." },
+            { "key": "b", "text": "No, porque siempre se debe iniciar el servicio en el ámbito del Área de Prestación Conjunta." },
+            { "key": "c", "text": "Depende de lo establecido en la Ordenanza Municipal." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-4",
+          "number": 4,
+          "statement": "¿Se puede aplicar la tarifa 2 un miércoles no festivo?",
+          "options": [
+            { "key": "a", "text": "No, sólo los festivos nacionales, autonómicos y locales." },
+            { "key": "b", "text": "Si, entre las 6 y las 22 horas." },
+            { "key": "c", "text": "Si, entre las 22 y las 6 horas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-5",
+          "number": 5,
+          "statement": "¿Cuál es la tarifa por cada hora de espera en un servicio urbano, un miércoles laborable a las 12:00 horas?",
+          "options": [
+            { "key": "a", "text": "33,09€" },
+            { "key": "b", "text": "14,60€" },
+            { "key": "c", "text": "21,16€" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-6",
+          "number": 6,
+          "statement": "En el interior del habitáculo del vehículo taxi y en lugar bien visible para el usuario llevará una placa esmaltada, en la que figurarán el número de licencia, la matrícula y el número de plazas autorizadas",
+          "options": [
+            { "key": "a", "text": "de dimensiones mínimas de 50 x 50 milímetros, con impresión blanca sobre fondo negro." },
+            { "key": "b", "text": "de dimensiones mínimas de 50 x 50 milímetros, con impresión negra sobre fondo blanco." },
+            { "key": "c", "text": "de dimensiones mínimas de 50 x 50 milímetros, con impresión verde sobre fondo blanco." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-7",
+          "number": 7,
+          "statement": "¿Se puede aplicar la tarifa especial nocturna un sábado cualquiera?",
+          "options": [
+            { "key": "a", "text": "No, sólo los festivos nacionales, autonómicos y locales." },
+            { "key": "b", "text": "Si, entre las 24 y las 10 horas." },
+            { "key": "c", "text": "Si, entre las 1 y las 6 horas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-8",
+          "number": 8,
+          "statement": "El suplemento por cada viajero que exceda del quinto, en vehículos de más de 5 plazas, es:",
+          "options": [
+            { "key": "a", "text": "0,51€" },
+            { "key": "b", "text": "1€" },
+            { "key": "c", "text": "0,75€" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-9",
+          "number": 9,
+          "statement": "¿Cual de los siguientes municipios no forma parte aún del Área de Prestación Conjunta:",
+          "options": [
+            { "key": "a", "text": "Las Gabias." },
+            { "key": "b", "text": "Cenes de la Vega." },
+            { "key": "c", "text": "Peligros." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-10",
+          "number": 10,
+          "statement": "La carrera mínima correspondiente a tarifa urbana especial nocturna asciende a:",
+          "options": [
+            { "key": "a", "text": "4,04 euros." },
+            { "key": "b", "text": "5,02 euros." },
+            { "key": "c", "text": "6,30 euros." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-11",
+          "number": 11,
+          "statement": "¿Debe llevarse en el vehículo auto-taxi el libro de quejas y reclamaciones?",
+          "options": [
+            { "key": "a", "text": "Si." },
+            { "key": "b", "text": "No." },
+            { "key": "c", "text": "Sólo si no se pueden presentar las reclamaciones por vía telemática." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-12",
+          "number": 12,
+          "statement": "¿Qué tarifa se aplicará a los servicios interurbanos que se desarrollen los lunes, martes, miércoles, jueves y viernes laborables en el periodo comprendido entre las 6:00 y las 22:00?",
+          "options": [
+            { "key": "a", "text": "Tarifa 6." },
+            { "key": "b", "text": "Tarifa 7." },
+            { "key": "c", "text": "Tarifa 8." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-13",
+          "number": 13,
+          "statement": "¿Que vehículos auto-taxi tienen la obligación de llevar las tarifas escritas en sistema Braille?",
+          "options": [
+            { "key": "a", "text": "Los vehículos adaptados." },
+            { "key": "b", "text": "Todos los vehículos." },
+            { "key": "c", "text": "Ningún vehículo." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-14",
+          "number": 14,
+          "statement": "¿Cuantas plazas se pueden autorizar a los vehículos auto-taxi accesibles para el transporte de personas en silla de ruedas?",
+          "options": [
+            { "key": "a", "text": "Hasta 6." },
+            { "key": "b", "text": "Hasta 8." },
+            { "key": "c", "text": "Hasta 9." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-15",
+          "number": 15,
+          "statement": "El Hotel Vincci Albaycín se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Avda. Constitución." },
+            { "key": "b", "text": "Plaza Isabel la Católica." },
+            { "key": "c", "text": "Carrera de la Virgen." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-16",
+          "number": 16,
+          "statement": "La Delegación Territorial de Cultura y Patrimonio Histórico de la Junta de Andalucía se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Paseo de la Bomba." },
+            { "key": "b", "text": "Gran Vía." },
+            { "key": "c", "text": "Plaza Gran Capitán." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-17",
+          "number": 17,
+          "statement": "La calle Melchor Almagro de Granada tiene sentido de circulación:",
+          "options": [
+            { "key": "a", "text": "Desde Avenida Fuente Nueva a Plaza Gran Capitán." },
+            { "key": "b", "text": "Desde Plaza Gran Capitán a Avda. Fuente Nueva." },
+            { "key": "c", "text": "Tiene ambos sentidos." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-18",
+          "number": 18,
+          "statement": "La sede del Colegio Oficial de Ingenieros Industriales se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Avda. Constitución." },
+            { "key": "b", "text": "Gran Vía." },
+            { "key": "c", "text": "Plaza de los Campos." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-19",
+          "number": 19,
+          "statement": "La parada de taxi más próxima al Hospital de la Inmaculada es:",
+          "options": [
+            { "key": "a", "text": "Santa María de la Alhambra." },
+            { "key": "b", "text": "Laguna de Cameros." },
+            { "key": "c", "text": "Doctor Alejandro Otero." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-20",
+          "number": 20,
+          "statement": "La Delegación Municipal de Deportes tiene su sede en:",
+          "options": [
+            { "key": "a", "text": "Campo de fútbol Nuevo Los Cármenes." },
+            { "key": "b", "text": "Palacio de Deportes." },
+            { "key": "c", "text": "C/ Aguas Bravas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-21",
+          "number": 21,
+          "statement": "La C/ Alhamar del municipio de Granada tiene sentido de circulación:",
+          "options": [
+            { "key": "a", "text": "Desde San Antón a Camino de Ronda." },
+            { "key": "b", "text": "Desde Camino de Ronda a San Antón." },
+            { "key": "c", "text": "Tiene ambos sentidos." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-22",
+          "number": 22,
+          "statement": "La Escuela Técnica Superior de Ingeniería de Caminos, Canales y Puertos se encuentra en:",
+          "options": [
+            { "key": "a", "text": "Campus Fuente Nueva." },
+            { "key": "b", "text": "Campus Cartuja." },
+            { "key": "c", "text": "Campus Aynadamar." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-23",
+          "number": 23,
+          "statement": "Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir a la parada más próxima del autobús de Santa Fe, con la intención de ir a ese municipio. ¿Donde debería llevarlo?",
+          "options": [
+            { "key": "a", "text": "Avda. Del Sur, 11." },
+            { "key": "b", "text": "Camino de Ronda, 1." },
+            { "key": "c", "text": "Avda. de Andalucía, 1." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-24",
+          "number": 24,
+          "statement": "Son las once de la mañana y a través de central solicitan un servicio en Carrera del Darro, nº11. Indique la respuesta correcta.",
+          "options": [
+            { "key": "a", "text": "Está prohibido el acceso al Albaicín de cualquier taxi a esta hora; no realizo el servicio." },
+            { "key": "b", "text": "Retraso el servicio hasta las once de la noche, porque si hago el servicio solicitado me multarían." },
+            { "key": "c", "text": "Realizo el servicio solicitado." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-25",
+          "number": 25,
+          "statement": "Efectúe el siguiente servicio por el recorrido más rápido y corto: Puerta Real de España hasta calle Ebro. (Elija la opción correcta.)",
+          "options": [
+            { "key": "a", "text": "Puerta Real de España, Acera del Darro, Paseo del Violón, Profesor Tierno Galván, Fontiveros, Andrés Segovia, Carlos V, calle Torre de Comares, calle Pintor Maldonado y calle Ebro." },
+            { "key": "b", "text": "Calle Recogidas, Neptuno, Circunvalación de Granada, Ronda Sur, calle de la Sultana, Torre de Comares, calle Ebro." },
+            { "key": "c", "text": "Cañaveral, Camino de Ronda, rotonda de la Aviación Española, Paseo del Violón, calle Antonio Dalmases, calle Profesor Tierno Galván, Avenida de América, Carretera de Dílar." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-26",
+          "number": 26,
+          "statement": "La parada de taxi más cercana del Mirador de San Nicolás está en:",
+          "options": [
+            { "key": "a", "text": "Cjón. Atarazana." },
+            { "key": "b", "text": "Cjón. San Nicolás." },
+            { "key": "c", "text": "C/ Espaldas de San Nicolás." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-27",
+          "number": 27,
+          "statement": "Si tenemos que llevar a una persona al centro de salud de Maracena, tendremos que llevarla a la siguiente calle:",
+          "options": [
+            { "key": "a", "text": "C/ Margarita Nelken." },
+            { "key": "b", "text": "Cmno. de los Eriales." },
+            { "key": "c", "text": "Avda. Dolores Ibárruri “Pasionaria”." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-28",
+          "number": 28,
+          "statement": "¿Dónde se ubica el Teatro Alhambra?:",
+          "options": [
+            { "key": "a", "text": "C/ Molinos, número 56." },
+            { "key": "b", "text": "C/ Santiago, número 11." },
+            { "key": "c", "text": "C/ San Matías, número 23." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-29",
+          "number": 29,
+          "statement": "¿Donde está ubicado el Centro Federico García Lorca de Granada?",
+          "options": [
+            { "key": "a", "text": "Plaza de la Romanilla, s/n." },
+            { "key": "b", "text": "Plaza de los Campos, s/n." },
+            { "key": "c", "text": "Plaza Aliatar, s/n." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-30",
+          "number": 30,
+          "statement": "Qué dirección tiene la C/ Gonzalo Gallas:",
+          "options": [
+            { "key": "a", "text": "Dirección Avenida Fuente Nueva a Gabriel Miró." },
+            { "key": "b", "text": "Dirección Gabriel Miró a Avenida Fuente Nueva." },
+            { "key": "c", "text": "Depende del tramo." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-31",
+          "number": 31,
+          "statement": "Según el artículo 2 de la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en automóviles de turismo auto-taxis en el municipio de Granada – BOP nº25, Granada, lunes 8 de febrero de 2021- se entiende por servicio urbano, (marque la respuesta correcta):",
+          "options": [
+            { "key": "a", "text": "El que se contrata dentro del término municipal de Granada y no sale del municipio." },
+            { "key": "b", "text": "El que se desarrolla íntegramente dentro del término municipal de Granada, o en su caso del Área de Prestación Conjunta de Granada." },
+            { "key": "c", "text": "El que se contrata y se desarrolla dentro del Área de Prestación Conjunta. Si bien se admite que pueda salir un poco (menos de un 5% del trayecto)." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-32",
+          "number": 32,
+          "statement": "Según el artículo 22 de la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en automóviles de turismo auto-taxis en el municipio de Granada, la capacidad mínima del maletero será de:",
+          "options": [
+            { "key": "a", "text": "330 litros." },
+            { "key": "b", "text": "200 litros." },
+            { "key": "c", "text": "300 litros." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-33",
+          "number": 33,
+          "statement": "Abrir o cerrar los cristales a indicación del usuario; ayudar a salir y a apearse del vehículo a los ancianos, enfermos, inválidos, niños y en general a cuantas personas lo precisen por su estado físico; recoger y colocar adecuadamente las maletas y demás bultos de equipaje; encender la luz interior del vehículo por la noche, para facilitar la subida y bajada y el pago del servicio; bajar el volumen del receptor de radio a voluntad del pasajero. Son:",
+          "options": [
+            { "key": "a", "text": "Recomendaciones de carácter general que nada tienen que ver con el servicio de taxi." },
+            { "key": "b", "text": "Normas generales que no obligan al conductor de taxi." },
+            { "key": "c", "text": "Obligaciones del conductor de taxi." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-34",
+          "number": 34,
+          "statement": "¿Qué deberán llevar los vehículos según la Ordenanza reguladora del servicio de transporte público de viajeros y viajeras en automóviles de turismo auto-taxi en el municipio de Granada?",
+          "options": [
+            { "key": "a", "text": "Rueda de recambio en buen estado, herramientas o kit de pinchazo." },
+            { "key": "b", "text": "Mampara separadora transparente." },
+            { "key": "c", "text": "Sistema de posicionamiento global por satélite (GPS) debidamente homologado." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-general-35",
+          "number": 35,
+          "statement": "Según la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada, la tarjeta de identificación de conductor de taxi, siempre que se está prestando el servicio, se colocará en:",
+          "options": [
+            { "key": "a", "text": "La parte inferior derecha de la luna delantera del vehículo." },
+            { "key": "b", "text": "Delante de la guantera del vehículo." },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Cuestionario de inglés",
+      "questions": [
+        {
+          "id": "2023-02-ingles-1",
+          "number": 1,
+          "statement": "Aquí tiene su cambio, gracias.",
+          "options": [
+            { "key": "a", "text": "Here is your casch, thank you." },
+            { "key": "b", "text": "Here is your share, thank you." },
+            { "key": "c", "text": "Here is your change, thank you." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-ingles-2",
+          "number": 2,
+          "statement": "On weekdays, rate one applies.",
+          "options": [
+            { "key": "a", "text": "Los fines de semana se aplica la tarifa uno." },
+            { "key": "b", "text": "Los días laborables se aplica la tarifa uno." },
+            { "key": "c", "text": "En esta semana se aplicará sólo una tarifa." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-ingles-3",
+          "number": 3,
+          "statement": "¿Se pueden llevar mascotas?",
+          "options": [
+            { "key": "a", "text": "Can I take my pet with me?" },
+            { "key": "b", "text": "May I walk my pet?" },
+            { "key": "c", "text": "May I walking my pet?" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-ingles-4",
+          "number": 4,
+          "statement": "The minimum race of the two tariff is 5,02€",
+          "options": [
+            { "key": "a", "text": "La carrera mínima en la terminal dos es de €5,02" },
+            { "key": "b", "text": "La carrera mínima de la tarifa dos es de €5,02" },
+            { "key": "c", "text": "La mínima carrera de las dos tarifas es de €5,02" }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-ingles-5",
+          "number": 5,
+          "statement": "Póngase el cinturón de seguridad, por favor.",
+          "options": [
+            { "key": "a", "text": "Put down your head set, please." },
+            { "key": "b", "text": "Put off your mask, please." },
+            { "key": "c", "text": "Put on your seat belt, please." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "reserva",
+      "title": "Preguntas de reserva",
+      "questions": [
+        {
+          "id": "2023-02-reserva-36",
+          "number": 36,
+          "statement": "Atendiendo al artículo 43 de la Ordenanza municipal, señale la opción correcta.",
+          "options": [
+            { "key": "a", "text": "Se prohíbe recoger viajeros en puntos que disten menos de cien metros de las paradas oficiales establecidas, salvo en el caso de que dichas paradas se encuentren desiertas por no existir vehículos." },
+            { "key": "b", "text": "Se prohíbe recoger viajeros en puntos que disten menos de cincuenta metros de las paradas oficiales establecidas, salvo en el caso de que dichas paradas se encuentren desiertas por no existir vehículos." },
+            { "key": "c", "text": "Se prohíbe recoger viajeros en puntos que disten menos de cincuenta metros de las paradas oficiales establecidas, en cualquier caso." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-reserva-37",
+          "number": 37,
+          "statement": "¿Cuántos municipios integran el Área de Prestación Conjunta de Granada, incluyendo el municipio de Granada?",
+          "options": [
+            { "key": "a", "text": "5." },
+            { "key": "b", "text": "7." },
+            { "key": "c", "text": "8." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-reserva-38",
+          "number": 38,
+          "statement": "La falta de visado en el plazo de dos meses, contados a partir de la fecha que corresponda de forma ordinaria, determinará la apertura del procedimiento para:",
+          "options": [
+            { "key": "a", "text": "Procedimiento sancionador." },
+            { "key": "b", "text": "Suspensión de la licencia." },
+            { "key": "c", "text": "Declaración de caducidad de la licencia." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-reserva-39",
+          "number": 39,
+          "statement": "Cuando en el transcurso del servicio se produzca algún accidente, avería o detención no imputable al usuario, que momentánea o temporalmente lo interrumpe, se procederá:",
+          "options": [
+            { "key": "a", "text": "Parando el taxímetro, y una vez reanudado el servicio tras la detención, el usuario estará obligado a pagar el importe de la nueva bajada de bandera. Es decir el importe del total contabilizado para el servicio." },
+            { "key": "b", "text": "Parando el taxímetro, y una vez reanudado el servicio tras la detención, el usuario no estará obligado a pagar el importe de esta nueva bajada de bandera, por lo que será descontado su importe del total del servicio." },
+            { "key": "c", "text": "Continuará funcionando el taxímetro y descontará un importe del total del servicio." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2023-02-reserva-40",
+          "number": 40,
+          "statement": "Dentro de las características técnicas de los vehículos y a tenor de lo dispuesto en la Ordenanza municipal vigente ¿Puede instalarse una mampara separadora entre el conductor y los usuarios?",
+          "options": [
+            { "key": "a", "text": "No, en ningún caso." },
+            { "key": "b", "text": "Si, además es obligatorio." },
+            { "key": "c", "text": "Es voluntario, sin perjuicio de que pueda exigirse si las condiciones sanitarias lo exigen." }
+          ],
+          "correctOption": null,
+          "explanation": null,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

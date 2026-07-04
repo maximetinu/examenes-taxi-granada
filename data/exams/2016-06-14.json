@@ -1,0 +1,524 @@
+{
+  "id": "2016-06-14",
+  "sourceFile": "2016-06-14_taxi-granada_examen-resuelto.pdf",
+  "date": "2016-06-14",
+  "datePrecision": "day",
+  "convocatoria": "junio 2016",
+  "organo": "Ayuntamiento de Granada",
+  "notes": "Documento escaneado. La respuesta correcta de la prueba general está marcada a mano con un círculo (no en negrita). La prueba de inglés es de traducción (respuesta abierta manuscrita), no de opción múltiple: se recoge como sección 'ingles' con options vacío, correctOption null y la traducción modelo manuscrita en explanation.",
+  "docType": "examen-resuelto",
+  "sections": [
+    {
+      "kind": "general",
+      "title": "Prueba en materias generales",
+      "questions": [
+        {
+          "id": "2016-06-14-general-1",
+          "number": 1,
+          "statement": "Como se define, en el Reglamento Andaluz del Taxi, el servicio de taxi o auto-taxi:",
+          "options": [
+            { "key": "a", "text": "transporte público discrecional de transporte de viajeros y viajeras en automóviles de turismo, prestado en régimen de actividad privada." },
+            { "key": "b", "text": "transporte privado discrecional de transporte de viajeros y viajeras en automóviles de turismo, prestado en régimen de actividad pública." },
+            { "key": "c", "text": "transporte público de viajeros y viajeras sin itinerario fijo prestado en automóviles de turismo mediante precio y en régimen de concesión administrativa." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-2",
+          "number": 2,
+          "statement": "¿Puede la persona titular de licencia de taxi arrendar la explotación de la misma?",
+          "options": [
+            { "key": "a", "text": "Solo en casos justificados de accidente o avería, enfermedad o, en general, cualquier circunstancia que impida o haga imposible la continuidad en la prestación del servicio, suficientemente acreditada." },
+            { "key": "b", "text": "Solo en favor del conductor asalariado." },
+            { "key": "c", "text": "No, en ningún caso." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-3",
+          "number": 3,
+          "statement": "¿Por qué causas se extinguen las licencias de taxi?",
+          "options": [
+            { "key": "a", "text": "Por renuncia de su titular." },
+            { "key": "b", "text": "Por caducidad." },
+            { "key": "c", "text": "a y b son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-4",
+          "number": 4,
+          "statement": "A tenor de lo dispuesto en la Ordenanza Municipal ¿cómo adjudicará las licencias de auto-taxi el Ayuntamiento de Granada?:",
+          "options": [
+            { "key": "a", "text": "mediante concurso subasta" },
+            { "key": "b", "text": "mediante concurso público" },
+            { "key": "c", "text": "mediante adjudicación directa." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-5",
+          "number": 5,
+          "statement": "Según el régimen de visado, la vigencia de las licencias de auto taxi queda condicionada a:",
+          "options": [
+            { "key": "a", "text": "La aportación por parte del titular de la licencia que el vehículo ha pasado la ITV y reúne los requisitos necesarios para prestar el servicio." },
+            { "key": "b", "text": "La constatación anual por parte del Ayuntamiento, o ente que asuma sus funciones en esta materia, del mantenimiento de las condiciones que justificaron su otorgamiento." },
+            { "key": "c", "text": "En vehículos nuevos la constatación cada cinco años del mantenimiento de las condiciones que justificaron su otorgamiento. Transcurrido dicho plazo la licencia queda condicionada a la constatación anual por parte del Ayuntamiento, o ente que asuma sus funciones, del mantenimiento de las condiciones que justificaron su otorgamiento." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-6",
+          "number": 6,
+          "statement": "Según la Ordenanza Reguladora del Servicio de Transporte Público de Viajeros y Viajeras en Automóviles de Turismo Auto-Taxis en el Municipio de Granada ¿cómo se define el \"Asalariado o asalariada\"?:",
+          "options": [
+            { "key": "a", "text": "Persona que es contratada por el titular de la licencia para la realización de los servicios de taxi en los supuestos y con los requisitos que se determinen en esta Ordenanza." },
+            { "key": "b", "text": "Aquellas autorizadas para la conducción en el servicio del taxi, en régimen especial de colaboración con el titular de la licencia, en los supuestos y con los requisitos que se determinen en la Ordenanza." },
+            { "key": "c", "text": "Persona que materialmente lleva a cabo la prestación del servicio de taxi, bien en su condición de titular o en su cualidad de asalariada o de autónoma colaboradora, debidamente autorizada por este Ayuntamiento." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-7",
+          "number": 7,
+          "statement": "En los supuestos de concertación previa... ¿cuándo se considera iniciado el servicio?",
+          "options": [
+            { "key": "a", "text": "Desde que el usuario accede al vehículo." },
+            { "key": "b", "text": "Desde la adjudicación del servicio." },
+            { "key": "c", "text": "Desde la bajada de bandera." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-8",
+          "number": 8,
+          "statement": "Cuando vayamos a recoger alguna persona en caso de concertación previa ¿podemos exigir alguna cantidad al usuario?",
+          "options": [
+            { "key": "a", "text": "No en ningún caso." },
+            { "key": "b", "text": "Como máximo la cantidad que en cada momento venga determinada en las tarifas para cada horario como concepto de \"bajada de bandera\"." },
+            { "key": "c", "text": "Como máximo el doble de la cantidad que en cada momento venga determinada en las tarifas para cada horario como concepto de \"bajada de bandera\"." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-9",
+          "number": 9,
+          "statement": "A tenor de la Ordenanza Municipal del Taxi de Granada, la persona conductora tendrá derecho a no esperar, contados a partir del momento en que llegue al punto acordado,",
+          "options": [
+            { "key": "a", "text": "más de cinco minutos." },
+            { "key": "b", "text": "más de diez minutos." },
+            { "key": "c", "text": "más de quince minutos." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-10",
+          "number": 10,
+          "statement": "Según la Ordenanza Municipal; junto a las tarifas ordinarias ¿por qué conceptos puede un taxista percibir suplementos?",
+          "options": [
+            { "key": "a", "text": "Por cada maleta o bulto, por salida de aeropuerto o estaciones de ferrocarril o autobuses, por servicio especial al recinto de la Alhambra y viceversa, y por aquellos otros que pudiera aprobar el Ayuntamiento de Granada." },
+            { "key": "b", "text": "Por cada maleta o bulto, por salida de aeropuerto o estaciones de ferrocarril o autobuses y por aquellos otros que pudiera aprobar el Ayuntamiento de Granada." },
+            { "key": "c", "text": "Por cada maleta o bulto, por salida de aeropuerto y por aquellos otros que pudiera aprobar el Ayuntamiento de Granada." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-11",
+          "number": 11,
+          "statement": "Todas las personas físicas o jurídicas que, en el sector público o en el privado, suministren bienes o servicios disponibles para el público, ofrecidos fuera del ámbito de la vida privada y familiar:",
+          "options": [
+            { "key": "a", "text": "Estarán obligadas, en sus actividades y en las transacciones consiguientes, al cumplimiento del principio de igualdad de oportunidades de las personas con discapacidad, propiciando discriminaciones indirectas por motivo de o por razón de discapacidad." },
+            { "key": "b", "text": "Estarán obligadas, en sus actividades y en las transacciones consiguientes, al cumplimiento del principio de igualdad de oportunidades de las personas con discapacidad, evitando discriminaciones, directas o indirectas, por motivo de o por razón de discapacidad." },
+            { "key": "c", "text": "No estarán obligadas, en sus actividades y en las transacciones consiguientes, al cumplimiento del principio de oportunidad de las personas con discapacidad, evitando discriminaciones indirectas, por motivo de o por razón de discapacidad." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-12",
+          "number": 12,
+          "statement": "Los taxis adaptados prestarán servicio:",
+          "options": [
+            { "key": "a", "text": "de forma prioritaria a las personas con discapacidad" },
+            { "key": "b", "text": "de forma exclusiva a las personas con discapacidad" },
+            { "key": "c", "text": "de forma indistinta a las personas con discapacidad y sin discapacidad, sin prioridad alguna." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-13",
+          "number": 13,
+          "statement": "Los taxis adaptados o eurotaxis estarán acondicionados para que pueda viajar en el mismo una persona en su propia silla de ruedas y permita viajar a este pasajero:",
+          "options": [
+            { "key": "a", "text": "de espaldas al sentido de la marcha" },
+            { "key": "b", "text": "de frente al sentido de la marcha" },
+            { "key": "c", "text": "las dos respuestas anteriores son correctas" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-14",
+          "number": 14,
+          "statement": "El Decreto 293/2009, de 7 de julio aprueba:",
+          "options": [
+            { "key": "a", "text": "El Reglamento de hojas de quejas y reclamaciones de las personas consumidoras y usuarias en Andalucía y las actuaciones administrativas relacionadas con ellas." },
+            { "key": "b", "text": "El Reglamento de los servicios de transporte público de viajeros y viajeras en automóviles de turismo." },
+            { "key": "c", "text": "El Reglamento que regula las normas para la accesibilidad en las infraestructuras, el urbanismo, la edificación y el transporte en Andalucía." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-15",
+          "number": 15,
+          "statement": "Cuando una persona consumidora del transporte en autotaxi quiere poner una reclamación a través de la correspondiente hoja de quejas y reclamaciones, el conductor del taxi deberá facilitar la correspondiente hoja a la reclamante y:",
+          "options": [
+            { "key": "a", "text": "Ambas partes deberán firmar la hoja" },
+            { "key": "b", "text": "El reclamante deberá firmar la hoja y sin que el conductor tenga obligación de firmarla" },
+            { "key": "c", "text": "Si el conductor firma la hoja de reclamaciones se considera que acepta la versión de los hechos de la persona reclamante." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-16",
+          "number": 16,
+          "statement": "Será competente para tramitar las quejas y reclamaciones",
+          "options": [
+            { "key": "a", "text": "La Delegación Provincial de la Consejería competente en materia de consumo" },
+            { "key": "b", "text": "La Oficina de Información al Consumidor correspondiente al domicilio de la persona consumidora." },
+            { "key": "c", "text": "A elección de la persona consumidora, cualquiera de las dos anteriores." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-17",
+          "number": 17,
+          "statement": "La queja o reclamación podrá ser archivada por:",
+          "options": [
+            { "key": "a", "text": "Avenencia de las partes a través del sometimiento de la controversia a mediación o a arbitraje" },
+            { "key": "b", "text": "El desistimiento de la parte reclamante o el acuerdo directo entre ambas" },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-18",
+          "number": 18,
+          "statement": "¿Quién será responsable de la colocación de los anclajes y cinturones de seguridad en los vehículos adaptados de las personas que usan silla de ruedas?",
+          "options": [
+            { "key": "a", "text": "El conductor" },
+            { "key": "b", "text": "El titular de la licencia" },
+            { "key": "c", "text": "La persona usuaria" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-19",
+          "number": 19,
+          "statement": "Son derechos de los consumidores, en el ámbito de la aplicación la Ley 13/2003, de 17 de diciembre, de Defensa y Protección de los Consumidores y Usuarios de Andalucía:",
+          "options": [
+            { "key": "a", "text": "La efectiva protección frente a las actuaciones que por acción u omisión ocasionen riesgos o daños que puedan afectar a la salud, al medio ambiente, o a la seguridad de los consumidores." },
+            { "key": "b", "text": "La indemnización y reparación efectiva de daños y perjuicios producidos en los bienes, derechos o intereses que esta Ley tutela, de conformidad con la legislación vigente." },
+            { "key": "c", "text": "Las dos respuestas anteriores son correctas." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-20",
+          "number": 20,
+          "statement": "El arbitraje de las reclamaciones del consumidor ante la Junta Arbitral de Transportes:",
+          "options": [
+            { "key": "a", "text": "Es un derecho del consumidor/a" },
+            { "key": "b", "text": "Es una obligación del consumidor/a" },
+            { "key": "c", "text": "No es un derecho ni una obligación del conductor" }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-21",
+          "number": 21,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y Primaria Arrayanes (C.E.I.P).",
+          "options": [
+            { "key": "a", "text": "Calle Rector Marín Ocete, n° 1." },
+            { "key": "b", "text": "Calle Merced Alta, s/n." },
+            { "key": "c", "text": "Calle Casería de Aguirre, n° 40." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-22",
+          "number": 22,
+          "statement": "Un usuario toma nuestro taxi en la estación de autobuses y nos solicita ir al intercambiador de transporte metropolitano dónde pueda tomar el autobús a la Zubia. El destino será:",
+          "options": [
+            { "key": "a", "text": "Avenida de Dílar, s/n." },
+            { "key": "b", "text": "Camino de Ronda, n° 1, aproximadamente." },
+            { "key": "c", "text": "Calle Profesor Tierno Galván, frente núm. 3." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-23",
+          "number": 23,
+          "statement": "El conservatorio profesional de música Ángel Barrios está situado en:",
+          "options": [
+            { "key": "a", "text": "En la calle Ángel Barrios" },
+            { "key": "b", "text": "La calle Torre de los Picos, n° 6." },
+            { "key": "c", "text": "La calle San Jerónimo, n° 46." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-24",
+          "number": 24,
+          "statement": "Nos solicitan ir a la Delegación Territorial de Fomento y Vivienda en Granada, el destino correcto es:",
+          "options": [
+            { "key": "a", "text": "Edificio \"Almanjáyar\". Avenida Joaquina Eguaras, núm. 2." },
+            { "key": "b", "text": "Edificio \"La Normal\". Calle Gran Vía de Colón, s/n." },
+            { "key": "c", "text": "Ninguna de las anteriores, la Delegación Territorial está en Sevilla." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-25",
+          "number": 25,
+          "statement": "El Hotel Villa Oniria se localiza en:",
+          "options": [
+            { "key": "a", "text": "Calle San Antón, n° 28. 18.005-GRANADA" },
+            { "key": "b", "text": "Calle Molinos, n° 12. 18.009-GRANADA." },
+            { "key": "c", "text": "Este hotel no existe." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-26",
+          "number": 26,
+          "statement": "Nos solicitan una recogida en la glorieta Festival de Música y Danza, nos dirigimos a:",
+          "options": [
+            { "key": "a", "text": "La confluencia de la avenida Severo Ochoa, la avenida de Fuente Nueva y la calle Santa Bárbara." },
+            { "key": "b", "text": "La calle Félix Rodríguez de la Fuente, junto al asilo de ancianos \"Hermanitas de los Pobres\"." },
+            { "key": "c", "text": "El Paseo del Generalife, junto al Paseo de los Mártires." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-27",
+          "number": 27,
+          "statement": "La dirección del Hostal Atenas es:",
+          "options": [
+            { "key": "a", "text": "Calle Gran Vía de Colón, n° 38." },
+            { "key": "b", "text": "Paseo de los Mártires, s/n." },
+            { "key": "c", "text": "Camino de las Peñuelas." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-28",
+          "number": 28,
+          "statement": "Efectúe el siguiente servicio por el recorrido más corto: Estación de autobuses de Granada a Hotel Dauro. (elija la opción correcta)",
+          "options": [
+            { "key": "a", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, av. Francisco Ayala, Pintor Francisco Pradilla, av. de Andalucía, av. de la Constitución, av. Severo Ochoa." },
+            { "key": "b", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, Av. Francisco Ayala, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Avenida Fuente Nueva." },
+            { "key": "c", "text": "Av. Juan Pablo II, av. Luis Miranda Dávalos, calle Luís Amador, Pintor Francisco Pradilla, Calle Cruz del Sur, Camino de Ronda, Paseo del Violón, Acera del Darro." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-29",
+          "number": 29,
+          "statement": "Efectúe el siguiente servicio por el recorrido más rápido y corto: Puerta Real de España hasta calle Ebro. (elija la opción correcta)",
+          "options": [
+            { "key": "a", "text": "Calle Recogidas, Neptuno, Circunvalación de Granada, Ronda Sur, calle de la Sultana, Torre de Comares, calle Ebro." },
+            { "key": "b", "text": "Cañaveral, Cmno. de Ronda, rotonda de la Aviación Española, Paseo del Violón, calle Antonio Dalmases, calle Profesor Tierno Galván, avenida de América, carretera de Dílar." },
+            { "key": "c", "text": "Acera del Darro, Paseo del Violón, Profesor Tierno Galván, Fontiveros, Andrés Segovia, Carlos V, calle Torre de Comares" }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-30",
+          "number": 30,
+          "statement": "La dirección de la Facultad de Ciencias de la Salud de Granada es:",
+          "options": [
+            { "key": "a", "text": "Avenida de la Ilustración, n° 60. Parque Tecnológico de la Salud." },
+            { "key": "b", "text": "Avenida del Conocimiento, n° 11. Parque Tecnológico de la Salud." },
+            { "key": "c", "text": "Avenida de la Universidad, s/n. Parque Tecnológico de la Salud." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-31",
+          "number": 31,
+          "statement": "Indique la dirección correcta para el siguiente destino: Colegio de Educación Infantil y Primaria Federico García Lorca (C.E.I.P).",
+          "options": [
+            { "key": "a", "text": "Calle Poeta César Vallejo, n° 6" },
+            { "key": "b", "text": "Calle Rector Marín Ocete, n° 1." },
+            { "key": "c", "text": "Calle García Lorca, n° 40." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-32",
+          "number": 32,
+          "statement": "Indique la dirección correcta para el siguiente destino: Instituto Miguel de Cervantes.",
+          "options": [
+            { "key": "a", "text": "Este instituto no está en Granada." },
+            { "key": "b", "text": "Camino de los Neveros, n° 1." },
+            { "key": "c", "text": "Calle Profesor Albareda, s/n." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-33",
+          "number": 33,
+          "statement": "Un usuario desea tomar el transporte metropolitano para ir a Jun y nos pide que lo llevemos a la parada desde dónde parte (intercambiador). Su destino será:",
+          "options": [
+            { "key": "a", "text": "Paseos universitarios." },
+            { "key": "b", "text": "Avenida de Severo Ochoa." },
+            { "key": "c", "text": "Calle Capitán Moreno." }
+          ],
+          "correctOption": "c",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-34",
+          "number": 34,
+          "statement": "Nos solicitan ir al Centro de día \"Buenos Aires\", junto a la Confederación Granadina de Empresarios, el destino correcto es:",
+          "options": [
+            { "key": "a", "text": "Calle Maestro Montero." },
+            { "key": "b", "text": "Calle Eudoxia Píriz." },
+            { "key": "c", "text": "Avenida de la Argentinita." }
+          ],
+          "correctOption": "b",
+          "explanation": null,
+          "image": null
+        },
+        {
+          "id": "2016-06-14-general-35",
+          "number": 35,
+          "statement": "Efectúe el siguiente servicio por el recorrido más rápido y corto: Puerta Real de España hasta la Cámara de Comercio de Granada. (elija la opción correcta)",
+          "options": [
+            { "key": "a", "text": "Calle Reyes Católicos, Gran Vía de Colón, avenida de la Constitución, avenida de Andalucía, calle Luís Amador." },
+            { "key": "b", "text": "Calle Recogidas, Camino de Ronda, calle Cruz del Sur, calle Luís Amador." },
+            { "key": "c", "text": "Calle Recogidas, Neptuno, circunvalación de Granada a-44, avenida Juan Pablo II, Luis Miranda Dávalos." }
+          ],
+          "correctOption": "a",
+          "explanation": null,
+          "image": null
+        }
+      ]
+    },
+    {
+      "kind": "ingles",
+      "title": "Prueba de inglés",
+      "questions": [
+        {
+          "id": "2016-06-14-ingles-1",
+          "number": 1,
+          "statement": "Good afternoon, Where do you want to go?",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Buenas tardes, ¿dónde quiere ir?",
+          "image": null
+        },
+        {
+          "id": "2016-06-14-ingles-2",
+          "number": 2,
+          "statement": "¿Cuánto tiempo dura el viaje?",
+          "options": [],
+          "correctOption": null,
+          "explanation": "How long will the journey take? / How long is the ride? / How far is it?",
+          "image": null
+        },
+        {
+          "id": "2016-06-14-ingles-3",
+          "number": 3,
+          "statement": "¿Me puede esperar aquí?",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Could you wait for me here? / Will you wait here?",
+          "image": null
+        },
+        {
+          "id": "2016-06-14-ingles-4",
+          "number": 4,
+          "statement": "Could you take me to the city centre?",
+          "options": [],
+          "correctOption": null,
+          "explanation": "¿Podría llevarme al centro de la ciudad?",
+          "image": null
+        },
+        {
+          "id": "2016-06-14-ingles-5",
+          "number": 5,
+          "statement": "Gracias por visitarnos.",
+          "options": [],
+          "correctOption": null,
+          "explanation": "Thank you for visiting us / Thank you for your visit.",
+          "image": null
+        }
+      ]
+    }
+  ]
+}

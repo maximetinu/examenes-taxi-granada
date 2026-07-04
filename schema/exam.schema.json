@@ -1,0 +1,662 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Exámenes taxi Granada",
+  "definitions": {
+    "ExamDocument": {
+      "anyOf": [
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "minLength": 1
+            },
+            "sourceFile": {
+              "type": "string",
+              "minLength": 1
+            },
+            "date": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}(-\\d{2})?$"
+            },
+            "datePrecision": {
+              "type": "string",
+              "enum": [
+                "day",
+                "month"
+              ]
+            },
+            "convocatoria": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "default": null
+            },
+            "organo": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "default": null
+            },
+            "notes": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "default": null
+            },
+            "docType": {
+              "type": "string",
+              "enum": [
+                "examen",
+                "examen-resuelto"
+              ]
+            },
+            "sections": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "kind": {
+                    "type": "string",
+                    "enum": [
+                      "general",
+                      "ingles",
+                      "reserva"
+                    ]
+                  },
+                  "title": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "questions": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "id": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "number": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0
+                        },
+                        "statement": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "options": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "key": {
+                                "type": "string",
+                                "enum": [
+                                  "a",
+                                  "b",
+                                  "c",
+                                  "d"
+                                ]
+                              },
+                              "text": {
+                                "type": "string",
+                                "minLength": 1
+                              }
+                            },
+                            "required": [
+                              "key",
+                              "text"
+                            ],
+                            "additionalProperties": false
+                          }
+                        },
+                        "correctOption": {
+                          "anyOf": [
+                            {
+                              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/sections/items/properties/questions/items/properties/options/items/properties/key"
+                            },
+                            {
+                              "type": "null"
+                            }
+                          ]
+                        },
+                        "explanation": {
+                          "type": [
+                            "string",
+                            "null"
+                          ],
+                          "default": null
+                        },
+                        "image": {
+                          "type": [
+                            "string",
+                            "null"
+                          ],
+                          "default": null
+                        }
+                      },
+                      "required": [
+                        "id",
+                        "number",
+                        "statement",
+                        "options",
+                        "correctOption"
+                      ],
+                      "additionalProperties": false
+                    }
+                  }
+                },
+                "required": [
+                  "kind",
+                  "title",
+                  "questions"
+                ],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": [
+            "id",
+            "sourceFile",
+            "date",
+            "datePrecision",
+            "docType",
+            "sections"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/id"
+            },
+            "sourceFile": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/sourceFile"
+            },
+            "date": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/date"
+            },
+            "datePrecision": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/datePrecision"
+            },
+            "convocatoria": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/convocatoria"
+            },
+            "organo": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/organo"
+            },
+            "notes": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/notes"
+            },
+            "docType": {
+              "type": "string",
+              "const": "plantilla"
+            },
+            "answerKey": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "section": {
+                    "$ref": "#/definitions/ExamDocument/anyOf/0/properties/sections/items/properties/kind"
+                  },
+                  "number": {
+                    "type": "integer",
+                    "exclusiveMinimum": 0
+                  },
+                  "correct": {
+                    "$ref": "#/definitions/ExamDocument/anyOf/0/properties/sections/items/properties/questions/items/properties/options/items/properties/key"
+                  }
+                },
+                "required": [
+                  "section",
+                  "number",
+                  "correct"
+                ],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": [
+            "id",
+            "sourceFile",
+            "date",
+            "datePrecision",
+            "docType",
+            "answerKey"
+          ],
+          "additionalProperties": false
+        },
+        {
+          "type": "object",
+          "properties": {
+            "id": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/id"
+            },
+            "sourceFile": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/sourceFile"
+            },
+            "date": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/date"
+            },
+            "datePrecision": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/datePrecision"
+            },
+            "convocatoria": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/convocatoria"
+            },
+            "organo": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/organo"
+            },
+            "notes": {
+              "$ref": "#/definitions/ExamDocument/anyOf/0/properties/notes"
+            },
+            "docType": {
+              "type": "string",
+              "const": "resultados"
+            },
+            "summary": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "required": [
+            "id",
+            "sourceFile",
+            "date",
+            "datePrecision",
+            "docType",
+            "summary"
+          ],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "Dataset": {
+      "type": "object",
+      "properties": {
+        "schemaVersion": {
+          "type": "integer",
+          "exclusiveMinimum": 0
+        },
+        "generatedFrom": {
+          "type": "string"
+        },
+        "counts": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "number"
+          }
+        },
+        "documents": {
+          "type": "array",
+          "items": {
+            "anyOf": [
+              {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "sourceFile": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "date": {
+                    "type": "string",
+                    "pattern": "^\\d{4}-\\d{2}(-\\d{2})?$"
+                  },
+                  "datePrecision": {
+                    "type": "string",
+                    "enum": [
+                      "day",
+                      "month"
+                    ]
+                  },
+                  "convocatoria": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "default": null
+                  },
+                  "organo": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "default": null
+                  },
+                  "notes": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "default": null
+                  },
+                  "docType": {
+                    "type": "string",
+                    "enum": [
+                      "examen",
+                      "examen-resuelto"
+                    ]
+                  },
+                  "sections": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "kind": {
+                          "type": "string",
+                          "enum": [
+                            "general",
+                            "ingles",
+                            "reserva"
+                          ]
+                        },
+                        "title": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "questions": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "id": {
+                                "type": "string",
+                                "minLength": 1
+                              },
+                              "number": {
+                                "type": "integer",
+                                "exclusiveMinimum": 0
+                              },
+                              "statement": {
+                                "type": "string",
+                                "minLength": 1
+                              },
+                              "options": {
+                                "type": "array",
+                                "items": {
+                                  "type": "object",
+                                  "properties": {
+                                    "key": {
+                                      "type": "string",
+                                      "enum": [
+                                        "a",
+                                        "b",
+                                        "c",
+                                        "d"
+                                      ]
+                                    },
+                                    "text": {
+                                      "type": "string",
+                                      "minLength": 1
+                                    }
+                                  },
+                                  "required": [
+                                    "key",
+                                    "text"
+                                  ],
+                                  "additionalProperties": false
+                                }
+                              },
+                              "correctOption": {
+                                "anyOf": [
+                                  {
+                                    "$ref": "#/properties/documents/items/anyOf/0/properties/sections/items/properties/questions/items/properties/options/items/properties/key"
+                                  },
+                                  {
+                                    "type": "null"
+                                  }
+                                ]
+                              },
+                              "explanation": {
+                                "type": [
+                                  "string",
+                                  "null"
+                                ],
+                                "default": null
+                              },
+                              "image": {
+                                "type": [
+                                  "string",
+                                  "null"
+                                ],
+                                "default": null
+                              }
+                            },
+                            "required": [
+                              "id",
+                              "number",
+                              "statement",
+                              "options",
+                              "correctOption"
+                            ],
+                            "additionalProperties": false
+                          }
+                        }
+                      },
+                      "required": [
+                        "kind",
+                        "title",
+                        "questions"
+                      ],
+                      "additionalProperties": false
+                    }
+                  }
+                },
+                "required": [
+                  "id",
+                  "sourceFile",
+                  "date",
+                  "datePrecision",
+                  "docType",
+                  "sections"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/id"
+                  },
+                  "sourceFile": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/sourceFile"
+                  },
+                  "date": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/date"
+                  },
+                  "datePrecision": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/datePrecision"
+                  },
+                  "convocatoria": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/convocatoria"
+                  },
+                  "organo": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/organo"
+                  },
+                  "notes": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/notes"
+                  },
+                  "docType": {
+                    "type": "string",
+                    "const": "plantilla"
+                  },
+                  "answerKey": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "section": {
+                          "$ref": "#/properties/documents/items/anyOf/0/properties/sections/items/properties/kind"
+                        },
+                        "number": {
+                          "type": "integer",
+                          "exclusiveMinimum": 0
+                        },
+                        "correct": {
+                          "$ref": "#/properties/documents/items/anyOf/0/properties/sections/items/properties/questions/items/properties/options/items/properties/key"
+                        }
+                      },
+                      "required": [
+                        "section",
+                        "number",
+                        "correct"
+                      ],
+                      "additionalProperties": false
+                    }
+                  }
+                },
+                "required": [
+                  "id",
+                  "sourceFile",
+                  "date",
+                  "datePrecision",
+                  "docType",
+                  "answerKey"
+                ],
+                "additionalProperties": false
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "id": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/id"
+                  },
+                  "sourceFile": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/sourceFile"
+                  },
+                  "date": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/date"
+                  },
+                  "datePrecision": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/datePrecision"
+                  },
+                  "convocatoria": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/convocatoria"
+                  },
+                  "organo": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/organo"
+                  },
+                  "notes": {
+                    "$ref": "#/properties/documents/items/anyOf/0/properties/notes"
+                  },
+                  "docType": {
+                    "type": "string",
+                    "const": "resultados"
+                  },
+                  "summary": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "required": [
+                  "id",
+                  "sourceFile",
+                  "date",
+                  "datePrecision",
+                  "docType",
+                  "summary"
+                ],
+                "additionalProperties": false
+              }
+            ]
+          }
+        }
+      },
+      "required": [
+        "schemaVersion",
+        "generatedFrom",
+        "counts",
+        "documents"
+      ],
+      "additionalProperties": false,
+      "$schema": "http://json-schema.org/draft-07/schema#"
+    },
+    "BankQuestion": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sourceExamId": {
+          "type": "string",
+          "minLength": 1
+        },
+        "section": {
+          "type": "string",
+          "enum": [
+            "general",
+            "ingles",
+            "reserva"
+          ]
+        },
+        "date": {
+          "type": "string",
+          "pattern": "^\\d{4}-\\d{2}(-\\d{2})?$"
+        },
+        "statement": {
+          "type": "string",
+          "minLength": 1
+        },
+        "options": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "key": {
+                "type": "string",
+                "enum": [
+                  "a",
+                  "b",
+                  "c",
+                  "d"
+                ]
+              },
+              "text": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "key",
+              "text"
+            ],
+            "additionalProperties": false
+          },
+          "minItems": 2
+        },
+        "correctOption": {
+          "$ref": "#/properties/options/items/properties/key"
+        },
+        "explanation": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "sourceExamId",
+        "section",
+        "date",
+        "statement",
+        "options",
+        "correctOption",
+        "explanation"
+      ],
+      "additionalProperties": false,
+      "$schema": "http://json-schema.org/draft-07/schema#"
+    }
+  }
+}
