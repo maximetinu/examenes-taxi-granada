@@ -1,0 +1,22 @@
+{
+  "name": "examenes-taxi-granada-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "copy-data": "node scripts/copy-data.mjs",
+    "predev": "npm run copy-data",
+    "dev": "vite",
+    "prebuild": "npm run copy-data",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.9.1",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "preact": "^10.24.3"
+  }
+}

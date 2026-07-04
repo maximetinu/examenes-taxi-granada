@@ -137,9 +137,10 @@ export type Dataset = z.infer<typeof Dataset>;
 export const BankQuestion = z
   .object({
     id: z.string().min(1),
-    sourceExamId: z.string().min(1),
+    sourceExamId: z.string().min(1), // convocatoria representativa (la más reciente)
     section: SectionKind,
-    date: ExamDate,
+    /** Todas las convocatorias donde aparece la pregunta CON ESTA respuesta (desc). */
+    dates: z.array(ExamDate).min(1),
     statement: z.string().min(1),
     options: z.array(Option).min(2),
     correctOption: OptionKey,

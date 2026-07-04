@@ -51,19 +51,24 @@ const dataset = Dataset.parse({
 });
 writeFileSync("data/exams.json", JSON.stringify(dataset, null, 2) + "\n");
 
-// Banco plano de preguntas jugables (con deduplicado por contenido)
+// Banco plano de preguntas jugables.
+// Deduplicado CONSCIENTE DE LA RESPUESTA: misma pregunta + misma respuesta en varias
+// convocatorias -> una entrada con todas las fechas. Si la respuesta CAMBIA entre años
+// (cambio de normativa) -> entradas separadas, cada una con sus fechas.
 const norm = (s) => s.toLowerCase().replace(/\s+/g, " ").replace(/[^\wáéíóúñü ]/gi, "").trim();
-const keyOf = (q) => norm(q.statement) + "||" + q.options.map((o) => norm(o.text)).sort().join("|");
+const contentKey = (q) => norm(q.statement) + "||" + q.options.map((o) => norm(o.text)).sort().join("|");
+const answerKey = (q) => contentKey(q) + "##" + q.correctOption;
 
-const byKey = new Map(); // key -> primera BankQuestion (fecha más antigua)
+// group por (contenido+respuesta) -> { rep, dates:Set }
+const groups = new Map();
+// group por contenido (sin respuesta) -> Set de respuestas distintas (para detectar cambios)
+const answersByContent = new Map();
 let playableTotal = 0;
-let duplicatesRemoved = 0;
-const conflicts = []; // misma pregunta, distinta respuesta entre exámenes
 
-// Orden cronológico para quedarnos con la aparición más antigua
-const ordered = [...documents].sort((a, b) => a.date.localeCompare(b.date));
 // Documento truncado que es subconjunto de otro (mismas preguntas) -> fuera del banco
 const BANK_EXCLUDE = new Set(["2023-07-18-solo-general"]);
+// Orden cronológico ASC: así el "representante" acaba siendo la aparición más reciente
+const ordered = [...documents].sort((a, b) => a.date.localeCompare(b.date));
 for (const d of ordered) {
   if (d.docType !== "examen" && d.docType !== "examen-resuelto") continue;
   if (BANK_EXCLUDE.has(d.id)) continue;
@@ -73,38 +78,50 @@ for (const d of ordered) {
         q.correctOption !== null && q.statement.trim().length > 0 && q.options.length >= 2;
       if (!playable) continue;
       playableTotal++;
-      const entry = BankQuestion.parse({
-        id: q.id,
-        sourceExamId: d.id,
-        section: section.kind,
-        date: d.date,
-        statement: q.statement,
-        options: q.options,
-        correctOption: q.correctOption,
-        explanation: q.explanation ?? null,
-      });
-      const k = keyOf(q);
-      const existing = byKey.get(k);
-      if (!existing) {
-        byKey.set(k, entry);
+
+      const ck = contentKey(q);
+      if (!answersByContent.has(ck)) answersByContent.set(ck, new Set());
+      answersByContent.get(ck).add(q.correctOption);
+
+      const ak = answerKey(q);
+      const g = groups.get(ak);
+      if (!g) {
+        groups.set(ak, {
+          rep: { q, section: section.kind, examId: d.id },
+          dates: new Set([d.date]),
+        });
       } else {
-        duplicatesRemoved++;
-        if (existing.correctOption !== entry.correctOption) {
-          conflicts.push({ statement: entry.statement.slice(0, 80), a: existing.sourceExamId, b: entry.sourceExamId });
-        }
+        g.dates.add(d.date);
+        g.rep = { q, section: section.kind, examId: d.id }; // el más reciente (orden ASC)
       }
     }
   }
 }
 
-const bank = [...byKey.values()];
+const bank = [];
+for (const g of groups.values()) {
+  const { q, section, examId } = g.rep;
+  const dates = [...g.dates].sort((a, b) => b.localeCompare(a)); // desc
+  bank.push(
+    BankQuestion.parse({
+      id: q.id,
+      sourceExamId: examId,
+      section,
+      dates,
+      statement: q.statement,
+      options: q.options,
+      correctOption: q.correctOption,
+      explanation: q.explanation ?? null,
+    })
+  );
+}
+bank.sort((a, b) => b.dates[0].localeCompare(a.dates[0]) || a.id.localeCompare(b.id));
 writeFileSync("data/questions.json", JSON.stringify(bank, null, 2) + "\n");
+
+// Preguntas cuya respuesta correcta cambió entre convocatorias (útil: normativa cambiante)
+const changed = [...answersByContent.values()].filter((set) => set.size > 1).length;
 
 console.log(`\nOK. ${documents.length} documentos validados.`);
 console.log(`  data/exams.json     -> ${JSON.stringify(counts)}`);
-console.log(`  data/questions.json -> ${bank.length} preguntas únicas jugables`);
-console.log(`  (${playableTotal} jugables en total, ${duplicatesRemoved} duplicadas colapsadas)`);
-if (conflicts.length) {
-  console.log(`\n  ⚠ ${conflicts.length} pregunta(s) repetida(s) con respuesta DISTINTA entre exámenes:`);
-  for (const c of conflicts) console.log(`    "${c.statement}..."  ${c.a} vs ${c.b}`);
-}
+console.log(`  data/questions.json -> ${bank.length} preguntas jugables (de ${playableTotal} apariciones)`);
+console.log(`  ${playableTotal - bank.length} apariciones colapsadas; ${changed} pregunta(s) con respuesta que cambió entre años.`);

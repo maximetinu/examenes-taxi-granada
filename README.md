@@ -4,9 +4,22 @@ Recopilación de exámenes de aptitud para la obtención del permiso municipal d
 conductor/a de auto-taxi en el Área de Prestación Conjunta de Granada, **ingestados
 a JSON tipado y validado** para alimentar una web app de estudio.
 
+## App de estudio
+
+Web app estática (Preact + Vite, en `app/`) para practicar: examen con preguntas al
+azar y feedback, modo estudio con la respuesta marcada, repaso de falladas, filtros
+por sección y año, y marcador con progreso guardado en el navegador. Consume
+`data/questions.json`. Se despliega en **GitHub Pages** vía GitHub Actions en cada
+push a `main`: **https://maximetinu.github.io/examenes-taxi-granada/**
+
+```bash
+cd app && npm install && npm run dev   # desarrollo local
+```
+
 ## Estructura
 
 ```
+app/                  Web app de estudio (Preact + Vite + TypeScript)
 pdfs/                 Los 25 PDF originales (una convocatoria, como máx., por mes)
 extracted-text/       Texto de cada PDF (pdftotext / OCR) — etapa intermedia
 schema/
