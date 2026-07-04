@@ -136,7 +136,7 @@ export function App() {
 
       <footer class="foot">
         <span>
-          {questions?.length ?? 0} preguntas de convocatorias reales · datos abiertos
+          {questions?.length ?? 0} preguntas de convocatorias reales · datos públicos abiertos
         </span>
         <a
           href="https://github.com/maximetinu/examenes-taxi-granada"
