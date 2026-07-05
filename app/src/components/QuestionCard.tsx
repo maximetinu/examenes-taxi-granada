@@ -1,5 +1,6 @@
 import type { Mode, Option, OptionKey, Question } from "../types";
 import { SECTION_LABEL } from "../types";
+import { highlightMatches } from "../highlight";
 
 const LETTER: Record<number, string> = { 0: "A", 1: "B", 2: "C", 3: "D" };
 
@@ -10,6 +11,7 @@ export function QuestionCard({
   chosen,
   revealed,
   index,
+  highlight,
   onChoose,
 }: {
   question: Question;
@@ -18,8 +20,10 @@ export function QuestionCard({
   chosen: OptionKey | null;
   revealed: boolean;
   index?: number;
+  highlight?: string[];
   onChoose: (key: OptionKey) => void;
 }) {
+  const hl = highlight ?? [];
   const study = mode === "estudio";
   const locked = revealed || study;
   const answered = revealed && !study;
@@ -48,7 +52,7 @@ export function QuestionCard({
         </div>
       )}
 
-      <h2 class="card__statement">{question.statement}</h2>
+      <h2 class="card__statement">{highlightMatches(question.statement, hl)}</h2>
 
       <ul class="opts">
         {options.map((opt, i) => {
@@ -71,7 +75,7 @@ export function QuestionCard({
                 <span class="opt__letter" aria-hidden="true">
                   {LETTER[i]}
                 </span>
-                <span class="opt__text">{opt.text}</span>
+                <span class="opt__text">{highlightMatches(opt.text, hl)}</span>
                 {locked && isCorrect && (
                   <span class="opt__mark opt__mark--ok" aria-label="Correcta">
                     ✓

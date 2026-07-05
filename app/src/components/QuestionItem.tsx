@@ -9,11 +9,13 @@ export function QuestionItem({
   question,
   mode,
   index,
+  highlight,
   onResult,
 }: {
   question: Question;
   mode: Mode;
   index: number;
+  highlight?: string[];
   onResult: (id: string, correct: boolean) => void;
 }) {
   const study = mode === "estudio";
@@ -40,6 +42,7 @@ export function QuestionItem({
       chosen={chosen}
       revealed={revealed}
       index={index}
+      highlight={highlight}
       onChoose={choose}
     />
   );

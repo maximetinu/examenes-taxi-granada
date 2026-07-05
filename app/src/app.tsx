@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "preact/hooks";
 import type { Mode, Question } from "./types";
 import { Store } from "./store";
-import { availableYears, buildPool, shuffle, type Filters } from "./quiz";
+import { availableYears, buildPool, normalizeText, shuffle, type Filters } from "./quiz";
 import { Controls } from "./components/Controls";
 import { QuestionItem } from "./components/QuestionItem";
 import { Scoreboard } from "./components/Scoreboard";
@@ -59,6 +59,10 @@ export function App() {
   }
 
   const years = useMemo(() => availableYears(QUESTIONS), []);
+  const queryWords = useMemo(
+    () => normalizeText(filters.query).split(/\s+/).filter(Boolean),
+    [filters.query]
+  );
   const agg = useMemo(() => store.aggregate(), [store, statVersion]);
 
   const basePool = useMemo(() => buildPool(QUESTIONS, filters), [filters]);
@@ -178,7 +182,14 @@ export function App() {
         {orderedPool.length > 0 && (
           <div class="list" key={filterKey}>
             {orderedPool.map((q, i) => (
-              <QuestionItem key={q.id} question={q} mode={mode} index={i} onResult={onResult} />
+              <QuestionItem
+                key={q.id}
+                question={q}
+                mode={mode}
+                index={i}
+                highlight={queryWords}
+                onResult={onResult}
+              />
             ))}
           </div>
         )}

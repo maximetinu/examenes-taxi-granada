@@ -368,6 +368,12 @@ body {
 .search__clear:hover {
   color: var(--bone);
 }
+mark.hl {
+  background: color-mix(in srgb, var(--amber) 30%, transparent);
+  color: inherit;
+  border-radius: 3px;
+  padding: 0 1px;
+}
 
 /* ---------- Escenario ---------- */
 .stage {
