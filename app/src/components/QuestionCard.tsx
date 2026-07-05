@@ -1,5 +1,5 @@
 import type { Mode, Option, OptionKey, Question } from "../types";
-import { SECTION_LABEL, displayYears } from "../types";
+import { SECTION_LABEL } from "../types";
 
 const LETTER: Record<number, string> = { 0: "A", 1: "B", 2: "C", 3: "D" };
 
@@ -24,7 +24,7 @@ export function QuestionCard({
   const locked = revealed || study;
   const answered = revealed && !study;
   const correct = chosen === question.correctOption;
-  const ys = displayYears(question);
+  const repeated = question.dates.length > 1;
 
   return (
     <article class={`card${answered ? (correct ? " card--ok" : " card--no") : ""}`}>
@@ -32,19 +32,13 @@ export function QuestionCard({
         <span class="card__meta-left">
           {index != null && <span class="card__num">{index + 1}</span>}
           <span class="tag">{SECTION_LABEL[question.section]}</span>
-          {question.dates.length > 1 && (
-            <span
-              class="repeat"
-              title={`Ha caído ${question.dates.length} veces: ${question.dates.join(", ")}`}
-            >
-              ↻ {question.dates.length}×
-            </span>
-          )}
         </span>
-        <span class="card__src" title={question.dates.join(" · ")}>
-          {ys.length > 1 ? `Convocatorias ${ys.join(" · ")}` : `Convocatoria ${question.dates[0]}`}
+        <span class={`card__src${repeated ? " card__src--rep" : ""}`}>
+          {repeated ? `Ha caído ${question.dates.length} veces` : `Convocatoria ${question.dates[0]}`}
         </span>
       </header>
+
+      {repeated && <p class="card__reps">Convocatorias: {question.dates.join(" · ")}</p>}
 
       {answered && (
         <div class={`cardroof cardroof--${correct ? "ok" : "no"}`} role="status">

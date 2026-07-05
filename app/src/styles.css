@@ -317,15 +317,16 @@ body {
   color: var(--muted);
   min-width: 1.4em;
 }
-.repeat {
-  font-family: var(--font-mono);
-  font-size: 0.66rem;
-  letter-spacing: 0.04em;
+.card__src--rep {
   color: var(--amber);
-  border: 1px solid color-mix(in srgb, var(--amber) 45%, transparent);
-  border-radius: 999px;
-  padding: 2px 8px;
-  cursor: help;
+}
+.card__reps {
+  margin: -6px 0 14px;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  line-height: 1.4;
+  color: var(--muted);
+  overflow-wrap: anywhere;
 }
 
 /* Indicador compacto de resultado (la firma, por tarjeta) */
