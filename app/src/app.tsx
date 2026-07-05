@@ -26,7 +26,7 @@ export function App() {
   const [streak, setStreak] = useState(0);
   const [statVersion, setStatVersion] = useState(0);
   const [orderKey, setOrderKey] = useState(0);
-  const [sort, setSort] = useState<"recent" | "random">("recent");
+  const [sort, setSort] = useState<"recent" | "relevance" | "random">("recent");
 
   const years = useMemo(() => availableYears(QUESTIONS), []);
   const agg = useMemo(() => store.aggregate(), [store, statVersion]);
@@ -42,7 +42,16 @@ export function App() {
 
   const orderedPool = useMemo(() => {
     if (sort === "random") return shuffle(pool);
-    return pool;
+    if (sort === "relevance") {
+      // Relevancia = más repetidas primero; a igualdad, más reciente primero.
+      return [...pool].sort(
+        (a, b) =>
+          b.dates.length - a.dates.length ||
+          b.dates[0].localeCompare(a.dates[0]) ||
+          a.id.localeCompare(b.id)
+      );
+    }
+    return pool; // "recent": ya viene por fecha desc desde el banco
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [pool, sort, orderKey]);
 
@@ -92,9 +101,12 @@ export function App() {
             <select
               class="years__select"
               value={sort}
-              onChange={(e) => setSort((e.target as HTMLSelectElement).value as "recent" | "random")}
+              onChange={(e) =>
+                setSort((e.target as HTMLSelectElement).value as "recent" | "relevance" | "random")
+              }
             >
               <option value="recent">Recientes primero</option>
+              <option value="relevance">Relevancia (más repetidas)</option>
               <option value="random">Aleatorio</option>
             </select>
           </label>
