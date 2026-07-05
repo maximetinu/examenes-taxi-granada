@@ -103,8 +103,9 @@ body {
 /* ---------- Cabecera ---------- */
 .masthead {
   display: flex;
-  flex-direction: column;
-  gap: 16px;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
 }
 .brand {
   display: flex;
@@ -177,7 +178,8 @@ body {
 .board__cells {
   display: flex;
   flex: 1 1 auto;
-  gap: 18px;
+  flex-wrap: wrap;
+  gap: 14px 18px;
   min-width: 0;
 }
 .cell {
@@ -373,6 +375,133 @@ mark.hl {
   color: inherit;
   border-radius: 3px;
   padding: 0 1px;
+}
+
+/* ---------- Pestañas superiores ---------- */
+.tabs {
+  display: flex;
+  gap: 24px;
+  border-bottom: 1px solid var(--line);
+}
+.tabs__btn {
+  background: none;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  padding: 10px 2px;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--muted);
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+.tabs__btn.is-active {
+  color: var(--bone);
+  border-bottom-color: var(--amber);
+}
+.tabs__btn:hover:not(.is-active) {
+  color: var(--bone);
+}
+
+/* ---------- Exámenes: lista de convocatorias ---------- */
+.exams__intro {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  max-width: 62ch;
+}
+.exam-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 12px;
+}
+.exam-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  text-align: left;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 16px;
+  cursor: pointer;
+  transition: border-color 0.15s, transform 0.05s;
+}
+.exam-card:hover {
+  border-color: var(--amber);
+}
+.exam-card:active {
+  transform: translateY(1px);
+}
+.exam-card__date {
+  font-family: var(--font-mono);
+  font-size: 1.15rem;
+  color: var(--amber);
+}
+.exam-card__meta {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+.exam-card__go {
+  position: absolute;
+  top: 14px;
+  right: 15px;
+  color: var(--muted);
+  font-size: 1.1rem;
+}
+
+/* ---------- Exámenes: hacer un examen ---------- */
+.exam-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.exam-head__title {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+.exam-head__title strong {
+  font-family: var(--font-display);
+  font-size: 1.2rem;
+}
+.exam-head__org {
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+.seg--mini {
+  display: inline-flex;
+  width: auto;
+}
+.seg--mini .seg__btn {
+  padding: 7px 18px;
+  font-size: 0.85rem;
+}
+.exam-score {
+  margin-top: 2px;
+}
+.exam-note {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--muted);
+}
+.exam-sec {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.exam-sec__title {
+  margin: 4px 0 0;
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--amber);
 }
 
 /* ---------- Escenario ---------- */
@@ -701,11 +830,6 @@ mark.hl {
 }
 
 @media (min-width: 560px) {
-  .masthead {
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-  }
   .brand__name {
     font-size: 1.8rem;
   }

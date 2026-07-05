@@ -2,3 +2,4 @@
 node_modules/
 dist/
 app/src/questions.data.json
+app/src/exams.data.json

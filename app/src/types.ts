@@ -32,5 +32,25 @@ export function displayYears(q: Question): string[] {
 
 export type Mode = "quiz" | "estudio" | "falladas";
 
+// Examen concreto por convocatoria (data/exams-app.json)
+export interface ExamQuestion extends Question {
+  number: number;
+}
+export interface ExamSection {
+  kind: SectionKind;
+  title: string;
+  questions: ExamQuestion[];
+}
+export interface ExamDoc {
+  id: string;
+  date: string;
+  datePrecision: "day" | "month";
+  convocatoria: string | null;
+  organo: string | null;
+  total: number;
+  scorable: number;
+  sections: ExamSection[];
+}
+
 // Año a partir del cual se considera "reciente" (normativa vigente).
 export const RECENT_FROM = "2022";

@@ -118,6 +118,47 @@ for (const g of groups.values()) {
 bank.sort((a, b) => b.dates[0].localeCompare(a.dates[0]) || a.id.localeCompare(b.id));
 writeFileSync("data/questions.json", JSON.stringify(bank, null, 2) + "\n");
 
+// ---- Exámenes por convocatoria, en orden (para hacerlos completos en la app) ----
+// Solo los "resueltos" (con respuestas), excluyendo el truncado solo-general.
+const appExams = [];
+for (const d of documents) {
+  if (d.docType !== "examen-resuelto") continue;
+  if (d.id === "2023-07-18-solo-general") continue;
+  const sections = d.sections
+    .map((s) => ({
+      kind: s.kind,
+      title: s.title,
+      questions: s.questions
+        .filter((q) => q.statement.trim().length > 0 && q.options.length >= 2)
+        .map((q) => ({
+          id: q.id,
+          sourceExamId: d.id,
+          section: s.kind,
+          dates: [d.date],
+          number: q.number,
+          statement: q.statement,
+          options: q.options,
+          correctOption: q.correctOption,
+          explanation: q.explanation ?? null,
+        })),
+    }))
+    .filter((s) => s.questions.length > 0);
+  const all = sections.flatMap((s) => s.questions);
+  if (all.length === 0) continue;
+  appExams.push({
+    id: d.id,
+    date: d.date,
+    datePrecision: d.datePrecision,
+    convocatoria: d.convocatoria ?? null,
+    organo: d.organo ?? null,
+    total: all.length,
+    scorable: all.filter((q) => q.correctOption !== null).length,
+    sections,
+  });
+}
+appExams.sort((a, b) => b.date.localeCompare(a.date));
+writeFileSync("data/exams-app.json", JSON.stringify(appExams, null, 2) + "\n");
+
 // Preguntas cuya respuesta correcta cambió entre convocatorias (útil: normativa cambiante)
 const changed = [...answersByContent.values()].filter((set) => set.size > 1).length;
 

@@ -10,21 +10,23 @@ export function QuestionItem({
   mode,
   index,
   highlight,
+  shuffleOptions = true,
   onResult,
 }: {
   question: Question;
   mode: Mode;
   index: number;
   highlight?: string[];
+  shuffleOptions?: boolean;
   onResult: (id: string, correct: boolean) => void;
 }) {
   const study = mode === "estudio";
   const [chosen, setChosen] = useState<OptionKey | null>(null);
   const [revealed, setRevealed] = useState(study);
-  // Opciones barajadas una sola vez por pregunta (no se re-barajan al re-renderizar)
+  // Opciones (barajadas una sola vez, salvo que se pida orden original)
   const options = useMemo(
-    () => (study ? question.options : shuffledOptions(question)),
-    [question.id, study]
+    () => (study || !shuffleOptions ? question.options : shuffledOptions(question)),
+    [question.id, study, shuffleOptions]
   );
 
   function choose(key: OptionKey) {
