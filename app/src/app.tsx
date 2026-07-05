@@ -30,6 +30,7 @@ export function App() {
   const [filters, setFilters] = useState<Filters>({
     sections: new Set(ALL_SECTIONS),
     year: "recent",
+    query: "",
   });
   const [streak, setStreak] = useState(0);
   const [statVersion, setStatVersion] = useState(0);

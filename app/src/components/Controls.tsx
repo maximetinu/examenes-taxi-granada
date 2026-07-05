@@ -52,6 +52,27 @@ export function Controls({
         ))}
       </div>
 
+      <div class="search">
+        <span class="search__icon" aria-hidden="true">⌕</span>
+        <input
+          class="search__input"
+          type="search"
+          placeholder="Buscar en enunciados y respuestas…"
+          value={filters.query}
+          onInput={(e) => setFilters({ ...filters, query: (e.target as HTMLInputElement).value })}
+          aria-label="Buscar preguntas"
+        />
+        {filters.query && (
+          <button
+            class="search__clear"
+            onClick={() => setFilters({ ...filters, query: "" })}
+            aria-label="Limpiar búsqueda"
+          >
+            ×
+          </button>
+        )}
+      </div>
+
       <div class="filters">
         <div class="chips" aria-label="Secciones">
           {SECTIONS.map((s) => (

@@ -311,6 +311,64 @@ body {
   letter-spacing: 0.02em;
 }
 
+/* ---------- Búsqueda ---------- */
+.search {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.search__icon {
+  position: absolute;
+  left: 14px;
+  font-size: 1.15rem;
+  color: var(--muted);
+  pointer-events: none;
+}
+.search__input {
+  width: 100%;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  color: var(--bone);
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 11px 40px 11px 40px;
+  transition: border-color 0.15s;
+}
+.search__input::placeholder {
+  color: var(--muted);
+}
+.search__input:focus {
+  outline: none;
+  border-color: var(--amber);
+}
+.search__input:focus-visible {
+  outline: 2px solid var(--amber);
+  outline-offset: 2px;
+}
+.search__input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+}
+.search__clear {
+  position: absolute;
+  right: 8px;
+  width: 26px;
+  height: 26px;
+  display: grid;
+  place-items: center;
+  border: 0;
+  background: transparent;
+  color: var(--muted);
+  font-size: 1.35rem;
+  line-height: 1;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.search__clear:hover {
+  color: var(--bone);
+}
+
 /* ---------- Escenario ---------- */
 .stage {
   display: flex;

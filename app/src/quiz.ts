@@ -4,6 +4,15 @@ import { RECENT_FROM } from "./types";
 export interface Filters {
   sections: Set<SectionKind>;
   year: string; // "recent" | "all" | "YYYY"
+  query: string; // texto de búsqueda libre
+}
+
+/** Minúsculas y sin acentos, para búsquedas tolerantes. */
+export function normalizeText(s: string): string {
+  return s
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "");
 }
 
 /** Fisher-Yates: baraja una copia del array. */
@@ -35,10 +44,15 @@ export function buildPool(
   filters: Filters,
   failedIds?: ReadonlySet<string>
 ): Question[] {
+  const words = normalizeText(filters.query).split(/\s+/).filter(Boolean);
   return questions.filter((q) => {
     if (!filters.sections.has(q.section)) return false;
     if (!matchesYear(q, filters.year)) return false;
     if (failedIds && !failedIds.has(q.id)) return false;
+    if (words.length) {
+      const hay = normalizeText(q.statement + " " + q.options.map((o) => o.text).join(" "));
+      if (!words.every((w) => hay.includes(w))) return false;
+    }
     return true;
   });
 }
