@@ -1,4 +1,4 @@
-import { useMemo, useRef, useState } from "preact/hooks";
+import { useEffect, useMemo, useRef, useState } from "preact/hooks";
 import type { Mode, Question } from "./types";
 import { Store } from "./store";
 import { availableYears, buildPool, shuffle, type Filters } from "./quiz";
@@ -12,6 +12,14 @@ import questionsData from "./questions.data.json";
 const QUESTIONS = questionsData as unknown as Question[];
 
 const ALL_SECTIONS = new Set(["general", "ingles", "reserva"] as const);
+
+type Theme = "auto" | "light" | "dark";
+const THEME_CYCLE: Theme[] = ["auto", "light", "dark"];
+const THEME_META: Record<Theme, { icon: string; label: string }> = {
+  auto: { icon: "◐", label: "Auto" },
+  light: { icon: "☀", label: "Claro" },
+  dark: { icon: "☾", label: "Oscuro" },
+};
 
 export function App() {
   const storeRef = useRef<Store | null>(null);
@@ -27,6 +35,27 @@ export function App() {
   const [statVersion, setStatVersion] = useState(0);
   const [orderKey, setOrderKey] = useState(0);
   const [sort, setSort] = useState<"recent" | "relevance" | "random">("recent");
+  const [theme, setTheme] = useState<Theme>(() => {
+    try {
+      const t = localStorage.getItem("taximetro.theme");
+      return t === "light" || t === "dark" ? t : "auto";
+    } catch {
+      return "auto";
+    }
+  });
+
+  useEffect(() => {
+    document.documentElement.setAttribute("data-theme", theme);
+    try {
+      localStorage.setItem("taximetro.theme", theme);
+    } catch {
+      /* almacenamiento no disponible */
+    }
+  }, [theme]);
+
+  function cycleTheme() {
+    setTheme((t) => THEME_CYCLE[(THEME_CYCLE.indexOf(t) + 1) % THEME_CYCLE.length]);
+  }
 
   const years = useMemo(() => availableYears(QUESTIONS), []);
   const agg = useMemo(() => store.aggregate(), [store, statVersion]);
@@ -82,7 +111,20 @@ export function App() {
             <p class="brand__sub">Examen del permiso de auto-taxi · Granada</p>
           </div>
         </div>
-        <Scoreboard agg={agg} streak={streak} onReset={resetProgress} />
+        <div class="masthead__right">
+          <button
+            class="theme-toggle"
+            onClick={cycleTheme}
+            title="Cambiar tema: auto / claro / oscuro"
+            aria-label={`Tema: ${THEME_META[theme].label}. Pulsa para cambiar.`}
+          >
+            <span class="theme-toggle__icon" aria-hidden="true">
+              {THEME_META[theme].icon}
+            </span>
+            {THEME_META[theme].label}
+          </button>
+          <Scoreboard agg={agg} streak={streak} onReset={resetProgress} />
+        </div>
       </header>
 
       <Controls

@@ -26,9 +26,28 @@
   --shadow: 0 18px 40px -24px rgba(0, 0, 0, 0.7);
 }
 
+/* Tema CLARO (día: recibo de taxímetro sobre papel).
+   Se aplica cuando el usuario lo fija explícitamente... */
+:root[data-theme="light"] {
+  --night: #eae6dc;
+  --panel: #fbfaf6;
+  --panel-2: #f2efe7;
+  --inset: #23242b;
+  --line: #ddd7ca;
+  --bone: #1b1c22;
+  --muted: #6b6e79;
+  --amber: #b56f00;
+  --amber-soft: rgba(181, 111, 0, 0.12);
+  --libre: #1c9c54;
+  --libre-soft: rgba(28, 156, 84, 0.14);
+  --ocupado: #c93b40;
+  --ocupado-soft: rgba(201, 59, 64, 0.12);
+  --shadow: 0 18px 40px -28px rgba(60, 50, 30, 0.4);
+  color-scheme: light;
+}
+/* ...o cuando está en "auto" (o sin fijar) y el sistema es claro. */
 @media (prefers-color-scheme: light) {
-  :root {
-    /* Día: recibo de taxímetro sobre papel */
+  :root:not([data-theme="light"]):not([data-theme="dark"]) {
     --night: #eae6dc;
     --panel: #fbfaf6;
     --panel-2: #f2efe7;
@@ -43,7 +62,11 @@
     --ocupado: #c93b40;
     --ocupado-soft: rgba(201, 59, 64, 0.12);
     --shadow: 0 18px 40px -28px rgba(60, 50, 30, 0.4);
+    color-scheme: light;
   }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
 }
 
 * {
@@ -103,6 +126,37 @@ body {
   color: var(--muted);
   font-size: 0.82rem;
   letter-spacing: 0.01em;
+}
+.masthead__right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+}
+.masthead__right .board {
+  width: 100%;
+}
+.theme-toggle {
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 6px 12px;
+  cursor: pointer;
+  transition: color 0.15s, border-color 0.15s;
+}
+.theme-toggle:hover {
+  color: var(--bone);
+  border-color: var(--muted);
+}
+.theme-toggle__icon {
+  font-size: 0.95rem;
+  line-height: 1;
 }
 
 /* ---------- Marcador (taxímetro) ---------- */
